@@ -1,0 +1,13 @@
+alelo	classe	n_sitios	n_hap	painel	n_painel	post_mediana
+SLICK1	so sinonimas	24	5	NDAMA	4	0.4501
+SLICK1	so nao sinonimas	32	5	NDAMA	4	0.2843
+SLICK1	so introns	1360	5	EUR_TAURINE	2	0.9997
+SLICK1	gene inteiro	39137	5	EUR_TAURINE	3	1.0000
+SLICK2	so sinonimas	24	24	EUR_TAURINE	24	0.3807
+SLICK2	so nao sinonimas	32	24	EUR_TAURINE	19	0.4996
+SLICK2	so introns	1360	24	NDAMA	11	1.0000
+SLICK2	gene inteiro	39137	24	CRIOLLO	13	1.0000
+SLICK3_cand	so sinonimas	24	2	EUR_TAURINE	2	0.4847
+SLICK3_cand	so nao sinonimas	32	2	EUR_TAURINE	1	0.7330
+SLICK3_cand	so introns	1360	2	CRIOLLO	2	1.0000
+SLICK3_cand	gene inteiro	39137	2	CRIOLLO	2	1.0000

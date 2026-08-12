@@ -1,0 +1,12 @@
+# Python dependencies for the calculation and figure scripts.
+# Tested with Python 3.10+ (conda/miniforge recommended).
+numpy>=1.23
+scipy>=1.9
+pandas>=1.5
+matplotlib>=3.6
+pyyaml>=6.0
+
+# External command-line tools invoked by the shell pipelines (install
+# separately, e.g. via conda-forge/bioconda; not pip-installable):
+#   bcftools, samtools, bwa, bbmap (bbduk), aria2c, plink/plink2,
+#   beagle (Java), admixture

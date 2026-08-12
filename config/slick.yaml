@@ -1,0 +1,68 @@
+# slick.yaml — PRLR / slick locus configuration for the hap_ancestry engine.
+#
+# This is the ONLY locus-specific file. The engine (scripts/lib/hap_ancestry)
+# is generic; for another gene/project, copy this YAML and adjust the fields.
+# It reproduces the behaviour of the original hard-coded scripts: SLICK1 -> N'Dama
+# at coding classes, SLICK2 -> European taurine.
+
+locus_name: PRLR
+allele_label: "slick allele"
+
+# Focal sites (ARS-UCD1.2/1.3). ORDER is preserved in figures and RNG consumption.
+focal_sites:
+  - {name: SLICK1, pos: 39099213}   # c.1382del  (rs517047387, exon 11)
+  - {name: SLICK2, pos: 39099321}   # c.1489C>T
+  - {name: SLICK3_cand, pos: 39099226}   # C>A, p.Ser465Ter
+    # SLICK3 candidate: the C->A change matches the primary supplementary table of
+    # Gebeyehu et al. 2025; observed in two Limonero animals, the same breed as
+    # Porto-Neto et al. 2018 (original describer). Only 2 carriers (small n, even
+    # smaller than SLICK1=5 / SLICK2=24 haplotypes).
+    #
+    # NOTE: a separate candidate at 39,099,228 (A>T, p.Lys466Ter) was tested against
+    # the full geographic panel and appeared in 129 haplotypes / 113 animals across
+    # European taurine, Boran, N'Dama and Ogaden — a common, non-breed-specific
+    # variant — and was therefore excluded by the panel-specificity test (see
+    # scripts/specificity). It is not included as a focal site here.
+
+# Candidate panels for ATTRIBUTION. ORDER matters: it is the argmax tie-break.
+# ZEBU is deliberately left out (not an origin panel for the taurine haplotype).
+panels: [EUR_TAURINE, NDAMA, ANKOLE, BORAN, OGADEN, CRIOLLO]
+
+# Per-panel style (colour + label) for the network. The order of this block is the
+# node assembly order in the network — kept identical to the original script.
+panel_style:
+  NDAMA:       {color: "#1b7837", label: "N'Dama"}
+  EUR_TAURINE: {color: "#2166ac", label: "European taurine"}
+  CRIOLLO:     {color: "#b2abd2", label: "Criollo"}
+  ANKOLE:      {color: "#8c6d31", label: "Ankole"}
+  BORAN:       {color: "#d6604d", label: "Boran"}
+  OGADEN:      {color: "#4d4d4d", label: "Ogaden"}
+
+thresholds:
+  eps: 1.0e-4
+  min_hap_panel: 8     # minimum haplotypes for a panel to count
+  min_sites_class: 3   # minimum called sites to classify a haplotype
+
+# Consequence (bcftools csq) -> class map. Tokens outside the map (UTR, splice,
+# unannotated) are ignored on purpose.
+consequence_classes:
+  synonymous: syn
+  missense: nonsyn
+  stop_gained: nonsyn
+  stop_lost: nonsyn
+  start_lost: nonsyn
+  frameshift: nonsyn
+  inframe_deletion: nonsyn
+  inframe_insertion: nonsyn
+  intron: intron
+
+# Reported classes (label -> selection). "*" = whole gene (all sites). ORDER = the
+# bootstrap order (syn, nonsyn, intron, gene), so the RNG reproduces the baseline.
+class_report:
+  - {label: "synonymous only",     of: [syn]}
+  - {label: "non-synonymous only", of: [nonsyn]}
+  - {label: "introns only",        of: [intron]}
+  - {label: "whole gene",          of: "*"}
+
+# Classes that count as "coding" for the haplotype network.
+coding_classes: [syn, nonsyn]

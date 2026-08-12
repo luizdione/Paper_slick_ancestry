@@ -1,0 +1,6 @@
+# Data placeholder.
+#
+# Heavy inputs (VCFs, BAMs, PLINK binaries, reference genome) are NOT
+# versioned here — they are reproduced by the scripts from public sources
+# (see README.md, "Data provenance"). Point the scripts at your local data
+# root with the SLICK_DATA_DIR environment variable (defaults to ./data).

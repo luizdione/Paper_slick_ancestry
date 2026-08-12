@@ -1,0 +1,54 @@
+# =====================================================================
+#  Reproduction repository — calculation code only.
+#  ALLOWLIST strategy: ignore everything by default, then re-allow only
+#  the code, curated tables and figures. Large data are reproduced by the
+#  scripts, not versioned here.
+# =====================================================================
+
+# 1) Ignore everything at the root by default
+/*
+
+# 2) Re-allow only what should be published
+!/.gitignore
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/environment.yml
+!/scripts/
+!/config/
+!/tables/
+!/figures/
+!/data/
+
+# 3) Inside data/: keep only the placeholder (data reproduce via scripts)
+/data/*
+!/data/.gitkeep
+
+# 4) Hygiene inside allowed folders
+**/__pycache__/
+**/*.py[cod]
+**/.ipynb_checkpoints/
+**/.Rhistory
+**/.RData
+**/.Rproj.user/
+**/*.Rproj
+
+# 5) Large bioinformatics artifacts (reproduce via scripts)
+**/*.vcf
+**/*.vcf.gz
+**/*.bam
+**/*.bai
+**/*.bed.gz
+**/*.fa
+**/*.fasta
+**/*.fai
+**/*.frq
+**/*.frq.strat
+**/*.raw
+
+# 6) OS / editors
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
+**/.vscode/
+**/.idea/
