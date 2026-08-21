@@ -1,0 +1,133 @@
+raw_pattern	match_type	canonical_breed	ancestry_group	subtype	confidence	source_note
+# ancestry_group values: african_taurine | african_zebu | european_taurine | asian_indicine | east_asian_taurine | iberian_criollo | ambiguous_geographic | unresolved
+# match_type: exact (whole string, case-insensitive) | word (word-boundary substring) | prefix (alias prefix)
+# SEED codebook (De-Melo) — obscure/African-zebu calls to be verified by the curation workflow before use as reference (regra #1).
+# ---- European taurine ----
+holstein	word	Holstein	european_taurine	NW European dairy	high	well-known
+friesian	word	Holstein-Friesian	european_taurine	NW European dairy	high	well-known
+jersey	word	Jersey	european_taurine	Channel Island dairy	high	well-known
+angus	word	Angus	european_taurine	British beef	high	well-known
+hereford	word	Hereford	european_taurine	British beef	high	well-known
+shorthorn	word	Shorthorn	european_taurine	British	high	well-known
+limousin	word	Limousin	european_taurine	French beef	high	well-known
+charolais	word	Charolais	european_taurine	French beef	high	well-known
+simmental	word	Simmental	european_taurine	Alpine dual	high	well-known
+fleckvieh	word	Fleckvieh	european_taurine	Simmental-type	high	well-known
+gelbvieh	word	Gelbvieh	european_taurine	German	high	well-known
+brown swiss	word	Brown Swiss	european_taurine	Alpine dairy	high	well-known
+braunvieh	word	Original Braunvieh	european_taurine	Alpine dairy	high	Original Braunvieh = Swiss Braunvieh
+belgian blue	exact	Belgian Blue	european_taurine	Belgian beef	high	spelling variant
+belgium blue	exact	Belgian Blue	european_taurine	Belgian beef	high	spelling variant (Belgium Blue)
+belgian	word	Belgian Blue	european_taurine	Belgian beef	medium	adjective-only fallback
+salers	exact	Salers	european_taurine	French	high	French mountain breed
+romagnola	exact	Romagnola	european_taurine	Italian Podolian	high	Italian
+murray grey	exact	Murray Grey	european_taurine	Australian (Angus x Shorthorn)	high	Australian, taurine-derived
+illawarra	exact	Illawarra	european_taurine	Australian dairy (Shorthorn-derived)	high	Australian
+finncattle	word	Finncattle	european_taurine	Nordic native	high	Finnish native taurine
+guernsey	word	Guernsey	european_taurine	Channel Island dairy	high	well-known
+ayrshire	word	Ayrshire	european_taurine	Scottish dairy	high	well-known
+montbeliard	word	Montbeliarde	european_taurine	French dairy	high	well-known
+normande	word	Normande	european_taurine	French dual	high	well-known
+highland	word	Highland	european_taurine	Scottish	high	well-known
+wagyu	word	Wagyu	east_asian_taurine	Japanese	high	Japanese taurine (NOT European)
+# ---- African taurine (Bos taurus, no/low indicine) ----
+n'dama	word	N'Dama	african_taurine	West African taurine (trypanotolerant)	high	SLICK1 origin reference
+ndama	word	N'Dama	african_taurine	West African taurine	high	spelling variant
+muturu	word	Muturu	african_taurine	West African dwarf taurine (Nigeria)	high	"Mututu" misspelling of Muturu
+mututu	exact	Muturu	african_taurine	West African dwarf taurine (Nigeria)	medium	likely misspelling of Muturu — verify
+namchi	exact	Namchi	african_taurine	West African taurine (Cameroon/Chad)	medium	rare; verify
+kapsiki	exact	Kapsiki	african_taurine	West African taurine (Cameroon)	medium	rare; verify
+baoule	word	Baoule	african_taurine	West African taurine	high	Ivory Coast taurine
+somba	word	Somba	african_taurine	West African taurine	high	Benin/Togo taurine
+sheko	word	Sheko	african_taurine	Ethiopian taurine (last African humpless)	high	Ethiopian taurine remnant
+# ---- African zebu / Sanga (indicine-admixed; geographically African) ----
+boran	word	Boran	african_zebu	East African zebu	high	incl. "EthiopianBoran"
+zebu	word	Zebu (African)	african_zebu	African zebu (generic)	medium	generic
+ankole	word	Ankole	african_sanga	Ankole-Watusi Sanga	high	Great Lakes Sanga (Kim2020: ~53% taurine)
+ogaden	word	Ogaden	african_zebu	Ethiopian/Somali zebu	high	East African zebu
+kenana	word	Kenana	african_zebu	Sudanese zebu	high	Sudan
+butana	word	Butana	african_zebu	Sudanese zebu	high	Sudan
+afar	exact	Afar	african_sanga	Danakil Sanga (Horn of Africa)	high	VERIFIED: Sanga, not zebu (Kim2020 NatGen; ILRI/DAGRIS)
+horro	exact	Horro	african_sanga	Ethiopian Zenga (Sanga x zebu)	high	VERIFIED: Zenga (DAGRIS; Kim2020 taurine-trypanotol. hap)
+arsi	exact	Arsi	african_zebu	Ethiopian zebu (Arsi/Oromia)	high	VERIFIED AFH zebu (Jang2021 BMC Genomics, PRJNA698721)
+bale	exact	Bale	african_zebu	Ethiopian zebu (Bale Mts)	high	VERIFIED AFH zebu (Jang2021, PRJNA698721)
+goffa	exact	Goffa	african_zebu	Small East African Zebu (Gamo-Gofa)	high	VERIFIED zebu (Kim2020; breed atlas)
+semien	exact	Semien	african_zebu	Ethiopian highland zebu (Simien)	medium	VERIFIED zebu (Front Genet 2022 PMC9780680)
+mursi	exact	Mursi	african_zebu	Small East African Zebu (Omo)	medium	zebu BUT taurine-elevated 35.9% (Kim2020) — QC flag if indicine-only ref
+bagaria	exact	Bagaria	african_zebu	Ethiopian AFH zebu	high	VERIFIED AFH zebu (Jang2021, PRJNA698721)
+barka	exact	Barka	african_zebu	Ethiopian/Eritrean zebu (Barka valley)	high	VERIFIED zebu (Jang2021/Kim2020)
+fogera	exact	Fogera	african_sanga	Ethiopian Zenga (Lake Tana)	medium	VERIFIED: Zenga/Sanga, not pure zebu (Jang2021; DAGRIS/FAO)
+tuli	word	Tuli	african_sanga	Southern African Sanga	high	Sanga (Zimbabwe)
+afrikaner	word	Afrikaner	african_sanga	Southern African Sanga	high	Sanga
+sanga	word	Sanga	african_sanga	African Sanga (generic)	medium	generic taurine x zebu hybrid
+white fulani	exact	White Fulani	african_zebu	West African zebu (Fulani/Bunaji)	high	West African zebu
+red fulani	exact	Red Fulani	african_zebu	West African zebu (Fulani)	high	FIX: NOT European (substring 'red' trap)
+gudali	exact	Gudali	african_zebu	West African zebu (Cameroon/Nigeria)	medium	West African zebu — verify
+# ---- Asian indicine (Bos indicus) ----
+brahman	word	Brahman	asian_indicine	American Zebu (Indian-derived)	high	well-known
+nelore	word	Nelore	asian_indicine	Indian zebu (via Brazil)	high	well-known
+gir	word	Gir	asian_indicine	Indian zebu	high	well-known
+sahiwal	word	Sahiwal	asian_indicine	Indian/Pakistani zebu	high	well-known
+deoni	exact	Deoni	asian_indicine	Indian zebu (Deccan)	high	Indian dual-purpose zebu
+# ---- East Asian / Turano-Mongolic taurine ----
+mongolian	word	Mongolian	east_asian_taurine	Turano-Mongolic	high	East Asian taurine
+yakut	word	Yakutian	east_asian_taurine	Turano-Mongolic (Siberia)	high	Siberian native taurine
+kholmogor	word	Kholmogory	european_taurine	Russian dairy (Holstein-influenced)	medium	NW-Russian; European-leaning — verify
+# ---- Ambiguous: country label, NOT a breed ----
+ireland	exact	(Ireland)	ambiguous_geographic	country label only	low	NOT a breed — resolve by ENA title/study or genetics
+canada	exact	(Canada)	ambiguous_geographic	country label only	low	NOT a breed — resolve by ENA title/study or genetics
+# ---- Generic organism-level (residue) ----
+bos indicus	word	(Bos indicus)	asian_indicine	organism-level only	low	coarse indicine signal only
+bos taurus	word	(Bos taurus)	unresolved	organism-level only	low	taurine but breed unknown
+model organism	word	(generic)	unresolved	no breed in source	low	U. Missouri generic title
+missing	exact	(missing)	unresolved	no breed in source	low	source MISSING
+# ---- Iberian taurine (central para 8B LRT ibérico) ----
+asturiana	word	Asturiana	iberian_taurine	Iberian (Asturias)	high	Asturiana de los Valles/Montaña
+pajuna	word	Pajuna	iberian_taurine	Iberian (Andalusia)	high	Iberian primitive
+sayaguesa	word	Sayaguesa	iberian_taurine	Iberian (Zamora)	high	Iberian
+retinta	word	Retinta	iberian_taurine	Iberian (SW Spain)	high	Iberian
+berrenda	word	Berrenda	iberian_taurine	Iberian	high	Berrenda en Negro/Colorado
+lidia	word	Lidia	iberian_taurine	Iberian fighting	high	Toro de Lidia
+mirandesa	word	Mirandesa	iberian_taurine	Iberian (Portugal)	high	Portuguese
+maronesa	word	Maronesa	iberian_taurine	Iberian (Portugal)	high	Portuguese
+barrosa	word	Barrosa	iberian_taurine	Iberian (Portugal)	high	Portuguese
+alentejana	word	Alentejana	iberian_taurine	Iberian (Portugal)	high	Portuguese
+mertolenga	word	Mertolenga	iberian_taurine	Iberian (Portugal)	high	Portuguese
+pirenaica	word	Pirenaica	iberian_taurine	Iberian (Pyrenees)	high	Basque/Pyrenean
+tudanca	word	Tudanca	iberian_taurine	Iberian (Cantabria)	high	Iberian
+morucha	word	Morucha	iberian_taurine	Iberian (Salamanca)	high	Iberian
+avilena	word	Avileña	iberian_taurine	Iberian (Avila)	high	Avileña-Negra Iberica
+avileña	word	Avileña	iberian_taurine	Iberian (Avila)	high	accent variant
+sardo modicana	word	Sardo-Modicana	iberian_taurine	Sardinian Podolian	medium	Mediterranean Podolian
+menorquina	word	Menorquina	iberian_taurine	Balearic	medium	Iberian island
+# ---- More European taurine (Alpine / British / Nordic) ----
+tyrolean grey	word	Tyrolean Grey	european_taurine	Alpine (Tyrol)	high	= Tiroler Grauvieh
+tiroler grauvieh	word	Tyrolean Grey	european_taurine	Alpine (Tyrol)	high	German name of Tyrolean Grey
+grauvieh	word	Tyrolean Grey	european_taurine	Alpine	medium	Grauvieh
+chianina	word	Chianina	european_taurine	Italian Podolian	high	Italian
+pustertaler	word	Pustertaler Sprinzen	european_taurine	Alpine	high	Alpine colour-sided
+sprinzen	word	Pustertaler Sprinzen	european_taurine	Alpine	medium	Sprinzen
+evolene	word	Evolène	european_taurine	Swiss Alpine	high	Swiss
+evolène	word	Evolène	european_taurine	Swiss Alpine	high	accent variant
+eringer	word	Eringer	european_taurine	Swiss (Hérens)	high	Swiss
+herens	word	Hérens	european_taurine	Swiss Alpine	high	Hérens/Eringer
+valdostana	word	Valdostana	european_taurine	Alpine (Aosta)	high	Italian Alpine
+grigio alpina	word	Grigio Alpina	european_taurine	Alpine	high	Italian Grey Alpine
+british white	exact	British White	european_taurine	British	high	British park cattle
+irish moiled	word	Irish Moiled	european_taurine	Irish	high	Irish
+gloucester	word	Gloucester	european_taurine	British	high	British
+danish red	word	Danish Red	european_taurine	Nordic dairy	high	NOT the 'red' substring trap
+tyrol	word	Tyrolean Grey	european_taurine	Alpine	low	weak fallback
+piedmontese	word	Piedmontese	european_taurine	Italian	high	Piemontese
+piemontese	word	Piedmontese	european_taurine	Italian	high	Italian spelling
+marchigiana	word	Marchigiana	european_taurine	Italian Podolian	high	Italian
+maremmana	word	Maremmana	european_taurine	Italian Podolian	high	Italian
+podolica	word	Podolica	european_taurine	Italian Podolian	high	Italian
+# ---- More African taurine ----
+gourounsi	word	Gourounsi	african_taurine	West African taurine (Burkina Faso)	high	= Lobi; confirmed by study (Senegal/Burkina)
+lobi	word	Lobi	african_taurine	West African taurine	high	Lobi/Gourounsi
+lagune	word	Lagune	african_taurine	West African taurine	high	Lagoon cattle
+lagoon	word	Lagune	african_taurine	West African taurine	medium	English name
+kuri	word	Kuri	african_taurine	Lake Chad taurine	high	Kuri
+# ---- East Asian / other ----
+hanwoo	word	Hanwoo	east_asian_taurine	Korean	high	Korean taurine
