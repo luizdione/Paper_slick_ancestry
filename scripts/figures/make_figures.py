@@ -1,24 +1,23 @@
 # -*- coding: utf-8 -*-
-"""Figuras 1-4, a partir das saidas de analise copiadas em `tables/derived/`.
+"""Figuras (2026-10-26). Substitui as cinco figuras da versao Animal Genetics.
 
-  Figura 1  O locus PRLR e os seis alelos slick publicados: modelo do gene, os alelos no
-            exon terminal e o receptor truncado.
-  Figura 2  Validacao da ancestralidade local (RFMix): simulacao interna por painel nas
-            configuracoes de 3 e 4 vias, controles por omissao, controle positivo de
-            mistura e tamanho das janelas.
-  Figura 3  Dependencia do exon 2: frequencia da variante por painel, contribuicao
-            acumulada dos sitios, atribuicao sem o par do exon 2 e estabilidade.
-  Figura 4  Ancestralidade local em 3 vias ao longo da janela (portadores e Criollo nao
-            portadores), distancia ao vizinho mais proximo e chamada por configuracao.
+Diagnostico que motivou a reconstrucao (auditoria do autor + inventario de 2026-10-20): das
+cinco figuras antigas, so a rede e o ranking de ancestralidade tinham dado denso. A Fig. 2 era a
+Tabela 2 desenhada; a Fig. 1b eram 4 numeros; a 1c tinha 18 barras, 15 delas zero; a Fig. 5
+eram 3 numeros ja escritos no texto. Aqui cada figura carrega dado que uma tabela nao mostra.
 
-Todo numero vem de `tables/derived/`, nunca digitado aqui, exceto as coordenadas e os
-dominios da Figura 1, que sao anotacao e estao citados na legenda.
+  Figura 1  O locus e os seis alelos publicados (funde as antigas 1a e 5; acrescenta SLICK4-6).
+  Figura 2  Rede de haplotipos codificantes, fundo UNICO, quatro alelos e o painel iberico.
+  Figura 3  Robustez da afinidade: haplotipo a haplotipo, rarefacao dos paineis, lote.
+  Figura 4  Codificante x flanco: paisagem de informatividade e atribuicao por distancia.
 
-Uso:  python scripts/figures/make_figures.py [1 2 3 4]   (sem argumento, gera todas)
+Todo numero vem de `tables/derived/resultado_final.json`, nunca digitado aqui, exceto as
+coordenadas e os dominios da Figura 1, que sao anotacao e estao citados na legenda.
+
+Uso:  python make_figuras_jabg.py [1 2 3 4]   (sem argumento, gera todas)
 """
 from __future__ import annotations
 
-import os
 import collections
 import json
 import pathlib
@@ -233,7 +232,7 @@ def le_msp(run):
 # =====================================================================================
 # FIGURA 2 - validacao da inferencia de ancestralidade
 # =====================================================================================
-def fig2(_res):
+def fig4(_res):
     val = _json(RFM / "validacao.json")["runs"]
     fig = plt.figure(figsize=(7.2, 5.6))
     gs = fig.add_gridspec(2, 3, height_ratios=[1.0, 0.82], width_ratios=[1, 1.25, 0.95],
@@ -340,7 +339,7 @@ def fig2(_res):
     for s in ("top", "right"):
         ax.spines[s].set_visible(False)
     letra(ax, "e", x=-0.42, y=1.24)
-    salvar(fig, "Figure_2")
+    salvar(fig, "Figure_4")
 
 
 # =====================================================================================
@@ -489,7 +488,7 @@ def _portadores():
     return out, cons
 
 
-def fig4(res):
+def fig5(res):
     port, cons = _portadores()
     viz = _json(RFM / "vizinho.json")
     fig = plt.figure(figsize=(7.2, 7.0))
@@ -625,18 +624,244 @@ def fig4(res):
               fontsize=5.6, frameon=False, ncol=2, loc="upper center",
               bbox_to_anchor=(0.5, 1.21), handlelength=0.9, columnspacing=0.6)
     letra(ax, "c", x=-0.20, y=1.21)
-    salvar(fig, "Figure_4")
+    salvar(fig, "Figure_5")
+
+
+# ============================================================================================
+# Figura 2 e Figuras S1-S3 (2026-10-29). Dados: tables/derived/figuras_novas.json (dados_figuras_novas.py)
+# e tables/derived/endogamia_SLICK{1,2}.json (inbreeding_control.py --json). Nada digitado aqui.
+# ============================================================================================
+ALELO_MARC = {"SLICK1": "^", "SLICK3": "o", "SLICK6": "D", "SLICK2": "s"}
+NOVAS = AQUI / "tables" / "derived" / "figuras_novas.json"
+
+
+def fig2(_res):
+    """Evidencia nas leituras: suporte de cada chamada, fase lida no portador composto e
+    portadores por raca."""
+    d = _json(NOVAS)
+    fig = plt.figure(figsize=(7.2, 3.15))
+    gs = fig.add_gridspec(1, 3, width_ratios=[1.0, 1.45, 1.05], wspace=0.62, left=0.075,
+                          right=0.985, bottom=0.30, top=0.90)
+    # (a) suporte de leitura das 18 chamadas conferidas
+    ax = fig.add_subplot(gs[0])
+    prof_max = max(int(r["leituras_ref"]) + int(r["leituras_alt"]) for r in d["leituras"])
+    xs = np.linspace(3, prof_max + 3, 200)
+    ax.plot(xs, 3 / xs, ls=":", lw=0.8, color="#777777")
+    ax.axhline(0.25, ls="--", lw=0.8, color="#777777")
+    sobrepos = collections.Counter()
+    for r in d["leituras"]:
+        a = r["alelo"]
+        ref, alt = int(r["leituras_ref"]), int(r["leituras_alt"])
+        prof = ref + alt
+        frac = alt / prof if prof else 0.0
+        usado = r["usado_na_atribuicao"].strip() == "sim"
+        ax.scatter(prof, frac, marker=ALELO_MARC[a], s=30, zorder=3, linewidths=1.0,
+                   facecolors=ALELO_COR[a] if usado else "white", edgecolors=ALELO_COR[a])
+        sobrepos[(prof, round(frac, 4))] += 1
+    for (x_, y_), n_ in sobrepos.items():   # chamadas com o mesmo ponto: nenhuma escondida
+        if n_ > 1:
+            ax.text(x_ + 0.7, y_ - 0.035, f"\u00d7{n_}", fontsize=6.5, va="top", color="#333333")
+    ax.set_xlim(-1, prof_max + 3)
+    ax.set_ylim(-0.04, 1.06)
+    ax.set_xlabel("Reads at the focal site")
+    ax.set_ylabel("Fraction with the alternative base")
+    for sp in ("top", "right"):
+        ax.spines[sp].set_visible(False)
+    leg = [Line2D([], [], marker=ALELO_MARC[a], ls="", ms=5, mfc=ALELO_COR[a], mec=ALELO_COR[a],
+                  label=a) for a in ("SLICK2", "SLICK3", "SLICK6")]
+    leg += [Line2D([], [], marker="o", ls="", ms=5, mfc="white", mec="#555555", label="rejected"),
+            Line2D([], [], ls="--", lw=0.8, color="#777777", label="fraction 0.25"),
+            Line2D([], [], ls=":", lw=0.8, color="#777777", label="3 alt. reads")]
+    ax.legend(handles=leg, fontsize=6.3, frameon=False, loc="upper center",
+              bbox_to_anchor=(0.45, -0.22), ncol=2, handletextpad=0.2, columnspacing=0.8)
+    letra(ax, "a", x=-0.30, y=1.04)
+
+    # (b) leituras do portador composto ERR12035149 sobre SLICK6 e SLICK2
+    ax = fig.add_subplot(gs[1])
+    p6, p2 = 39099267, 39099321
+    reads = sorted(d["fase"], key=lambda r: (int(r["inicio"]), int(r["fim"])))
+    for k, r in enumerate(reads):
+        ini, fim = int(r["inicio"]), int(r["fim"])
+        b6, b2 = r["base_SLICK6"], r["base_SLICK2"]
+        ambas = bool(b6) and bool(b2)
+        ax.plot([ini, fim], [k, k], lw=3.4, solid_capstyle="butt",
+                color="#a9a9a9" if ambas else "#e3e3e3", zorder=1)
+        for pos, b, al in ((p6, b6, "SLICK6"), (p2, b2, "SLICK2")):
+            if not b:
+                continue
+            if b == "T":
+                ax.plot(pos, k, marker=ALELO_MARC[al], ms=6.5, mfc=ALELO_COR[al], mec="black",
+                        mew=0.5, zorder=3)
+            else:
+                ax.plot(pos, k, marker="|", ms=7, mew=1.2, color="#4d4d4d", zorder=3)
+    for pos, al in ((p6, "SLICK6"), (p2, "SLICK2")):
+        ax.axvline(pos, ls=":", lw=0.7, color=ALELO_COR[al], zorder=0)
+        ax.text(pos + (-3 if al == "SLICK6" else 3), len(reads) - 0.3, al,
+                ha="right" if al == "SLICK6" else "left", va="bottom", fontsize=7,
+                color=ALELO_COR[al], fontweight="bold")
+    yb = -1.1
+    ax.annotate("", xy=(p6, yb), xytext=(p2, yb), arrowprops=dict(arrowstyle="<->", lw=0.7))
+    ax.text((p6 + p2) / 2, yb - 0.3, "54 bp", ha="center", va="top", fontsize=6.5)
+    ax.set_ylim(yb - 1.1, len(reads) + 0.7)
+    ax.set_yticks([])
+    lo = min(int(r["inicio"]) for r in reads) - 5
+    hi = max(int(r["fim"]) for r in reads) + 5
+    ax.set_xlim(lo, hi)
+    tk = list(range((lo // 100 + 1) * 100, hi, 100))
+    ax.set_xticks(tk)
+    ax.set_xticklabels([f"{x:,}" for x in tk], fontsize=6.3)
+    ax.set_xlabel("Position on BTA20 (bp)")
+    ax.set_ylabel("Reads, ERR12035149")
+    for sp in ("top", "right", "left"):
+        ax.spines[sp].set_visible(False)
+    leg = [Line2D([], [], marker="|", ls="", ms=7, mew=1.2, color="#4d4d4d", label="reference base"),
+           Line2D([], [], color="#a9a9a9", lw=3.4, label="spans both sites"),
+           Line2D([], [], color="#e3e3e3", lw=3.4, label="spans one site")]
+    ax.legend(handles=leg, fontsize=6.3, frameon=False, loc="upper center",
+              bbox_to_anchor=(0.5, -0.22), ncol=2, handletextpad=0.3, columnspacing=0.8)
+    letra(ax, "b", x=-0.08, y=1.04)
+
+    # (c) portadores por raca (animais) e animais triados
+    ax = fig.add_subplot(gs[2])
+    tri = d["racas"]["triados"]
+    por = d["racas"]["portadores"]
+    racas = sorted(tri, key=lambda r: (-sum(por[a].get(r, 0) for a in por), -tri[r]))
+    ordem = ["SLICK2", "SLICK1", "SLICK6", "SLICK3"]
+    for i, rc in enumerate(racas):
+        esq = 0
+        for a in ordem:
+            n = por.get(a, {}).get(rc, 0)
+            if n:
+                ax.barh(i, n, left=esq, color=ALELO_COR[a], edgecolor="white", lw=0.5, height=0.62)
+                esq += n
+        ax.text(esq + 0.4, i, f"of {tri[rc]}", va="center", fontsize=6.3, color="#444444")
+    ax.set_yticks(range(len(racas)))
+    ax.set_yticklabels(racas, fontsize=6.8)
+    ax.invert_yaxis()
+    ax.set_xlabel("Carrier animals, by allele")
+    tot = max(sum(por[a].get(r, 0) for a in por) for r in racas)
+    ax.set_xlim(0, tot + 7)
+    for sp in ("top", "right"):
+        ax.spines[sp].set_visible(False)
+    from matplotlib.patches import Patch
+    leg = [Patch(facecolor=ALELO_COR[a], label=a) for a in ordem]
+    ax.legend(handles=leg, fontsize=6.3, frameon=False, loc="upper center",
+              bbox_to_anchor=(0.4, -0.22), ncol=2, handletextpad=0.3, columnspacing=0.8)
+    letra(ax, "c", x=-0.62, y=1.04)
+    salvar(fig, "Figure_2")
+
+
+def figS1(_res):
+    """Distribuicao da troca do SLICK5 (39.099.228) por populacao."""
+    d = _json(NOVAS)["slick5"]
+    an = d["animais"]
+    paineis = ("European taurine", "Criollo", "N'Dama", "Ogaden")
+    itens = sorted(an.items(), key=lambda kv: -kv[1])
+    fica = [(k, v) for k, v in itens if v >= 2 or k in paineis]
+    resto = [(k, v) for k, v in itens if not (v >= 2 or k in paineis)]
+    if resto:
+        fica.append((f"other declared breeds ({len(resto)})", sum(v for _, v in resto)))
+    cor_de = {"European taurine": COR["EUR_TAURINE"], "Criollo": COR["CRIOLLO"],
+              "N'Dama": COR["NDAMA"], "Ogaden": COR["OGADEN"]}
+    fig, ax = plt.subplots(figsize=(5.2, 3.6))
+    for i, (k, v) in enumerate(fica):
+        c = cor_de.get(k, "#d9d9d9" if k == "no declared breed" else "#9ecae1")
+        ax.barh(i, v, color=c, edgecolor="black", lw=0.4, height=0.7)
+        ax.text(v + 0.4, i, str(v), va="center", fontsize=7)
+    ax.set_yticks(range(len(fica)))
+    ax.set_yticklabels([k for k, _ in fica], fontsize=7)
+    ax.invert_yaxis()
+    ax.set_xlabel(f"Animals carrying the SLICK5 change ({d['n_animais']} animals, "
+                  f"{d['n_haplotipos']} haplotypes)")
+    for sp in ("top", "right"):
+        ax.spines[sp].set_visible(False)
+    leg = [Line2D([], [], color=c, lw=6, label=l) for l, c in
+           (("reference panel (panel colour)", COR["EUR_TAURINE"]), ("declared breed, no panel", "#9ecae1"),
+            ("no declared breed", "#d9d9d9"))]
+    ax.legend(handles=leg, fontsize=6.5, frameon=False, loc="lower right")
+    fig.tight_layout()
+    salvar(fig, "Figure_S1")
+
+
+def figS2(_res):
+    """Atribuicao intronica por faixa de distancia ao sitio causal (mesmo criterio em todas)."""
+    d = _json(NOVAS)["introns"]
+    alelos = ["SLICK1", "SLICK3", "SLICK6", "SLICK2"]
+    faixas = [b["faixa"] for b in d["SLICK1"]]
+    curto = {"EUR_TAURINE": "Cont. European", "IBERIAN": "Iberian", "NDAMA": "N'Dama",
+             "CRIOLLO": "Criollo", "ANKOLE": "Ankole", "BORAN": "Boran", "OGADEN": "Ogaden"}
+    fig, ax = plt.subplots(figsize=(6.6, 2.9))
+    for i, a in enumerate(alelos):
+        for j, b in enumerate(d[a]):
+            if "contagem" not in b:
+                ax.add_patch(plt.Rectangle((j, i), 1, 1, facecolor="white", edgecolor="#bbbbbb"))
+                ax.text(j + 0.5, i + 0.5, "too few\nsites", ha="center", va="center", fontsize=6)
+                continue
+            mx = max(b["contagem"].values())
+            tops = [k for k, v in b["contagem"].items() if v == mx]
+            tot = sum(b["contagem"].values())
+            adj = b["posterior_mediana"] >= 0.50
+            cor = COR.get(tops[0], "#999999") if len(tops) == 1 else "#bdbdbd"
+            ax.add_patch(plt.Rectangle((j, i), 1, 1, facecolor=cor, alpha=0.95 if adj else 0.25,
+                                       edgecolor="white", lw=1.2, hatch=None if adj else "////"))
+            rot = " / ".join(curto.get(k, k) for k in tops)
+            claro = adj and cor not in (COR["CRIOLLO"], "#bdbdbd")
+            ax.text(j + 0.5, i + 0.5, f"{rot}\n{mx}/{tot}  ({b['posterior_mediana']:.2f})",
+                    ha="center", va="center", fontsize=5.8, color="white" if claro else "black")
+    ax.set_xlim(0, len(faixas))
+    ax.set_ylim(len(alelos), 0)
+    ax.set_xticks([j + 0.5 for j in range(len(faixas))])
+    ax.set_xticklabels(faixas, fontsize=7)
+    ax.set_yticks([i + 0.5 for i in range(len(alelos))])
+    ax.set_yticklabels(alelos, fontsize=7.5)
+    ax.set_xlabel("Distance of the intronic sites from the causal site")
+    for sp in ax.spines.values():
+        sp.set_visible(False)
+    ax.tick_params(length=0)
+    fig.tight_layout()
+    salvar(fig, "Figure_S2")
+
+
+def figS3(_res):
+    """Controle de endogamia: trato no locus contra posicoes aleatorias da mesma janela."""
+    fig, axs = plt.subplots(1, 2, figsize=(6.6, 2.8))
+    for ax, a, le in zip(axs, ("SLICK1", "SLICK2"), "ab"):
+        e = _json(AQUI / "tables" / "derived" / f"endogamia_{a}.json")
+        base = np.array(e["linha_de_base_kb"])
+        foco = e["trato_foco_mediana_kb"]
+        lo_, hi_ = min(base.min(), foco), max(base.max(), foco)
+        log_ = hi_ / max(lo_, 0.5) > 5            # faixa larga: escala log; estreita: linear
+        if log_:
+            bins = np.logspace(np.log10(max(lo_, 0.5)), np.log10(hi_ * 1.15), 30)
+        else:
+            m = (hi_ - lo_) * 0.06
+            bins = np.linspace(lo_ - m, hi_ + m, 30)
+        cont, _, _ = ax.hist(base, bins=bins, color="#bdbdbd", edgecolor="white", lw=0.4)
+        ax.axvline(e["linha_de_base_mediana_kb"], ls="--", lw=0.8, color="#555555")
+        ax.axvline(foco, lw=1.6, color=ALELO_COR[a])
+        if log_:
+            ax.set_xscale("log")
+        ax.set_ylim(0, cont.max() * 1.6)
+        ax.set_xlabel("Shared tract around the position (kb)")
+        ax.set_ylabel(f"Random positions (of {e['n_random']})")
+        nh = len(e["homozigotos"])
+        ax.text(0.98, 0.97, f"{a}, {nh} homozygote{'s' if nh > 1 else ''}\n"
+                f"at the locus {foco:,.1f} kb\nbaseline {e['linha_de_base_mediana_kb']:,.1f} kb\n"
+                f"P = {e['p_empirico']:.3f}", transform=ax.transAxes, ha="right", va="top",
+                fontsize=6.4, bbox=dict(facecolor="white", edgecolor="none", alpha=0.85, pad=1.5))
+        for sp in ("top", "right"):
+            ax.spines[sp].set_visible(False)
+        letra(ax, le, x=-0.2, y=1.04)
+    fig.tight_layout()
+    salvar(fig, "Figure_S3")
 
 
 def main(quais):
     res = json.load(open(RES, encoding="utf-8"))
-    if 1 in quais:
-        fig1(res)
-    for n in (2, 3, 4):
-        if n in quais and f"fig{n}" in globals():
-            globals()[f"fig{n}"](res)
+    for n in quais:                      # 1-5 (texto principal) e S1-S3 (suplementar)
+        globals()[f"fig{n}"](res)
 
 
 if __name__ == "__main__":
-    q = [int(a) for a in sys.argv[1:]] or [1, 2, 3, 4]
+    q = sys.argv[1:] or ["1", "2", "3", "4", "5", "S1", "S2", "S3"]
     main(q)

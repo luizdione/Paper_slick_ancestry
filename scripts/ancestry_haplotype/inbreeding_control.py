@@ -70,6 +70,7 @@ def main() -> None:
     ap.add_argument("--n-random", type=int, default=200)
     ap.add_argument("--min-dist", type=int, default=1_000_000,
                     help="distancia minima do sitio focal para os controles")
+    ap.add_argument("--json", default=None, help="grava foco e linha de base completos em JSON")
     a = ap.parse_args()
 
     rng = np.random.default_rng(SEED)
@@ -96,6 +97,15 @@ def main() -> None:
 
     p_emp = float((base >= np.median(obs)).mean())
     razao = np.median(obs) / max(np.median(base), 1)
+    if a.json:   # (2026-10-29) distribuicao inteira, para a figura do controle
+        import json as _json
+        with open(a.json, "w", encoding="utf-8") as fh:
+            _json.dump({"alelo": a.label, "homozigotos": homo, "n_random": int(len(base)),
+                        "trato_foco_kb": [float(x) / 1e3 for x in obs],
+                        "trato_foco_mediana_kb": float(np.median(obs)) / 1e3,
+                        "linha_de_base_kb": [float(x) / 1e3 for x in base],
+                        "linha_de_base_mediana_kb": float(np.median(base)) / 1e3,
+                        "razao": float(razao), "p_empirico": p_emp, "semente": SEED}, fh, indent=1)
     print(f"\n  razao foco / linha de base : {razao:8.1f}x")
     print(f"  P empirico (fracao de posicoes aleatorias com trato >= o do foco): {p_emp:.4f}")
     if p_emp < 0.05:

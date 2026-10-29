@@ -88,6 +88,9 @@ Codebook mapping BioSample breed strings to ancestry groups, used by
 | `distancia_intron.json` | `haplotype_robustness/teste_distancia_intron.py` |
 | `contraste_intra_animal.json` | `haplotype_robustness/contraste_intra_animal.py` |
 | `teste_artefatos_*.json` | `haplotype_robustness/teste_artefatos_classificador.py` (three runs, see README) |
+| `fase_leituras_ERR12035149.tsv` | `haplotype_robustness/fase_por_leitura.py --tsv` |
+| `figuras_novas.json`, `homozigotos_SLICK{1,2}_run8.txt` | `haplotype_robustness/dados_figuras_novas.py` |
+| `endogamia_SLICK{1,2}.json` | `ancestry_haplotype/inbreeding_control.py --json` |
 | `local_ancestry/consulta.tsv`, `ref_*vias.tsv`, `controle_*.tsv` | `local_ancestry/04a_rotulos.py` |
 | `local_ancestry/genotipa_stats.tsv` | `local_ancestry/02_roda.sh` |
 | `local_ancestry/m3.msp.tsv`, `m4.msp.tsv`, `focais_faseados.tsv` | `local_ancestry/04b_rfmix.sh` |

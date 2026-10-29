@@ -39,11 +39,11 @@ scripts/
   aim/                    per-site ancestry informativeness (Rosenberg's In).
   specificity/            panel-specificity test for candidate variants.
   panel_labeling/         breed labels for the Run 8 panel.
-  figures/                make_figures.py, Figures 1-4.
+  figures/                make_figures.py, Figures 1-5 and S1-S3.
 config/                   locus configurations (focal sites, panels, colours, consequences).
 tables/                   input label tables, Tables 1-3 and S1-S6 as TSV (+ LEGENDS.md).
 tables/derived/           every intermediate result the tables and figures are built from.
-figures/                  Figures 1-4, PDF and PNG (+ LEGENDS.md).
+figures/                  Figures 1-5 and S1-S3, PDF and PNG (+ LEGENDS.md).
 data/                     placeholder; raw data are public and not versioned.
 ```
 
@@ -118,7 +118,12 @@ python scripts/haplotype_robustness/teste_artefatos_classificador.py \
 python scripts/haplotype_robustness/teste_artefatos_classificador.py \
        tables/groups_iberico_declarado.tsv config/slick_iberico_declarado.yaml \
        tables/derived/teste_artefatos_iberico_suportado.json '<{allele: [samples]}>'
-python scripts/haplotype_robustness/fase_por_leitura.py <bam> <nameA:pos:REF:ALT> <nameB:pos:REF:ALT>
+python scripts/haplotype_robustness/fase_por_leitura.py <bam> <nameA:pos:REF:ALT> <nameB:pos:REF:ALT> \
+       [--tsv tables/derived/fase_leituras_<animal>.tsv]
+python scripts/haplotype_robustness/dados_figuras_novas.py        # -> figuras_novas.json, homozygote lists
+python scripts/ancestry_haplotype/inbreeding_control.py --vcf <Run 8 10 Mb phased VCF> \
+       --homozygotes tables/derived/homozigotos_SLICK2_run8.txt --pos 39099321 --label SLICK2 \
+       --n-random 150 --json tables/derived/endogamia_SLICK2.json   # likewise SLICK1, --pos 39099213
 
 # 2) Local ancestry in the 10 Mb window (container steps marked [c])
 bash   /s/01_sitios.sh            # [c] site list, global and local coordinates
@@ -132,7 +137,7 @@ bash   /s/06a_hap_1mb.sh          # [c] phased haplotypes, 1 Mb around PRLR
 python scripts/local_ancestry/06_vizinho.py    # nearest-neighbour differences
 python scripts/local_ancestry/07_validacao.py  # internal simulation accuracy per panel
 
-# 3) Figures (read tables/derived/ only)
+# 3) Figures 1-5 and S1-S3 (read tables/derived/ only)
 python scripts/figures/make_figures.py
 ```
 

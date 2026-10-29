@@ -1,0 +1,542 @@
+{
+ "leituras": [
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035115",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|1",
+   "leituras_ref": "0",
+   "leituras_alt": "7",
+   "fracao_alt": "1.00",
+   "suporte": "homozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035117",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "9",
+   "leituras_alt": "5",
+   "fracao_alt": "0.36",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035119",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|1",
+   "leituras_ref": "0",
+   "leituras_alt": "15",
+   "fracao_alt": "1.00",
+   "suporte": "homozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035125",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "4",
+   "leituras_alt": "2",
+   "fracao_alt": "0.33",
+   "suporte": "duvidoso",
+   "usado_na_atribuicao": "nao"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035133",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "0",
+   "leituras_alt": "0",
+   "fracao_alt": "NA",
+   "suporte": "sem_leitura_imputado",
+   "usado_na_atribuicao": "nao"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035139",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "5",
+   "leituras_alt": "8",
+   "fracao_alt": "0.62",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035148",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "1",
+   "leituras_alt": "5",
+   "fracao_alt": "0.83",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035149",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "5",
+   "leituras_alt": "4",
+   "fracao_alt": "0.44",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035153",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|1",
+   "leituras_ref": "0",
+   "leituras_alt": "5",
+   "fracao_alt": "1.00",
+   "suporte": "homozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035155",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|1",
+   "leituras_ref": "0",
+   "leituras_alt": "3",
+   "fracao_alt": "1.00",
+   "suporte": "homozigoto_baixa_cobertura",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035157",
+   "lote": "ERP150979",
+   "genotipo_beagle": "0|1",
+   "leituras_ref": "7",
+   "leituras_alt": "4",
+   "fracao_alt": "0.36",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK2",
+   "animal": "ERR12035159",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|1",
+   "leituras_ref": "0",
+   "leituras_alt": "5",
+   "fracao_alt": "1.00",
+   "suporte": "homozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK3",
+   "animal": "ERR12035135",
+   "lote": "ERP150979",
+   "genotipo_beagle": "0|1",
+   "leituras_ref": "3",
+   "leituras_alt": "11",
+   "fracao_alt": "0.79",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK3",
+   "animal": "ERR12035159",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "9",
+   "leituras_alt": "2",
+   "fracao_alt": "0.18",
+   "suporte": "duvidoso",
+   "usado_na_atribuicao": "nao"
+  },
+  {
+   "alelo": "SLICK6",
+   "animal": "ERR12035121",
+   "lote": "ERP150979",
+   "genotipo_beagle": "1|0",
+   "leituras_ref": "7",
+   "leituras_alt": "8",
+   "fracao_alt": "0.53",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK6",
+   "animal": "ERR12035132",
+   "lote": "ERP150979",
+   "genotipo_beagle": "0|1",
+   "leituras_ref": "1",
+   "leituras_alt": "6",
+   "fracao_alt": "0.86",
+   "suporte": "homozigoto_por_leitura",
+   "usado_na_atribuicao": "sim"
+  },
+  {
+   "alelo": "SLICK6",
+   "animal": "ERR12035135",
+   "lote": "ERP150979",
+   "genotipo_beagle": "0|1",
+   "leituras_ref": "16",
+   "leituras_alt": "2",
+   "fracao_alt": "0.11",
+   "suporte": "duvidoso",
+   "usado_na_atribuicao": "nao"
+  },
+  {
+   "alelo": "SLICK6",
+   "animal": "ERR12035149",
+   "lote": "ERP150979",
+   "genotipo_beagle": "0|1",
+   "leituras_ref": "2",
+   "leituras_alt": "4",
+   "fracao_alt": "0.67",
+   "suporte": "heterozigoto",
+   "usado_na_atribuicao": "sim"
+  }
+ ],
+ "fase": [
+  {
+   "leitura": "ERR12035149.20708298",
+   "inicio": "39099175",
+   "fim": "39099324",
+   "base_SLICK6": "T",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.35792565",
+   "inicio": "39099175",
+   "fim": "39099324",
+   "base_SLICK6": "T",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.17929319",
+   "inicio": "39099178",
+   "fim": "39099327",
+   "base_SLICK6": "C",
+   "base_SLICK2": "T"
+  },
+  {
+   "leitura": "ERR12035149.89243585",
+   "inicio": "39099203",
+   "fim": "39099352",
+   "base_SLICK6": "C",
+   "base_SLICK2": "T"
+  },
+  {
+   "leitura": "ERR12035149.50607637",
+   "inicio": "39099210",
+   "fim": "39099359",
+   "base_SLICK6": "T",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.108999709",
+   "inicio": "39099223",
+   "fim": "39099372",
+   "base_SLICK6": "T",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.70493598",
+   "inicio": "39099316",
+   "fim": "39099465",
+   "base_SLICK6": "",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.22612421",
+   "inicio": "39099319",
+   "fim": "39099468",
+   "base_SLICK6": "",
+   "base_SLICK2": "C"
+  },
+  {
+   "leitura": "ERR12035149.23221177",
+   "inicio": "39099319",
+   "fim": "39099468",
+   "base_SLICK6": "",
+   "base_SLICK2": "T"
+  },
+  {
+   "leitura": "ERR12035149.23221028",
+   "inicio": "39099319",
+   "fim": "39099468",
+   "base_SLICK6": "",
+   "base_SLICK2": "T"
+  }
+ ],
+ "racas": {
+  "triados": {
+   "San Martinero": 2,
+   "Costeño con Cuernos": 2,
+   "Limonero": 24,
+   "Blanco Orejinegro": 10,
+   "Hartón del Valle": 6
+  },
+  "portadores": {
+   "SLICK1": {
+    "Limonero": 2,
+    "Costeño con Cuernos": 2
+   },
+   "SLICK3": {
+    "Limonero": 1
+   },
+   "SLICK6": {
+    "Limonero": 2,
+    "Hartón del Valle": 1
+   },
+   "SLICK2": {
+    "Limonero": 15
+   }
+  }
+ },
+ "slick5": {
+  "animais": {
+   "Angus": 3,
+   "no declared breed": 29,
+   "European taurine": 19,
+   "Charolais": 9,
+   "Gelbvieh": 1,
+   "Hereford": 12,
+   "Jersey": 3,
+   "Ogaden": 1,
+   "Piedmontese": 2,
+   "Hanwoo": 2,
+   "Holstein x Hereford": 1,
+   "Ntoro": 1,
+   "Simmental": 5,
+   "Limousin": 1,
+   "Belgian Blue": 1,
+   "Crossbred (50% Simmental, 37.5% Red Angus, 12.5% Angus)": 1,
+   "Crossbred (37.5% Gelbvieh, 25% Red Angus, 12.5% Simmental, 12.5% Limousin)": 1,
+   "Criollo": 16,
+   "N'Dama": 1
+  },
+  "haplotipos": {
+   "Angus": 3,
+   "no declared breed": 31,
+   "European taurine": 20,
+   "Charolais": 11,
+   "Gelbvieh": 1,
+   "Hereford": 13,
+   "Jersey": 3,
+   "Ogaden": 1,
+   "Piedmontese": 2,
+   "Hanwoo": 2,
+   "Holstein x Hereford": 1,
+   "Ntoro": 1,
+   "Simmental": 5,
+   "Limousin": 1,
+   "Belgian Blue": 1,
+   "Crossbred (50% Simmental, 37.5% Red Angus, 12.5% Angus)": 1,
+   "Crossbred (37.5% Gelbvieh, 25% Red Angus, 12.5% Simmental, 12.5% Limousin)": 1,
+   "Criollo": 24,
+   "N'Dama": 1
+  },
+  "n_animais": 109,
+  "n_haplotipos": 123,
+  "polo_sem_painel": {
+   "taurine_pole": 71,
+   "admixed": 1
+  }
+ },
+ "introns": {
+  "SLICK1": [
+   {
+    "faixa": "<1 kb",
+    "n_sitios": 12,
+    "contagem": {
+     "IBERIAN": 4,
+     "ANKOLE": 1
+    },
+    "posterior_mediana": 0.24001511985666937
+   },
+   {
+    "faixa": "1-5 kb",
+    "n_sitios": 216,
+    "contagem": {
+     "NDAMA": 4,
+     "CRIOLLO": 1
+    },
+    "posterior_mediana": 0.74294089187966
+   },
+   {
+    "faixa": "5-10 kb",
+    "n_sitios": 370,
+    "contagem": {
+     "IBERIAN": 2,
+     "NDAMA": 1,
+     "EUR_TAURINE": 1,
+     "BORAN": 1
+    },
+    "posterior_mediana": 0.999291619958198
+   },
+   {
+    "faixa": "10-20 kb",
+    "n_sitios": 721,
+    "contagem": {
+     "NDAMA": 4,
+     "BORAN": 1
+    },
+    "posterior_mediana": 0.9895131276499024
+   },
+   {
+    "faixa": ">20 kb",
+    "n_sitios": 41,
+    "contagem": {
+     "IBERIAN": 5
+    },
+    "posterior_mediana": 0.1875884811073921
+   }
+  ],
+  "SLICK3": [
+   {
+    "faixa": "<1 kb",
+    "n_sitios": 13,
+    "contagem": {
+     "IBERIAN": 1
+    },
+    "posterior_mediana": 0.2419909465572574
+   },
+   {
+    "faixa": "1-5 kb",
+    "n_sitios": 213,
+    "contagem": {
+     "CRIOLLO": 1
+    },
+    "posterior_mediana": 0.9999963454874041
+   },
+   {
+    "faixa": "5-10 kb",
+    "n_sitios": 372,
+    "contagem": {
+     "CRIOLLO": 1
+    },
+    "posterior_mediana": 0.9999978758706334
+   },
+   {
+    "faixa": "10-20 kb",
+    "n_sitios": 720,
+    "contagem": {
+     "CRIOLLO": 1
+    },
+    "posterior_mediana": 0.9999999999932205
+   },
+   {
+    "faixa": ">20 kb",
+    "n_sitios": 42,
+    "contagem": {
+     "IBERIAN": 1
+    },
+    "posterior_mediana": 0.18741359144682315
+   }
+  ],
+  "SLICK6": [
+   {
+    "faixa": "<1 kb",
+    "n_sitios": 14,
+    "contagem": {
+     "IBERIAN": 3
+    },
+    "posterior_mediana": 0.24292515082840482
+   },
+   {
+    "faixa": "1-5 kb",
+    "n_sitios": 211,
+    "contagem": {
+     "CRIOLLO": 3
+    },
+    "posterior_mediana": 0.9999955435667909
+   },
+   {
+    "faixa": "5-10 kb",
+    "n_sitios": 373,
+    "contagem": {
+     "CRIOLLO": 3
+    },
+    "posterior_mediana": 0.6598453110780984
+   },
+   {
+    "faixa": "10-20 kb",
+    "n_sitios": 718,
+    "contagem": {
+     "CRIOLLO": 3
+    },
+    "posterior_mediana": 0.9999760438800144
+   },
+   {
+    "faixa": ">20 kb",
+    "n_sitios": 44,
+    "contagem": {
+     "IBERIAN": 3
+    },
+    "posterior_mediana": 0.19348409166305564
+   }
+  ],
+  "SLICK2": [
+   {
+    "faixa": "<1 kb",
+    "n_sitios": 18,
+    "contagem": {
+     "ANKOLE": 17,
+     "IBERIAN": 5
+    },
+    "posterior_mediana": 0.34411183261750544
+   },
+   {
+    "faixa": "1-5 kb",
+    "n_sitios": 209,
+    "contagem": {
+     "NDAMA": 18,
+     "CRIOLLO": 4
+    },
+    "posterior_mediana": 0.8874446826960481
+   },
+   {
+    "faixa": "5-10 kb",
+    "n_sitios": 373,
+    "contagem": {
+     "ANKOLE": 9,
+     "NDAMA": 9,
+     "CRIOLLO": 4
+    },
+    "posterior_mediana": 0.9985967917453457
+   },
+   {
+    "faixa": "10-20 kb",
+    "n_sitios": 715,
+    "contagem": {
+     "ANKOLE": 1,
+     "NDAMA": 11,
+     "CRIOLLO": 10
+    },
+    "posterior_mediana": 0.9729407476145482
+   },
+   {
+    "faixa": ">20 kb",
+    "n_sitios": 45,
+    "contagem": {
+     "EUR_TAURINE": 1,
+     "IBERIAN": 21
+    },
+    "posterior_mediana": 0.19414835562900212
+   }
+  ]
+ },
+ "homozigotos_run8": {
+  "SLICK1": [
+   "SAMN09213442"
+  ],
+  "SLICK2": [
+   "SAMN08166128",
+   "SAMN08166133"
+  ]
+ },
+ "n_paineis": 7
+}

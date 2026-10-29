@@ -57,10 +57,13 @@ def main():
     out = subprocess.run(cmd, capture_output=True, text=True).stdout
     combos = collections.Counter()
     so_um = 0
+    por_leitura = []   # (2026-10-29) para desenhar as leituras uma a uma (Figura 2b)
     for linha in out.splitlines():
         c = linha.split("\t")
         inicio, cigar, seq = int(c[3]), c[5], c[9]
         ba, bb = base_em(pa, inicio, cigar, seq), base_em(pb, inicio, cigar, seq)
+        fim = inicio + sum(int(n) for n, op in __import__("re").findall(r"(\d+)([MDN=X])", cigar)) - 1
+        por_leitura.append((c[0], inicio + DESLOC, fim + DESLOC, ba or "", bb or ""))
         if ba is None or bb is None:
             so_um += 1
             continue
@@ -80,6 +83,12 @@ def main():
     trans = combos.get((f"{na}=ALT", f"{nb}=ref"), 0) + combos.get((f"{na}=ref", f"{nb}=ALT"), 0)
     veredicto = "CIS" if cis > 2 * trans else ("TRANS" if trans > 2 * cis else "AMBIGUO")
     print(f"  leituras ALT+ALT={cis}  ALT+ref ou ref+ALT={trans}  -> {veredicto}")
+    if "--tsv" in sys.argv:   # leitura, inicio e fim (coordenada global), base em cada sitio
+        saida = sys.argv[sys.argv.index("--tsv") + 1]
+        with open(saida, "w", encoding="utf-8") as fh:
+            fh.write(f"leitura\tinicio\tfim\tbase_{na}\tbase_{nb}\n")
+            for r in por_leitura:
+                fh.write("\t".join(str(x) for x in r) + "\n")
 
 
 if __name__ == "__main__":
