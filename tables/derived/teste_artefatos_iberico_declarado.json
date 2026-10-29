@@ -1,0 +1,249 @@
+{
+ "semente": 20261026,
+ "n_rep": 500,
+ "paineis": {
+  "EUR_TAURINE": 162,
+  "NDAMA": 34,
+  "ANKOLE": 16,
+  "BORAN": 22,
+  "OGADEN": 18,
+  "CRIOLLO": 100,
+  "IBERIAN": 8
+ },
+ "alelos": {
+  "SLICK1": {
+   "n_hap": 5,
+   "base": {
+    "so sinonimas": {
+     "NDAMA": 4,
+     "IBERIAN": 1
+    },
+    "so nao sinonimas": {
+     "NDAMA": 4,
+     "EUR_TAURINE": 1
+    }
+   },
+   "rarefacao": {
+    "k_por_painel": 8,
+    "efetivo": {
+     "EUR_TAURINE": 162,
+     "NDAMA": 34,
+     "ANKOLE": 16,
+     "BORAN": 22,
+     "OGADEN": 18,
+     "CRIOLLO": 95,
+     "IBERIAN": 8
+    },
+    "painel_modal_por_replica": {
+     "so sinonimas": {
+      "NDAMA": 469,
+      "BORAN": 8,
+      "OGADEN": 21,
+      "CRIOLLO": 1,
+      "ANKOLE": 1
+     },
+     "so nao sinonimas": {
+      "ANKOLE": 180,
+      "NDAMA": 270,
+      "BORAN": 40,
+      "OGADEN": 10
+     }
+    }
+   },
+   "lote": {
+    "RUN8": 5
+   },
+   "configuracoes_codificantes": 2,
+   "copias_por_configuracao": [
+    4,
+    1
+   ]
+  },
+  "SLICK2": {
+   "n_hap": 24,
+   "base": {
+    "so sinonimas": {
+     "EUR_TAURINE": 21,
+     "IBERIAN": 3
+    },
+    "so nao sinonimas": {
+     "EUR_TAURINE": 19,
+     "IBERIAN": 5
+    }
+   },
+   "rarefacao": {
+    "k_por_painel": 8,
+    "efetivo": {
+     "EUR_TAURINE": 162,
+     "NDAMA": 34,
+     "ANKOLE": 16,
+     "BORAN": 22,
+     "OGADEN": 18,
+     "CRIOLLO": 76,
+     "IBERIAN": 8
+    },
+    "painel_modal_por_replica": {
+     "so sinonimas": {
+      "EUR_TAURINE": 260,
+      "BORAN": 32,
+      "CRIOLLO": 142,
+      "ANKOLE": 20,
+      "NDAMA": 46
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 458,
+      "IBERIAN": 22,
+      "CRIOLLO": 17,
+      "NDAMA": 3
+     }
+    }
+   },
+   "lote": {
+    "RUN8": 7,
+    "NOVO": 17
+   },
+   "por_lote": {
+    "RUN8": {
+     "so sinonimas": {
+      "EUR_TAURINE": 7
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 7
+     }
+    },
+    "NOVO": {
+     "so sinonimas": {
+      "EUR_TAURINE": 14,
+      "IBERIAN": 3
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 12,
+      "IBERIAN": 5
+     }
+    }
+   },
+   "configuracoes_codificantes": 5,
+   "copias_por_configuracao": [
+    17,
+    3,
+    2,
+    1,
+    1
+   ]
+  },
+  "SLICK3": {
+   "n_hap": 2,
+   "base": {
+    "so sinonimas": {
+     "IBERIAN": 2
+    },
+    "so nao sinonimas": {
+     "IBERIAN": 1,
+     "CRIOLLO": 1
+    }
+   },
+   "rarefacao": {
+    "k_por_painel": 8,
+    "efetivo": {
+     "EUR_TAURINE": 162,
+     "NDAMA": 34,
+     "ANKOLE": 16,
+     "BORAN": 22,
+     "OGADEN": 18,
+     "CRIOLLO": 98,
+     "IBERIAN": 8
+    },
+    "painel_modal_por_replica": {
+     "so sinonimas": {
+      "IBERIAN": 415,
+      "EUR_TAURINE": 81,
+      "CRIOLLO": 4
+     },
+     "so nao sinonimas": {
+      "IBERIAN": 466,
+      "CRIOLLO": 17,
+      "EUR_TAURINE": 17
+     }
+    }
+   },
+   "lote": {
+    "NOVO": 2
+   },
+   "configuracoes_codificantes": 2,
+   "copias_por_configuracao": [
+    1,
+    1
+   ]
+  },
+  "SLICK6": {
+   "n_hap": 4,
+   "base": {
+    "so sinonimas": {
+     "IBERIAN": 4
+    },
+    "so nao sinonimas": {
+     "EUR_TAURINE": 1,
+     "IBERIAN": 3
+    }
+   },
+   "rarefacao": {
+    "k_por_painel": 8,
+    "efetivo": {
+     "EUR_TAURINE": 162,
+     "NDAMA": 34,
+     "ANKOLE": 16,
+     "BORAN": 22,
+     "OGADEN": 18,
+     "CRIOLLO": 96,
+     "IBERIAN": 8
+    },
+    "painel_modal_por_replica": {
+     "so sinonimas": {
+      "IBERIAN": 411,
+      "EUR_TAURINE": 85,
+      "CRIOLLO": 4
+     },
+     "so nao sinonimas": {
+      "IBERIAN": 471,
+      "EUR_TAURINE": 17,
+      "CRIOLLO": 12
+     }
+    }
+   },
+   "lote": {
+    "NOVO": 4
+   },
+   "configuracoes_codificantes": 2,
+   "copias_por_configuracao": [
+    3,
+    1
+   ]
+  }
+ },
+ "sobreposicao": [
+  {
+   "par": "SLICK1+SLICK2",
+   "animais": [
+    "SAMN08166129"
+   ]
+  },
+  {
+   "par": "SLICK2+SLICK3",
+   "animais": [
+    "ERR12035159"
+   ]
+  },
+  {
+   "par": "SLICK2+SLICK6",
+   "animais": [
+    "ERR12035149"
+   ]
+  },
+  {
+   "par": "SLICK3+SLICK6",
+   "animais": [
+    "ERR12035135"
+   ]
+  }
+ ]
+}

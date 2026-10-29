@@ -25,7 +25,7 @@ Duas leituras da mesma pergunta, aplicadas em conjunto:
 
 2. REGRA DE DECISAO AGREGADA. Conta em quantos paineis de controle DISTINTOS
    a variante aparece com pelo menos um portador. Um candidato exploratorio
-   real testado com esta rotina (coordenada c.1397A>T) apareceu em
+   real testado com esta rotina (coordenada c.1396A>T) apareceu em
    EUR_TAURINE, BORAN, NDAMA e OGADEN — 4 paineis taxonomicamente distantes —
    e foi descartado sem meio-termo. O limiar `min_control_panels_hit`
    codifica esse criterio como numero, nao como julgamento caso a caso.
@@ -154,7 +154,7 @@ def run_specificity_filter(
     alpha : nivel de significancia do teste binomial por painel.
     min_control_panels_hit : minimo de paineis de controle DISTINTOS com
         pelo menos 1 portador para descartar por contagem bruta (o criterio
-        que fechou o candidato c.1397A>T: 4 paineis, muito acima deste
+        que fechou o candidato c.1396A>T: 4 paineis, muito acima deste
         limiar).
     min_control_pvalue_panels : minimo de paineis cujo teste binomial
         rejeita H0 (p < alpha) para descartar por evidencia estatistica,

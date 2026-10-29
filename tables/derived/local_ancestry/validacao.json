@@ -1,0 +1,380 @@
+{
+ "runs": {
+  "m4": {
+   "descricao": "4 vias",
+   "simulacao_interna": {
+    "populacoes": [
+     "EUR_TAURINE",
+     "IBERIAN",
+     "INDICINE",
+     "NDAMA"
+    ],
+    "acerto": {
+     "EUR_TAURINE": 86.8,
+     "IBERIAN": 18.2,
+     "INDICINE": 87.7,
+     "NDAMA": 95.6
+    },
+    "matriz": [
+     [
+      86.8,
+      66.5,
+      9.2,
+      3.2
+     ],
+     [
+      4.0,
+      18.2,
+      0.1,
+      0.0
+     ],
+     [
+      3.0,
+      0.8,
+      87.7,
+      1.1
+     ],
+     [
+      6.2,
+      14.5,
+      3.0,
+      95.6
+     ]
+    ],
+    "principal_confusao": {
+     "EUR_TAURINE": [
+      "NDAMA",
+      6.2
+     ],
+     "IBERIAN": [
+      "EUR_TAURINE",
+      66.5
+     ],
+     "INDICINE": [
+      "EUR_TAURINE",
+      9.2
+     ],
+     "NDAMA": [
+      "EUR_TAURINE",
+      3.2
+     ]
+    },
+    "peso_crf": 17,
+    "n_simulados": 800,
+    "n_parentes": 13
+   },
+   "passa_todos_os_paineis": false,
+   "pior_painel": {
+    "painel": "IBERIAN",
+    "acerto": 18.2,
+    "confundido_com": "EUR_TAURINE"
+   },
+   "controle_por_omissao": {
+    "EUR_TAURINE": {
+     "n_hap": 20,
+     "certo_no_prlr": 20,
+     "fracao_media_do_proprio_painel": 0.953
+    },
+    "INDICINE": {
+     "n_hap": 20,
+     "certo_no_prlr": 17,
+     "fracao_media_do_proprio_painel": 0.853
+    }
+   },
+   "controle_positivo_mistura": {
+    "ANKOLE": {
+     "EUR_TAURINE": 0.408,
+     "NDAMA": 0.309,
+     "INDICINE": 0.276,
+     "IBERIAN": 0.007
+    },
+    "BORAN": {
+     "INDICINE": 0.597,
+     "NDAMA": 0.244,
+     "EUR_TAURINE": 0.152,
+     "IBERIAN": 0.006
+    },
+    "OGADEN": {
+     "INDICINE": 0.616,
+     "NDAMA": 0.222,
+     "EUR_TAURINE": 0.155,
+     "IBERIAN": 0.008
+    }
+   },
+   "janela_prlr": [
+    39096534,
+    39115415,
+    34.37,
+    34.4
+   ],
+   "n_janelas": 1752
+  },
+  "m3": {
+   "descricao": "3 vias",
+   "simulacao_interna": {
+    "populacoes": [
+     "INDICINE",
+     "TAURINO_AFRICANO",
+     "TAURINO_EUROPEU"
+    ],
+    "acerto": {
+     "INDICINE": 89.1,
+     "TAURINO_AFRICANO": 82.7,
+     "TAURINO_EUROPEU": 99.0
+    },
+    "matriz": [
+     [
+      89.1,
+      0.8,
+      0.6
+     ],
+     [
+      2.3,
+      82.7,
+      0.4
+     ],
+     [
+      8.6,
+      16.5,
+      99.0
+     ]
+    ],
+    "principal_confusao": {
+     "INDICINE": [
+      "TAURINO_EUROPEU",
+      8.6
+     ],
+     "TAURINO_AFRICANO": [
+      "TAURINO_EUROPEU",
+      16.5
+     ],
+     "TAURINO_EUROPEU": [
+      "INDICINE",
+      0.6
+     ]
+    },
+    "peso_crf": 99,
+    "n_simulados": 600,
+    "n_parentes": 12
+   },
+   "passa_todos_os_paineis": true,
+   "pior_painel": {
+    "painel": "TAURINO_AFRICANO",
+    "acerto": 82.7,
+    "confundido_com": "TAURINO_EUROPEU"
+   },
+   "controle_por_omissao": {
+    "EUR_TAURINE": {
+     "n_hap": 20,
+     "certo_no_prlr": 20,
+     "fracao_media_do_proprio_painel": 1.0
+    },
+    "INDICINE": {
+     "n_hap": 20,
+     "certo_no_prlr": 19,
+     "fracao_media_do_proprio_painel": 0.912
+    }
+   },
+   "controle_positivo_mistura": {
+    "ANKOLE": {
+     "TAURINO_EUROPEU": 0.513,
+     "INDICINE": 0.283,
+     "TAURINO_AFRICANO": 0.205
+    },
+    "BORAN": {
+     "INDICINE": 0.674,
+     "TAURINO_EUROPEU": 0.185,
+     "TAURINO_AFRICANO": 0.141
+    },
+    "OGADEN": {
+     "INDICINE": 0.761,
+     "TAURINO_EUROPEU": 0.123,
+     "TAURINO_AFRICANO": 0.116
+    }
+   },
+   "janela_prlr": [
+    39096534,
+    39159593,
+    34.37,
+    34.45
+   ],
+   "n_janelas": 77
+  },
+  "m5": {
+   "descricao": "5 vias",
+   "simulacao_interna": {
+    "populacoes": [
+     "ASIAN_TAURINE",
+     "EUR_TAURINE",
+     "IBERIAN",
+     "INDICINE",
+     "NDAMA"
+    ],
+    "acerto": {
+     "ASIAN_TAURINE": 96.9,
+     "EUR_TAURINE": 80.2,
+     "IBERIAN": 13.1,
+     "INDICINE": 91.6,
+     "NDAMA": 92.0
+    },
+    "matriz": [
+     [
+      96.9,
+      13.8,
+      3.5,
+      5.2,
+      1.7
+     ],
+     [
+      1.6,
+      80.2,
+      80.2,
+      2.8,
+      5.7
+     ],
+     [
+      0.0,
+      0.5,
+      13.1,
+      0.1,
+      0.2
+     ],
+     [
+      0.8,
+      2.7,
+      0.6,
+      91.6,
+      0.3
+     ],
+     [
+      0.6,
+      2.8,
+      2.6,
+      0.4,
+      92.0
+     ]
+    ],
+    "principal_confusao": {
+     "ASIAN_TAURINE": [
+      "EUR_TAURINE",
+      1.6
+     ],
+     "EUR_TAURINE": [
+      "ASIAN_TAURINE",
+      13.8
+     ],
+     "IBERIAN": [
+      "EUR_TAURINE",
+      80.2
+     ],
+     "INDICINE": [
+      "ASIAN_TAURINE",
+      5.2
+     ],
+     "NDAMA": [
+      "EUR_TAURINE",
+      5.7
+     ]
+    },
+    "peso_crf": 37,
+    "n_simulados": 1000,
+    "n_parentes": 18
+   },
+   "passa_todos_os_paineis": false,
+   "pior_painel": {
+    "painel": "IBERIAN",
+    "acerto": 13.1,
+    "confundido_com": "EUR_TAURINE"
+   }
+  },
+  "c4": {
+   "descricao": "4 vias, paineis pequenos reduzidos",
+   "simulacao_interna": {
+    "populacoes": [
+     "EUR_TAURINE",
+     "IBERIAN",
+     "INDICINE",
+     "NDAMA"
+    ],
+    "acerto": {
+     "EUR_TAURINE": 65.2,
+     "IBERIAN": 14.4,
+     "INDICINE": 48.1,
+     "NDAMA": 64.5
+    },
+    "matriz": [
+     [
+      65.2,
+      66.5,
+      33.9,
+      13.9
+     ],
+     [
+      12.3,
+      14.4,
+      8.0,
+      13.3
+     ],
+     [
+      8.8,
+      4.2,
+      48.1,
+      8.2
+     ],
+     [
+      13.7,
+      14.9,
+      9.9,
+      64.5
+     ]
+    ],
+    "principal_confusao": {
+     "EUR_TAURINE": [
+      "NDAMA",
+      13.7
+     ],
+     "IBERIAN": [
+      "EUR_TAURINE",
+      66.5
+     ],
+     "INDICINE": [
+      "EUR_TAURINE",
+      33.9
+     ],
+     "NDAMA": [
+      "EUR_TAURINE",
+      13.9
+     ]
+    },
+    "peso_crf": 1,
+    "n_simulados": 800,
+    "n_parentes": 13
+   },
+   "passa_todos_os_paineis": false,
+   "pior_painel": {
+    "painel": "IBERIAN",
+    "acerto": 14.4,
+    "confundido_com": "EUR_TAURINE"
+   },
+   "controle_por_omissao": {
+    "NDAMA": {
+     "n_hap": 6,
+     "certo_no_prlr": 2,
+     "fracao_media_do_proprio_painel": 0.673
+    },
+    "IBERIAN": {
+     "n_hap": 4,
+     "certo_no_prlr": 2,
+     "fracao_media_do_proprio_painel": 0.168
+    }
+   },
+   "janela_prlr": [
+    39087012,
+    39100176,
+    34.34,
+    34.38
+   ],
+   "n_janelas": 1906
+  }
+ }
+}

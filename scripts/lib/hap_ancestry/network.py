@@ -18,6 +18,7 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
+import matplotlib.patheffects as pe
 from .assign import focal_index, carrier_haplotypes
 
 
@@ -81,9 +82,12 @@ def plot_network(pos, H, hap_grp, coding_idx, cfg, out):
     panels = [p for p in cfg.panel_style if (hap_grp == p).sum() >= cfg.min_hap_panel]
 
     nfoc = len(cfg.focal_sites)
-    fig, axes = plt.subplots(1, nfoc, figsize=(6.2 * nfoc, 5.6))
+    # Layout VERTICAL, um alelo por linha: cabe numa coluna de pagina; na horizontal so
+    # cabia em pagina inteira e os rotulos encolhiam ate ficarem ilegiveis.
+    fig, axes = plt.subplots(nfoc, 1, figsize=(3.4, 3.1 * nfoc))
     if nfoc == 1:
         axes = [axes]
+    axes = np.atleast_1d(axes).ravel()
 
     linhas = []
     for ax, (rotulo, foco) in zip(axes, cfg.focal_sites):
@@ -127,24 +131,24 @@ def plot_network(pos, H, hap_grp, coding_idx, cfg, out):
             if eh_port:
                 ax.add_patch(plt.Circle((XY[i, 0], XY[i, 1]), r * 1.55, fill=False,
                                         edgecolor="#d73027", lw=2.0, zorder=6))
-                ax.annotate(f"{c['CARRIER']}", (XY[i, 0], XY[i, 1] + r * 1.9),
-                            ha="center", fontsize=8.5, color="#d73027",
-                            fontweight="bold", zorder=7)
+                # o rotulo caia sobre o anel do no vizinho, na mesma cor, e sumia.
+                # Contorno branco e afastamento maior separam os dois sem mover o no.
+                ax.annotate(f"{c['CARRIER']}", (XY[i, 0], XY[i, 1] + r * 2.25),
+                            ha="center", fontsize=7.5, color="#d73027",
+                            fontweight="bold", zorder=8,
+                            path_effects=[pe.withStroke(linewidth=2.4, foreground="white")])
 
-        ax.set_title(f"{rotulo} — {len(port)} carrier haplotypes, "
-                     f"{n_port_tipos} distinct", fontsize=11, fontweight="bold")
+        ax.set_title(f"{rotulo}: {len(port)} carrier haplotypes, "
+                     f"{n_port_tipos} distinct", fontsize=9, fontweight="bold", pad=4)
         ax.set_aspect("equal"); ax.axis("off")
 
     leg = [Line2D([], [], marker="o", ls="", ms=8, mfc=colors[p], mec="black",
                   mew=0.5, label=rotulos[p]) for p in panels]
     leg.append(Line2D([], [], marker="o", ls="", ms=11, mfc="none", mec="#d73027",
                       mew=2, label=f"carries the {cfg.allele_label}"))
-    fig.legend(handles=leg, loc="lower center", ncol=4, frameon=False, fontsize=9,
-               bbox_to_anchor=(0.5, -0.04))
-    sup = cfg.title or (f"Coding-site haplotypes of $\\it{{{cfg.locus_name}}}$; "
-                        "node size is copy number, slices show panel composition")
-    fig.suptitle(sup, fontsize=9.5, y=0.99, color="#444")
-    fig.tight_layout(rect=(0, 0.07, 1, 0.96))
+    fig.legend(handles=leg, loc="lower center", ncol=2, frameon=False, fontsize=7.5,
+               bbox_to_anchor=(0.5, -0.012))
+    fig.tight_layout(rect=(0, 0.055, 1, 0.995))
 
     out = pathlib.Path(out)
     out.parent.mkdir(parents=True, exist_ok=True)

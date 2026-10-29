@@ -1,0 +1,809 @@
+{
+ "config": "slick_iberico_declarado.yaml",
+ "rotulos": "groups_iberico_declarado.tsv",
+ "paineis_haplotipos": {
+  "EUR_TAURINE": 162,
+  "NDAMA": 34,
+  "ANKOLE": 16,
+  "BORAN": 22,
+  "OGADEN": 18,
+  "CRIOLLO": 100,
+  "IBERIAN": 8
+ },
+ "excluidos_sem_suporte": {
+  "SLICK2": [
+   "ERR12035125",
+   "ERR12035133"
+  ],
+  "SLICK3": [
+   "ERR12035159"
+  ],
+  "SLICK6": [
+   "ERR12035135"
+  ]
+ },
+ "reps_bootstrap": 2000,
+ "reps_rarefacao": 500,
+ "semente": 20261026,
+ "alelos": {
+  "SLICK1": {
+   "pos": 39099213,
+   "n_haplotipos": 5,
+   "n_animais": 4,
+   "animais": [
+    "SAMN08166129",
+    "SAMN08166130",
+    "SAMN09213442",
+    "SAMN09213443"
+   ],
+   "classes": {
+    "so sinonimas": {
+     "n_sitios": 24,
+     "contagem": {
+      "NDAMA": 4,
+      "IBERIAN": 1
+     },
+     "posterior_mediana": 0.4144445499159092,
+     "estabilidade_bootstrap": 0.699,
+     "vencedor_bootstrap": "NDAMA",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so nao sinonimas": {
+     "n_sitios": 32,
+     "contagem": {
+      "NDAMA": 4,
+      "EUR_TAURINE": 1
+     },
+     "posterior_mediana": 0.27806618503819763,
+     "estabilidade_bootstrap": 0.528,
+     "vencedor_bootstrap": "NDAMA",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so introns": {
+     "n_sitios": 1360,
+     "contagem": {
+      "IBERIAN": 2,
+      "NDAMA": 2,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.9998319890400461,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    },
+    "gene inteiro": {
+     "n_sitios": 39137,
+     "contagem": {
+      "EUR_TAURINE": 3,
+      "NDAMA": 1,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.9999996984948382,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    }
+   },
+   "rarefacao": {
+    "k": 8,
+    "modal_por_replica": {
+     "so sinonimas": {
+      "BORAN": 11,
+      "NDAMA": 468,
+      "OGADEN": 18,
+      "ANKOLE": 1,
+      "CRIOLLO": 2
+     },
+     "so nao sinonimas": {
+      "BORAN": 44,
+      "ANKOLE": 166,
+      "NDAMA": 285,
+      "OGADEN": 5
+     }
+    }
+   },
+   "lote": {
+    "RUN8": {
+     "so sinonimas": {
+      "NDAMA": 4,
+      "IBERIAN": 1
+     },
+     "so nao sinonimas": {
+      "NDAMA": 4,
+      "EUR_TAURINE": 1
+     }
+    }
+   },
+   "configuracoes": {
+    "n": 2,
+    "copias": [
+     4,
+     1
+    ]
+   },
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 12,
+     "contagem": {
+      "IBERIAN": 4,
+      "ANKOLE": 1
+     },
+     "posterior_mediana": 0.24001511985666937
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 216,
+     "contagem": {
+      "NDAMA": 4,
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 0.74294089187966
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 370,
+     "contagem": {
+      "IBERIAN": 2,
+      "NDAMA": 1,
+      "EUR_TAURINE": 1,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.999291619958198
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 721,
+     "contagem": {
+      "NDAMA": 4,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.9895131276499024
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 41,
+     "contagem": {
+      "IBERIAN": 5
+     },
+     "posterior_mediana": 0.1875884811073921
+    }
+   ],
+   "por_haplotipo": [
+    {
+     "amostra": "SAMN09213442",
+     "cromossomo": 0,
+     "so sinonimas": "NDAMA",
+     "so nao sinonimas": "NDAMA"
+    },
+    {
+     "amostra": "SAMN09213442",
+     "cromossomo": 1,
+     "so sinonimas": "NDAMA",
+     "so nao sinonimas": "NDAMA"
+    },
+    {
+     "amostra": "SAMN09213443",
+     "cromossomo": 1,
+     "so sinonimas": "NDAMA",
+     "so nao sinonimas": "NDAMA"
+    },
+    {
+     "amostra": "SAMN08166129",
+     "cromossomo": 0,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166130",
+     "cromossomo": 1,
+     "so sinonimas": "NDAMA",
+     "so nao sinonimas": "NDAMA"
+    }
+   ]
+  },
+  "SLICK2": {
+   "pos": 39099321,
+   "n_haplotipos": 22,
+   "n_animais": 15,
+   "animais": [
+    "ERR12035115",
+    "ERR12035117",
+    "ERR12035119",
+    "ERR12035139",
+    "ERR12035148",
+    "ERR12035149",
+    "ERR12035153",
+    "ERR12035155",
+    "ERR12035157",
+    "ERR12035159",
+    "SAMN08166127",
+    "SAMN08166128",
+    "SAMN08166129",
+    "SAMN08166132",
+    "SAMN08166133"
+   ],
+   "classes": {
+    "so sinonimas": {
+     "n_sitios": 24,
+     "contagem": {
+      "EUR_TAURINE": 19,
+      "IBERIAN": 3
+     },
+     "posterior_mediana": 0.3805371072513923,
+     "estabilidade_bootstrap": 0.361,
+     "vencedor_bootstrap": "EUR_TAURINE",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so nao sinonimas": {
+     "n_sitios": 32,
+     "contagem": {
+      "EUR_TAURINE": 19,
+      "IBERIAN": 3
+     },
+     "posterior_mediana": 0.3855712805867983,
+     "estabilidade_bootstrap": 0.425,
+     "vencedor_bootstrap": "EUR_TAURINE",
+     "fracao_ic95": [
+      0.0,
+      0.8636363636363636
+     ]
+    },
+    "so introns": {
+     "n_sitios": 1360,
+     "contagem": {
+      "ANKOLE": 5,
+      "NDAMA": 11,
+      "CRIOLLO": 6
+     },
+     "posterior_mediana": 0.9999998038527498,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    },
+    "gene inteiro": {
+     "n_sitios": 39137,
+     "contagem": {
+      "ANKOLE": 7,
+      "CRIOLLO": 11,
+      "NDAMA": 4
+     },
+     "posterior_mediana": 0.999999976263598,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    }
+   },
+   "rarefacao": {
+    "k": 8,
+    "modal_por_replica": {
+     "so sinonimas": {
+      "CRIOLLO": 144,
+      "EUR_TAURINE": 270,
+      "BORAN": 28,
+      "NDAMA": 39,
+      "ANKOLE": 19
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 453,
+      "CRIOLLO": 20,
+      "IBERIAN": 27
+     }
+    }
+   },
+   "lote": {
+    "ERP150979": {
+     "so sinonimas": {
+      "EUR_TAURINE": 12,
+      "IBERIAN": 3
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 12,
+      "IBERIAN": 3
+     }
+    },
+    "RUN8": {
+     "so sinonimas": {
+      "EUR_TAURINE": 7
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 7
+     }
+    }
+   },
+   "configuracoes": {
+    "n": 5,
+    "copias": [
+     17,
+     2,
+     1,
+     1,
+     1
+    ]
+   },
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 18,
+     "contagem": {
+      "ANKOLE": 17,
+      "IBERIAN": 5
+     },
+     "posterior_mediana": 0.34411183261750544
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 209,
+     "contagem": {
+      "NDAMA": 18,
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.8874446826960481
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 373,
+     "contagem": {
+      "ANKOLE": 9,
+      "NDAMA": 9,
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.9985967917453457
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 715,
+     "contagem": {
+      "ANKOLE": 1,
+      "NDAMA": 11,
+      "CRIOLLO": 10
+     },
+     "posterior_mediana": 0.9729407476145482
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 45,
+     "contagem": {
+      "EUR_TAURINE": 1,
+      "IBERIAN": 21
+     },
+     "posterior_mediana": 0.19414835562900212
+    }
+   ],
+   "por_haplotipo": [
+    {
+     "amostra": "SAMN08166127",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166128",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166128",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166129",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166132",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166133",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "SAMN08166133",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035115",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035115",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035117",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035119",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035119",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035139",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035148",
+     "cromossomo": 0,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035149",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035153",
+     "cromossomo": 0,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035153",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035155",
+     "cromossomo": 0,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "IBERIAN"
+    },
+    {
+     "amostra": "ERR12035155",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035157",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "IBERIAN"
+    },
+    {
+     "amostra": "ERR12035159",
+     "cromossomo": 0,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "IBERIAN"
+    },
+    {
+     "amostra": "ERR12035159",
+     "cromossomo": 1,
+     "so sinonimas": "EUR_TAURINE",
+     "so nao sinonimas": "EUR_TAURINE"
+    }
+   ]
+  },
+  "SLICK3": {
+   "pos": 39099226,
+   "n_haplotipos": 1,
+   "n_animais": 1,
+   "animais": [
+    "ERR12035135"
+   ],
+   "classes": {
+    "so sinonimas": {
+     "n_sitios": 24,
+     "contagem": {
+      "IBERIAN": 1
+     },
+     "posterior_mediana": 0.39500272908590023,
+     "estabilidade_bootstrap": 0.886,
+     "vencedor_bootstrap": "IBERIAN",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so nao sinonimas": {
+     "n_sitios": 32,
+     "contagem": {
+      "IBERIAN": 1
+     },
+     "posterior_mediana": 0.5148620678253841,
+     "estabilidade_bootstrap": 0.9455,
+     "vencedor_bootstrap": "IBERIAN",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so introns": {
+     "n_sitios": 1360,
+     "contagem": {
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 1.0,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    },
+    "gene inteiro": {
+     "n_sitios": 39137,
+     "contagem": {
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 1.0,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    }
+   },
+   "rarefacao": {
+    "k": 8,
+    "modal_por_replica": {
+     "so sinonimas": {
+      "IBERIAN": 414,
+      "EUR_TAURINE": 80,
+      "CRIOLLO": 6
+     },
+     "so nao sinonimas": {
+      "IBERIAN": 472,
+      "CRIOLLO": 15,
+      "EUR_TAURINE": 13
+     }
+    }
+   },
+   "lote": {
+    "ERP150979": {
+     "so sinonimas": {
+      "IBERIAN": 1
+     },
+     "so nao sinonimas": {
+      "IBERIAN": 1
+     }
+    }
+   },
+   "configuracoes": {
+    "n": 1,
+    "copias": [
+     1
+    ]
+   },
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 13,
+     "contagem": {
+      "IBERIAN": 1
+     },
+     "posterior_mediana": 0.2419909465572574
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 213,
+     "contagem": {
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 0.9999963454874041
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 372,
+     "contagem": {
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 0.9999978758706334
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 720,
+     "contagem": {
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 0.9999999999932205
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 42,
+     "contagem": {
+      "IBERIAN": 1
+     },
+     "posterior_mediana": 0.18741359144682315
+    }
+   ],
+   "por_haplotipo": [
+    {
+     "amostra": "ERR12035135",
+     "cromossomo": 1,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "IBERIAN"
+    }
+   ]
+  },
+  "SLICK6": {
+   "pos": 39099267,
+   "n_haplotipos": 3,
+   "n_animais": 3,
+   "animais": [
+    "ERR12035121",
+    "ERR12035132",
+    "ERR12035149"
+   ],
+   "classes": {
+    "so sinonimas": {
+     "n_sitios": 24,
+     "contagem": {
+      "IBERIAN": 3
+     },
+     "posterior_mediana": 0.39655367010586506,
+     "estabilidade_bootstrap": 0.866,
+     "vencedor_bootstrap": "IBERIAN",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so nao sinonimas": {
+     "n_sitios": 32,
+     "contagem": {
+      "EUR_TAURINE": 1,
+      "IBERIAN": 2
+     },
+     "posterior_mediana": 0.5183464549878622,
+     "estabilidade_bootstrap": 0.951,
+     "vencedor_bootstrap": "IBERIAN",
+     "fracao_ic95": [
+      0.0,
+      1.0
+     ]
+    },
+    "so introns": {
+     "n_sitios": 1360,
+     "contagem": {
+      "CRIOLLO": 3
+     },
+     "posterior_mediana": 1.0,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    },
+    "gene inteiro": {
+     "n_sitios": 39137,
+     "contagem": {
+      "CRIOLLO": 3
+     },
+     "posterior_mediana": 1.0,
+     "estabilidade_bootstrap": null,
+     "vencedor_bootstrap": null,
+     "fracao_ic95": null
+    }
+   },
+   "rarefacao": {
+    "k": 8,
+    "modal_por_replica": {
+     "so sinonimas": {
+      "IBERIAN": 419,
+      "EUR_TAURINE": 74,
+      "CRIOLLO": 7
+     },
+     "so nao sinonimas": {
+      "IBERIAN": 477,
+      "CRIOLLO": 14,
+      "EUR_TAURINE": 9
+     }
+    }
+   },
+   "lote": {
+    "ERP150979": {
+     "so sinonimas": {
+      "IBERIAN": 3
+     },
+     "so nao sinonimas": {
+      "EUR_TAURINE": 1,
+      "IBERIAN": 2
+     }
+    }
+   },
+   "configuracoes": {
+    "n": 2,
+    "copias": [
+     2,
+     1
+    ]
+   },
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 14,
+     "contagem": {
+      "IBERIAN": 3
+     },
+     "posterior_mediana": 0.24292515082840482
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 211,
+     "contagem": {
+      "CRIOLLO": 3
+     },
+     "posterior_mediana": 0.9999955435667909
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 373,
+     "contagem": {
+      "CRIOLLO": 3
+     },
+     "posterior_mediana": 0.6598453110780984
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 718,
+     "contagem": {
+      "CRIOLLO": 3
+     },
+     "posterior_mediana": 0.9999760438800144
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 44,
+     "contagem": {
+      "IBERIAN": 3
+     },
+     "posterior_mediana": 0.19348409166305564
+    }
+   ],
+   "por_haplotipo": [
+    {
+     "amostra": "ERR12035121",
+     "cromossomo": 0,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "EUR_TAURINE"
+    },
+    {
+     "amostra": "ERR12035132",
+     "cromossomo": 1,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "IBERIAN"
+    },
+    {
+     "amostra": "ERR12035149",
+     "cromossomo": 1,
+     "so sinonimas": "IBERIAN",
+     "so nao sinonimas": "IBERIAN"
+    }
+   ]
+  }
+ }
+}

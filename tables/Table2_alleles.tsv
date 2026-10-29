@@ -1,0 +1,5 @@
+Allele	Position (BTA20)	HGVS	Carrier haplotypes / animals	Calls checked on reads / rejected	Distinct coding configurations	39 kb coding classifier	Local ancestry, 10 Mb (3-way)	Closest panel (±50 kb), by haplotype
+SLICK1	39,099,213	c.1382del, p.Ala461ValfsTer2	5 / 4	0 of 4 / –	2	N'Dama 4, Continental European 1	European taurine 5	Criollo 3 (4-55 diff.), N'Dama 2 (21-37 diff.)
+SLICK3	39,099,226	c.1394C>A, p.Ser465Ter	1 / 1	2 of 2 / 1	1	Iberian 1	European taurine 1	Criollo 1 (1 diff.)
+SLICK6	39,099,267	c.1435C>T, p.Gln479Ter	3 / 3	4 of 4 / 1	2	Iberian 2, Continental European 1	European taurine 3	Criollo 2 (5-10 diff.), Continental European 1 (14 diff.)
+SLICK2	39,099,321	c.1489C>T, p.Arg497Ter	22 / 15	12 of 17 / 2	5	Continental European 19, Iberian 3	European taurine 22	Criollo 12 (3-34 diff.), Continental European 8 (5-46 diff.), Indicine 2 (19-28 diff.)

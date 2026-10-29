@@ -1,0 +1,4 @@
+Reference configuration	Internal simulation accuracy per panel (%)	Weakest panel	Held-out reference haplotypes recovered	Mean window
+3-way (European taurine / African taurine / indicine)	Indicine 89; African taurine 83; European taurine 99	African taurine 83%, mistaken for European taurine	Continental European 20/20; Indicine 19/20	130 kb
+4-way (continental European / Iberian / N'Dama / indicine)	Continental European 87; Iberian 18; Indicine 88; N'Dama 96	Iberian 18%, mistaken for Continental European	Continental European 20/20; Indicine 17/20	6 kb
+5-way (4-way plus North and East Asian taurine)	Asian taurine 97; Continental European 80; Iberian 13; Indicine 92; N'Dama 92	Iberian 13%, mistaken for Continental European	n.a.	11 kb

@@ -9,7 +9,7 @@
 # GSE192471), o que permite medir concordancia contra uma verdade externa.
 #
 # Reaproveita: os BAMs ja produzidos por senepol_prlr_genotype.sh em
-# /data/slick_ancestry/p4_senepol/bam/*.prlr.bam e a imagem p4-tools.
+# /data/slick_ancestry/p4_senepol/bam/*.prlr.bam e o container de ferramentas (ver README).
 #
 # LICOES JA APRENDIDAS, aplicadas aqui:
 #  - bcftools mpileup pula chamada de indel acima de DP 250 por amostra

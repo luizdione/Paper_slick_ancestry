@@ -1,12 +1,33 @@
-# Python dependencies for the calculation and figure scripts.
-# Tested with Python 3.10+ (conda/miniforge recommended).
-numpy>=1.23
-scipy>=1.9
-pandas>=1.5
-matplotlib>=3.6
-pyyaml>=6.0
+# Ambiente de analise — slick_ancestry
+# Testado em Python 3.11.15 (conda/Miniforge3).
+#
+#   conda create -n slick python=3.11
+#   conda activate slick
+#   pip install -r requirements.txt
+#
+# Os pinos ao lado de cada linha sao as versoes com que os resultados foram produzidos.
+# Versoes mais novas dessas bibliotecas devem funcionar; as minimas indicam o piso
+# de API efetivamente usado pelos scripts.
 
-# External command-line tools invoked by the shell pipelines (install
-# separately, e.g. via conda-forge/bioconda; not pip-installable):
-#   bcftools, samtools, bwa, bbmap (bbduk), aria2c, plink/plink2,
-#   beagle (Java), admixture
+numpy>=1.24,<3          # 2.1.3
+scipy>=1.10             # 1.13.1  (otimizacao SLSQP no estimador supervisionado)
+pandas>=2.0             # 2.3.3
+matplotlib>=3.7         # 3.10.8  (todas as figuras)
+PyYAML>=6.0             # 6.0.2   (config/*.yaml)
+
+# A biblioteca padrao cobre o resto: argparse, collections, dataclasses, gzip,
+# pathlib, re, subprocess.
+#
+# FERRAMENTAS EXTERNAS (nao instalaveis por pip), usadas pelos scripts .sh e chamadas por
+# subprocess; versoes com que os resultados foram produzidos entre parenteses:
+#   bcftools >= 1.17         (1.19; subcomando csq, anotacao de consequencia)
+#   samtools                 (1.19.2; mpileup da validacao por leitura, sempre com -B)
+#   BEAGLE 5.4               (beagle.22Jul22.46e.jar) https://faculty.washington.edu/browning/beagle/
+#   RFMix v2.03              (v2.03-r0, compilado da fonte) https://github.com/slowkoni/rfmix
+#   Java                     (OpenJDK 21)
+#   bwa, aria2c              (aquisicao e alinhamento)
+#   PLINK 1.9 e PLINK 2      https://www.cog-genomics.org/plink/
+#   ADMIXTURE 1.3.0          https://dalexander.github.io/admixture/
+#   R >= 4.2 + LEA (sNMF)    https://bioconductor.org/packages/LEA/
+#
+# Genoma de referencia: ARS-UCD1.2. Mapa fisico-genetico: CLARITY.

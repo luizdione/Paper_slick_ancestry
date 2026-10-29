@@ -1,0 +1,34 @@
+{
+ "ERR12035149": {
+  "hap0": {
+   "carrega": [
+    "SLICK2"
+   ],
+   "so sinonimas": "EUR_TAURINE",
+   "so nao sinonimas": "EUR_TAURINE"
+  },
+  "hap1": {
+   "carrega": [
+    "SLICK6"
+   ],
+   "so sinonimas": "IBERIAN",
+   "so nao sinonimas": "IBERIAN"
+  }
+ },
+ "SAMN08166129": {
+  "hap0": {
+   "carrega": [
+    "SLICK1"
+   ],
+   "so sinonimas": "IBERIAN",
+   "so nao sinonimas": "EUR_TAURINE"
+  },
+  "hap1": {
+   "carrega": [
+    "SLICK2"
+   ],
+   "so sinonimas": "EUR_TAURINE",
+   "so nao sinonimas": "EUR_TAURINE"
+  }
+ }
+}

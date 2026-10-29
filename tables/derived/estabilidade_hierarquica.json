@@ -1,0 +1,193 @@
+{
+ "reps": 2000,
+ "semente": 20261027,
+ "grupos": {
+  "NDAMA": "africano",
+  "ANKOLE": "africano",
+  "BORAN": "africano",
+  "OGADEN": "africano",
+  "EUR_TAURINE": "europeu",
+  "IBERIAN": "europeu",
+  "CRIOLLO": "local"
+ },
+ "alelos": {
+  "SLICK1": {
+   "so sinonimas": {
+    "vencedor_observado": "NDAMA",
+    "grupo_observado": "africano",
+    "consenso_por_painel": {
+     "NDAMA": 0.67,
+     "IBERIAN": 0.2495,
+     "EUR_TAURINE": 0.041,
+     "ANKOLE": 0.0295,
+     "OGADEN": 0.01
+    },
+    "consenso_por_grupo": {
+     "africano": 0.7095,
+     "europeu": 0.2905
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 0.8,
+    "reps": 2000
+   },
+   "so nao sinonimas": {
+    "vencedor_observado": "NDAMA",
+    "grupo_observado": "africano",
+    "consenso_por_painel": {
+     "NDAMA": 0.547,
+     "ANKOLE": 0.278,
+     "IBERIAN": 0.0745,
+     "OGADEN": 0.0725,
+     "EUR_TAURINE": 0.0205,
+     "BORAN": 0.0075
+    },
+    "consenso_por_grupo": {
+     "africano": 0.905,
+     "europeu": 0.095
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 0.8,
+    "reps": 2000
+   }
+  },
+  "SLICK2": {
+   "so sinonimas": {
+    "vencedor_observado": "EUR_TAURINE",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "EUR_TAURINE": 0.3445,
+     "ANKOLE": 0.2805,
+     "IBERIAN": 0.249,
+     "NDAMA": 0.076,
+     "BORAN": 0.0475,
+     "CRIOLLO": 0.0025
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.5935,
+     "africano": 0.404,
+     "local": 0.0025
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   },
+   "so nao sinonimas": {
+    "vencedor_observado": "EUR_TAURINE",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "EUR_TAURINE": 0.426,
+     "IBERIAN": 0.318,
+     "NDAMA": 0.2225,
+     "ANKOLE": 0.0235,
+     "BORAN": 0.0055,
+     "OGADEN": 0.0045
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.744,
+     "africano": 0.256
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   }
+  },
+  "SLICK3": {
+   "so sinonimas": {
+    "vencedor_observado": "IBERIAN",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "IBERIAN": 0.866,
+     "NDAMA": 0.09,
+     "EUR_TAURINE": 0.044
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.91,
+     "africano": 0.09
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   },
+   "so nao sinonimas": {
+    "vencedor_observado": "IBERIAN",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "IBERIAN": 0.958,
+     "NDAMA": 0.03,
+     "OGADEN": 0.004,
+     "EUR_TAURINE": 0.004,
+     "ANKOLE": 0.0025,
+     "BORAN": 0.0015
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.962,
+     "africano": 0.038
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   }
+  },
+  "SLICK6": {
+   "so sinonimas": {
+    "vencedor_observado": "IBERIAN",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "IBERIAN": 0.8755,
+     "NDAMA": 0.0835,
+     "EUR_TAURINE": 0.041
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.9165,
+     "africano": 0.0835
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   },
+   "so nao sinonimas": {
+    "vencedor_observado": "IBERIAN",
+    "grupo_observado": "europeu",
+    "consenso_por_painel": {
+     "IBERIAN": 0.9535,
+     "NDAMA": 0.0305,
+     "ANKOLE": 0.005,
+     "EUR_TAURINE": 0.005,
+     "OGADEN": 0.0035,
+     "BORAN": 0.0025
+    },
+    "consenso_por_grupo": {
+     "europeu": 0.9585,
+     "africano": 0.0415
+    },
+    "fracao_hap_no_grupo_ic95": [
+     0.0,
+     1.0
+    ],
+    "fracao_hap_no_grupo_mediana": 1.0,
+    "reps": 2000
+   }
+  }
+ }
+}

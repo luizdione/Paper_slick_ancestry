@@ -1,0 +1,115 @@
+{
+ "janela_maf": 0.02,
+ "n_rep": 10000,
+ "semente": 20261020,
+ "alelos": [
+  {
+   "alelo": "SLICK1",
+   "n_codificante_polimorfico": 54,
+   "n_intron_polimorfico": 1360,
+   "In_medio_codificante": 0.022928703703703705,
+   "In_medio_intron": 0.02026947794117647,
+   "p_subamostragem_por_tamanho": 0.2820717928207179,
+   "pareado_por_maf": {
+    "delta_In_medio": -0.0026167176851851844,
+    "ic95": [
+     -0.008630925925925926,
+     0.002687013888888884
+    ],
+    "p_bicaudal": 0.3721627837216278,
+    "n_pareados": 54
+   }
+  },
+  {
+   "alelo": "SLICK2",
+   "n_codificante_polimorfico": 54,
+   "n_intron_polimorfico": 1360,
+   "In_medio_codificante": 0.02215796296296296,
+   "In_medio_intron": 0.02064708088235294,
+   "p_subamostragem_por_tamanho": 0.35566443355664434,
+   "pareado_por_maf": {
+    "delta_In_medio": -0.0021673301666666695,
+    "ic95": [
+     -0.007982717592592597,
+     0.003126273148148142
+    ],
+    "p_bicaudal": 0.4537546245375462,
+    "n_pareados": 54
+   }
+  },
+  {
+   "alelo": "SLICK3_cand",
+   "n_codificante_polimorfico": 54,
+   "n_intron_polimorfico": 1360,
+   "In_medio_codificante": 0.02247759259259259,
+   "In_medio_intron": 0.019898801470588236,
+   "p_subamostragem_por_tamanho": 0.274972502749725,
+   "pareado_por_maf": {
+    "delta_In_medio": -0.0022823122407407423,
+    "ic95": [
+     -0.00813339351851852,
+     0.0030411249999999944
+    ],
+    "p_bicaudal": 0.4363563643635636,
+    "n_pareados": 54
+   }
+  }
+ ],
+ "teste_b": {
+  "SLICK1": {
+   "portadores": [
+    "SAMN09213442",
+    "SAMN09213443",
+    "SAMN08166129",
+    "SAMN08166130"
+   ],
+   "painel_do_portador": [
+    "CRIOLLO"
+   ]
+  },
+  "SLICK2": {
+   "portadores": [
+    "SAMN08166127",
+    "SAMN08166128",
+    "SAMN08166129",
+    "SAMN08166132",
+    "SAMN08166133",
+    "ERR12035115",
+    "ERR12035117",
+    "ERR12035119",
+    "ERR12035125",
+    "ERR12035133",
+    "ERR12035139",
+    "ERR12035148",
+    "ERR12035149",
+    "ERR12035153",
+    "ERR12035155",
+    "ERR12035157",
+    "ERR12035159"
+   ],
+   "painel_do_portador": [
+    "CRIOLLO"
+   ]
+  },
+  "SLICK3": {
+   "portadores": [
+    "ERR12035135",
+    "ERR12035159"
+   ],
+   "painel_do_portador": [
+    "CRIOLLO"
+   ]
+  },
+  "SLICK6": {
+   "portadores": [
+    "ERR12035121",
+    "ERR12035132",
+    "ERR12035135",
+    "ERR12035149"
+   ],
+   "painel_do_portador": [
+    "CRIOLLO"
+   ]
+  }
+ }
+}

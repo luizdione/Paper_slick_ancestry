@@ -1,0 +1,32 @@
+Allele	Animal	Chromosome	Exon 2 allele	Coding classifier (synonymous / non-synonymous)	Local ancestry: 3-way	4-way	5-way
+SLICK1	SAMN09213442	0	ALT	N'Dama / N'Dama	European taurine	N'Dama	N'Dama
+SLICK1	SAMN09213442	1	ALT	N'Dama / N'Dama	European taurine	N'Dama	N'Dama
+SLICK1	SAMN09213443	1	ALT	N'Dama / N'Dama	European taurine	N'Dama	Asian taurine
+SLICK1	SAMN08166129	0	REF	Iberian / Continental European	European taurine	N'Dama	Indicine
+SLICK1	SAMN08166130	1	ALT	N'Dama / N'Dama	European taurine	N'Dama	Asian taurine
+SLICK3	ERR12035135	1	REF	Iberian / Iberian	European taurine	Continental European	Continental European
+SLICK6	ERR12035121	0	REF	Iberian / Continental European	European taurine	Continental European	Continental European
+SLICK6	ERR12035132	1	REF	Iberian / Iberian	European taurine	Iberian	Iberian
+SLICK6	ERR12035149	1	REF	Iberian / Iberian	European taurine	Iberian	Continental European
+SLICK2	SAMN08166127	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	SAMN08166128	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	SAMN08166128	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	SAMN08166129	1	REF	Continental European / Continental European	European taurine	Continental European	Continental European
+SLICK2	SAMN08166132	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	SAMN08166133	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	SAMN08166133	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035115	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035115	1	REF	Continental European / Continental European	European taurine	Indicine	Indicine
+SLICK2	ERR12035117	0	REF	Continental European / Continental European	European taurine	N'Dama	N'Dama
+SLICK2	ERR12035119	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035119	1	REF	Continental European / Continental European	European taurine	Indicine	Indicine
+SLICK2	ERR12035139	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035148	0	REF	Iberian / Continental European	European taurine	Iberian	Iberian
+SLICK2	ERR12035149	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035153	0	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035153	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European
+SLICK2	ERR12035155	0	REF	Iberian / Iberian	European taurine	Indicine	Indicine
+SLICK2	ERR12035155	1	REF	Continental European / Continental European	European taurine	Continental European	Continental European
+SLICK2	ERR12035157	1	REF	Continental European / Iberian	European taurine	Indicine	Indicine
+SLICK2	ERR12035159	0	REF	Iberian / Iberian	European taurine	Continental European	Continental European
+SLICK2	ERR12035159	1	REF	Continental European / Continental European	European taurine	Indicine	Continental European

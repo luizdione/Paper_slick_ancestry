@@ -1,0 +1,72 @@
+# slick.yaml — configuracao do locus PRLR / alelos slick para o motor hap_ancestry.
+#
+# Este e o UNICO arquivo especifico do caso slick. O motor (analises/_lib/hap_ancestry)
+# e generico; para outro gene/projeto, copie este YAML e ajuste os campos.
+#
+# Reproduz exatamente o comportamento historico dos scripts cravados (validado
+# contra baseline em 2026-08-07): SLICK1 -> N'Dama nas classes codificantes,
+# SLICK2 -> taurino europeu.
+
+locus_name: PRLR
+allele_label: "slick allele"
+
+# Sitios focais (ARS-UCD1.2/1.3). ORDEM preservada nas figuras e no consumo do RNG.
+focal_sites:
+  - {name: SLICK1, pos: 39099213}   # c.1382del  (rs517047387, exon 11)
+  - {name: SLICK2, pos: 39099321}   # c.1489C>T
+  - {name: SLICK3, pos: 39099226}   # C>A, p.Ser465Ter
+  - {name: SLICK6, pos: 39099267}   # c.1435C>T, p.Gln479Ter
+    # SLICK6: coordenada primaria do OMIA (OMIA:001372-9913, variante 1449), de Florez
+    # Murillo et al. 2021. Portadores so no lote ERP150979 (Criollo).
+    # Vai POR ULTIMO de proposito, para nao deslocar o consumo de RNG dos tres anteriores.
+    # SLICK3 (Porto-Neto 2018): a troca C->A bate com a Tabela 1 do Gebeyehu 2025;
+    # achado em Limonero, a mesma raca do Porto-Neto 2018 (descobridor original).
+    #
+    # NOTA: 39.099.228 (c.1396A>T, a troca publicada para o SLICK5) nao entra na
+    # atribuicao: no painel completo aparece em 129 haplotipos de 113 animais, em
+    # EUR_TAURINE, BORAN, NDAMA e OGADEN. Nao e especifica das racas slick e por isso
+    # nao informa a origem do alelo.
+
+# Paineis candidatos para a ATRIBUICAO. A ORDEM importa: e o desempate do argmax.
+# ZEBU fica de fora de proposito (nao e painel de origem para o haplotipo taurino).
+panels: [EUR_TAURINE, NDAMA, ANKOLE, BORAN, OGADEN, CRIOLLO]
+
+# Estilo por painel (cor + rotulo) para a REDE. A ordem deste bloco e a ordem de
+# montagem dos nos na rede — mantida igual ao script original.
+panel_style:
+  NDAMA:       {color: "#1b7837", label: "N'Dama"}
+  EUR_TAURINE: {color: "#2166ac", label: "European taurine"}
+  CRIOLLO:     {color: "#b2abd2", label: "Criollo"}
+  ANKOLE:      {color: "#8c6d31", label: "Ankole"}
+  BORAN:       {color: "#d6604d", label: "Boran"}
+  OGADEN:      {color: "#4d4d4d", label: "Ogaden"}
+
+thresholds:
+  eps: 1.0e-4
+  min_hap_panel: 8     # haplotipos minimos para um painel valer
+  min_sites_class: 3   # sitios chamados minimos para classificar um haplotipo
+
+# Mapa consequencia (bcftools csq) -> classe. Tokens fora do mapa (UTR, splice,
+# nao anotados) sao ignorados de proposito.
+consequence_classes:
+  synonymous: syn
+  missense: nonsyn
+  stop_gained: nonsyn
+  stop_lost: nonsyn
+  start_lost: nonsyn
+  frameshift: nonsyn
+  inframe_deletion: nonsyn
+  inframe_insertion: nonsyn
+  intron: intron
+
+# Classes reportadas (rotulo -> selecao). "*" = gene inteiro (todos os sitios).
+# ORDEM = a do bootstrap (syn, nonsyn, intron, gene), para o RNG reproduzir o
+# baseline. No relatorio de atribuicao a ordem so muda a ordem das linhas do TSV.
+class_report:
+  - {label: "so sinonimas",     of: [syn]}
+  - {label: "so nao sinonimas", of: [nonsyn]}
+  - {label: "so introns",       of: [intron]}
+  - {label: "gene inteiro",     of: "*"}
+
+# Classes que contam como "codificante" para a rede de haplotipos.
+coding_classes: [syn, nonsyn]

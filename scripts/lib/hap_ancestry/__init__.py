@@ -8,8 +8,9 @@ por classe funcional, com intervalo por reamostragem de sitios e uma rede de
 haplotipos.
 
 O motor NAO conhece nenhum locus: tudo que e especifico (sitios, paineis, cores,
-limiares, mapa de consequencias) vem de um `LocusConfig` carregado de YAML. Para
-um projeto novo, escreva um YAML e reuse este mesmo motor.
+limiares, mapa de consequencias) vem de um `LocusConfig` carregado de YAML. O caso
+*slick*/*PRLR* e apenas `configs/slick.yaml`. Para um projeto novo, escreva um YAML
+e reuse este mesmo motor.
 
 API publica:
     LocusConfig.from_yaml(path)

@@ -1,0 +1,1843 @@
+sample	breed_biosample	study	study_title	sample_alias	PC1	frac_indicine	category_2026_10_13	genetic_pole	rotulo_antigo_errado
+SAMEA5064546		PRJEB29487	Asthenospermia in cattle	NRC1	-27.4	0.0	unlabelled	taurine_pole	unknown
+SAMEA5064547		PRJEB29487	Asthenospermia in cattle	NRC2	-27.9	-0.0	unlabelled	taurine_pole	unknown
+SAMN05803884	Angus lowline				-14.1	0.07	taurine_other	taurine_pole	unknown
+SAMN05803885	Angus lowline				-27.0	0.0	taurine_other	taurine_pole	unknown
+SAMN05803886	Angus lowline				-26.8	0.0	taurine_other	taurine_pole	unknown
+SAMN05803887	Angus lowline				-29.0	-0.01	taurine_other	taurine_pole	unknown
+SAMN02142985	Angus				-26.6	0.0	taurine_other	taurine_pole	unknown
+SAMN02142982	Angus				-21.8	0.03	taurine_other	taurine_pole	unknown
+SAMN02142986	Angus				-23.2	0.02	taurine_other	taurine_pole	unknown
+SAMN02842714	Angus				-27.1	0.0	taurine_other	taurine_pole	gir
+SAMN02843152	Angus				-29.2	-0.01	taurine_other	taurine_pole	nelore
+SAMN01915341	Angus				-25.7	0.01	taurine_other	taurine_pole	unknown
+SAMN01915339	Angus				-27.4	0.0	taurine_other	taurine_pole	unknown
+SAMN02843141	Angus				-25.3	0.01	taurine_other	taurine_pole	nelore
+SAMN02843079	Angus				-24.6	0.01	taurine_other	taurine_pole	nelore
+SAMN02843101	Angus				-28.6	-0.01	taurine_other	taurine_pole	nelore
+SAMN02142989	Angus				-27.2	0.0	taurine_other	taurine_pole	unknown
+SAMN02843142	Angus				-22.5	0.02	taurine_other	taurine_pole	nelore
+SAMN02843143	Angus				-25.9	0.01	taurine_other	taurine_pole	nelore
+SAMN02841106	Angus				-25.4	0.01	taurine_other	taurine_pole	gir
+SAMN02142988	Angus				-26.6	0.0	taurine_other	taurine_pole	unknown
+SAMN01915337	Angus				-21.5	0.03	taurine_other	taurine_pole	unknown
+SAMN02839607	Angus				-25.6	0.01	taurine_other	taurine_pole	unknown
+SAMN02843131	Angus				-26.6	0.0	taurine_other	taurine_pole	nelore
+SAMN02142990	Angus				-28.7	-0.01	taurine_other	taurine_pole	unknown
+SAMN02941168	Angus				-16.0	0.06	taurine_other	taurine_pole	unknown
+SAMN02841116	Angus				-27.3	0.0	taurine_other	taurine_pole	gir
+SAMN02843144	Angus				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN02843145	Angus				-24.7	0.01	taurine_other	taurine_pole	nelore
+SAMN02842717	Angus				-26.3	0.01	taurine_other	taurine_pole	gir
+SAMN02842718	Angus				-24.6	0.01	taurine_other	taurine_pole	gir
+SAMN02843054	Angus				-22.7	0.02	taurine_other	taurine_pole	nelore
+SAMN02843055	Angus				-25.8	0.01	taurine_other	taurine_pole	nelore
+SAMN02941210	Angus				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMEA3706825		PRJEB12093	Rapid Discovery of De Novo Deleterious Mutations i	RM696	-27.1	0.0	unlabelled	taurine_pole	holstein
+SAMN02142987	Angus				-24.6	0.01	taurine_other	taurine_pole	unknown
+SAMN02142983	Angus				-27.0	0.0	taurine_other	taurine_pole	unknown
+SAMN02142984	Angus				-24.7	0.01	taurine_other	taurine_pole	unknown
+SAMN02941169	Angus				-24.1	0.02	taurine_other	taurine_pole	unknown
+SAMN04545540	Ankole				85.8	0.57	indicine_or_african	admixed	brahman
+SAMN04545541	Ankole				78.7	0.53	indicine_or_african	admixed	brahman
+SAMN04545542	Ankole				64.3	0.46	indicine_or_african	admixed	brahman
+SAMN04545543	Ankole				84.6	0.56	indicine_or_african	admixed	brahman
+SAMN04545544	Ankole				70.3	0.49	indicine_or_african	admixed	brahman
+SAMN04545545	Ankole				86.1	0.57	indicine_or_african	admixed	brahman
+SAMN04545546	Ankole				88.2	0.58	indicine_or_african	admixed	brahman
+SAMN04545547	Ankole				95.9	0.62	indicine_or_african	admixed	brahman
+SAMN04545548	Ankole				89.8	0.59	indicine_or_african	admixed	brahman
+SAMN04545549	Ankole				72.5	0.5	indicine_or_african	admixed	brahman
+SAMN01915355	Blonde d'Aquitaine				-26.1	0.01	taurine_other	taurine_pole	unknown
+SAMN13389915	BelgianBlue/LimousinCross				-12.4	0.07	crossbred_composite	taurine_pole	unknown
+SAMN02843115	Composite				-26.8	0.0	crossbred_composite	taurine_pole	nelore
+SAMN02843116	Composite				-19.9	0.04	crossbred_composite	taurine_pole	nelore
+SAMN02843117	Composite				-28.2	-0.0	crossbred_composite	taurine_pole	nelore
+SAMN02843118	Composite				-22.3	0.03	crossbred_composite	taurine_pole	nelore
+SAMN02843119	Composite				-22.0	0.03	crossbred_composite	taurine_pole	nelore
+SAMN02842697	Composite				-17.6	0.05	crossbred_composite	taurine_pole	gir
+SAMN02843146	Composite				-25.8	0.01	crossbred_composite	taurine_pole	nelore
+SAMN02842713	Composite				-24.1	0.02	crossbred_composite	taurine_pole	gir
+SAMN02843104	Composite				-27.3	0.0	crossbred_composite	taurine_pole	nelore
+SAMN02841104	Composite				-21.6	0.03	crossbred_composite	taurine_pole	gir
+SAMN02843105	Composite				-8.7	0.09	crossbred_composite	taurine_pole	nelore
+SAMN02842698	Composite				-24.7	0.01	crossbred_composite	taurine_pole	gir
+SAMN02842699	Composite				-28.7	-0.01	crossbred_composite	taurine_pole	gir
+SAMN02843106	Composite				-22.8	0.02	crossbred_composite	taurine_pole	nelore
+SAMN02842703	Composite				-23.8	0.02	crossbred_composite	taurine_pole	gir
+SAMN02843107	Composite				-26.2	0.01	crossbred_composite	taurine_pole	nelore
+SRS1468771	Boran				122.8	0.75	indicine_or_african	indicine_pole	unknown
+SRS1468770	Boran				137.0	0.82	indicine_or_african	indicine_pole	unknown
+SRS1335347	Boran				133.5	0.81	indicine_or_african	indicine_pole	unknown
+SRS1338703	Boran				146.3	0.87	indicine_or_african	indicine_pole	unknown
+SRS1429391	Boran				114.2	0.71	indicine_or_african	admixed	unknown
+SRS1346805	Boran				139.3	0.83	indicine_or_african	indicine_pole	unknown
+SRS1429491	Boran				144.2	0.86	indicine_or_african	indicine_pole	unknown
+SRS1437860	Boran				96.1	0.62	indicine_or_african	admixed	unknown
+SRS1727978	Boran				133.0	0.8	indicine_or_african	indicine_pole	unknown
+SRS1468768	Boran				147.3	0.88	indicine_or_african	indicine_pole	unknown
+SAMN08435279	Brahman				187.6	1.08	indicine_or_african	indicine_pole	angus
+SAMN08435280	Brahman				185.5	1.07	indicine_or_african	indicine_pole	angus
+SAMN08435281	Brahman				177.2	1.03	indicine_or_african	indicine_pole	angus
+SAMN08435282	Brahman				199.3	1.14	indicine_or_african	indicine_pole	angus
+SAMN08435324	Brahman				181.4	1.05	indicine_or_african	indicine_pole	angus
+SAMN08435283	Brahman				153.6	0.91	indicine_or_african	indicine_pole	angus
+SAMN08435284	Brahman				183.3	1.06	indicine_or_african	indicine_pole	angus
+SAMN08435285	Brahman				137.4	0.83	indicine_or_african	indicine_pole	angus
+SAMN08435286	Brahman				167.0	0.97	indicine_or_african	indicine_pole	angus
+SAMN08435287	Brahman				178.8	1.03	indicine_or_african	indicine_pole	angus
+SAMN08435288	Brahman				171.5	1.0	indicine_or_african	indicine_pole	angus
+SAMN08435289	Brahman				131.9	0.8	indicine_or_african	indicine_pole	angus
+SAMN08435290	Brahman				202.5	1.15	indicine_or_african	indicine_pole	angus
+SAMN08435291	Brahman				123.6	0.76	indicine_or_african	indicine_pole	angus
+SAMN08435292	Brahman				198.5	1.13	indicine_or_african	indicine_pole	angus
+SAMN08435293	Brahman				180.8	1.04	indicine_or_african	indicine_pole	angus
+SAMN08435295	Brahman				163.8	0.96	indicine_or_african	indicine_pole	angus
+SAMN08435296	Brahman				163.4	0.96	indicine_or_african	indicine_pole	angus
+SAMN08435297	Brahman				159.0	0.93	indicine_or_african	indicine_pole	angus
+SAMN08435298	Brahman				170.7	0.99	indicine_or_african	indicine_pole	angus
+SAMN08435299	Brahman				174.7	1.01	indicine_or_african	indicine_pole	angus
+SAMN08435300	Brahman				192.9	1.1	indicine_or_african	indicine_pole	angus
+SAMN08435301	Brahman				150.9	0.89	indicine_or_african	indicine_pole	angus
+SAMN08435302	Brahman				201.8	1.15	indicine_or_african	indicine_pole	angus
+SAMN08435303	Brahman				173.0	1.0	indicine_or_african	indicine_pole	angus
+SAMN08435304	Brahman				187.3	1.08	indicine_or_african	indicine_pole	angus
+SAMN08435305	Brahman				188.7	1.08	indicine_or_african	indicine_pole	angus
+SAMN08435306	Brahman				158.6	0.93	indicine_or_african	indicine_pole	angus
+SAMN08435307	Brahman				143.1	0.85	indicine_or_african	indicine_pole	angus
+SAMN08435308	Brahman				170.5	0.99	indicine_or_african	indicine_pole	angus
+SAMN08435310	Brahman				144.2	0.86	indicine_or_african	indicine_pole	angus
+SAMN08435311	Brahman				182.3	1.05	indicine_or_african	indicine_pole	angus
+SAMN08435312	Brahman				173.3	1.01	indicine_or_african	indicine_pole	angus
+SAMN08435313	Brahman				167.1	0.97	indicine_or_african	indicine_pole	angus
+SAMN08435314	Brahman				153.7	0.91	indicine_or_african	indicine_pole	angus
+SAMN08435315	Brahman				186.7	1.07	indicine_or_african	indicine_pole	angus
+SAMN08435316	Brahman				169.7	0.99	indicine_or_african	indicine_pole	angus
+SAMN08435317	Brahman				194.5	1.11	indicine_or_african	indicine_pole	angus
+SAMN08435318	Brahman				198.8	1.13	indicine_or_african	indicine_pole	angus
+SAMN08435319	Brahman				185.6	1.07	indicine_or_african	indicine_pole	angus
+SAMN08435320	Brahman				184.3	1.06	indicine_or_african	indicine_pole	angus
+SAMN08435321	Brahman				177.8	1.03	indicine_or_african	indicine_pole	angus
+SAMN08435322	Brahman				188.8	1.08	indicine_or_african	indicine_pole	angus
+SAMN08435323	Brahman				200.2	1.14	indicine_or_african	indicine_pole	angus
+SAMN08435326	Brahman				173.3	1.01	indicine_or_african	indicine_pole	angus
+SAMN08435327	Brahman				151.5	0.9	indicine_or_african	indicine_pole	angus
+SAMN05788490	Brahman				118.2	0.73	indicine_or_african	admixed	unknown
+SAMN05788495	Brahman				182.5	1.05	indicine_or_african	indicine_pole	unknown
+SAMN05788496	Brahman				148.2	0.88	indicine_or_african	indicine_pole	unknown
+SAMEA4644752		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM904	-8.8	0.09	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644757		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM937	-19.3	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644727		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA032	-28.1	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32997418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM651	-20.1	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32981668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA034	-26.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644734		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM884	-16.2	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714976		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2550	-25.8	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA6163185		PRJEB28191	Short read sequencing of cattle	BOV_173	-26.1	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163192		PRJEB28191	Short read sequencing of cattle	BOV_180	-21.7	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4644764		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM998	-17.8	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714974		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2548	-24.4	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159847		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1459	-26.5	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159886		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM854	-12.7	0.07	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644728		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA059	-25.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32982418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA057	-27.6	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644749		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM963	-18.9	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644750		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM966	-11.5	0.08	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644762		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM996	-27.3	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644739		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM938	-19.3	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644755		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM806	-28.0	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA6163195		PRJEB28191	Short read sequencing of cattle	BOV_183	-26.6	0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA4644763		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM997	-24.1	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644766		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1023	-20.1	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA6163189		PRJEB28191	Short read sequencing of cattle	BOV_177	-23.9	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5714979		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM764	-18.4	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644769		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1179	-22.7	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644754		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM805	-27.4	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159853		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1655	-27.1	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA6163187		PRJEB28191	Short read sequencing of cattle	BOV_175	-22.5	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163193		PRJEB28191	Short read sequencing of cattle	BOV_181	-22.7	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4644765		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1003	-28.1	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644768		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1118	-27.1	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714971		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2464	-15.0	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644741		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM946	-18.1	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644743		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM951	-19.6	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159875		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1908	-26.6	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644758		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM948	-24.3	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159861		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1894	-21.1	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159862		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1895	-24.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059742		PRJEB28191	Short read sequencing of cattle	ETH_32	-24.6	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA4644740		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM945	-6.7	0.1	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644742		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM947	-23.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32980918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA002	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159849		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1512	-17.6	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159867		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1900	-19.2	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159869		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1902	-27.4	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159870		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1903	-27.6	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059750		PRJEB28191	Short read sequencing of cattle	ETH_40	-23.7	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059751		PRJEB28191	Short read sequencing of cattle	ETH_41	-23.1	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059759		PRJEB28191	Short read sequencing of cattle	ETH_50	-24.2	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5159850		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1513	-22.6	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059743		PRJEB28191	Short read sequencing of cattle	ETH_33	-16.0	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059754		PRJEB28191	Short read sequencing of cattle	ETH_44	-24.5	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA5159872		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1905	-27.2	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059752		PRJEB28191	Short read sequencing of cattle	ETH_42	-15.0	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059745		PRJEB28191	Short read sequencing of cattle	ETH_35	-20.0	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059757		PRJEB28191	Short read sequencing of cattle	ETH_47	-20.4	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059746		PRJEB28191	Short read sequencing of cattle	ETH_36	-23.7	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5159873		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1906	-26.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059756		PRJEB28191	Short read sequencing of cattle	ETH_46	-28.3	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059744		PRJEB28191	Short read sequencing of cattle	ETH_34	-20.3	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059755		PRJEB28191	Short read sequencing of cattle	ETH_45	-22.1	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4644756		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM808	-26.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159871		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1904	-25.7	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5059753		PRJEB28191	Short read sequencing of cattle	ETH_43	-20.6	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA5159848		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1478	-20.4	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159868		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1901	-25.6	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644730		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM855	-3.3	0.12	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159837		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1108	-15.3	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159843		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1293	-19.9	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714972		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2507	-20.3	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714975		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2549	-16.6	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA6163199		PRJEB28191	Short read sequencing of cattle	BOV-90	-27.9	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA5159874		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1907	-27.5	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159865		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1898	-26.8	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159863		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1896	-15.1	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159866		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1899	-29.1	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644735		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM887	-25.7	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159864		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1897	-27.3	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN02842704	Charolais				-28.1	-0.0	taurine_other	taurine_pole	gir
+SAMN02842705	Charolais				-26.9	0.0	taurine_other	taurine_pole	gir
+SAMN01915354	Charolais				-27.4	0.0	taurine_other	taurine_pole	unknown
+SAMN02941176	Charolais				-23.2	0.02	taurine_other	taurine_pole	unknown
+SAMN02941177	Charolais				-26.3	0.01	taurine_other	taurine_pole	unknown
+SAMN02842706	Charolais				-29.3	-0.01	taurine_other	taurine_pole	gir
+SAMN02843108	Charolais				-26.4	0.0	taurine_other	taurine_pole	nelore
+SAMN02839608	Charolais				-14.3	0.07	taurine_other	taurine_pole	unknown
+SAMN02843066	Charolais				-17.1	0.05	taurine_other	taurine_pole	nelore
+SAMN02843056	Charolais				-13.9	0.07	taurine_other	taurine_pole	nelore
+SAMN02941178	Charolais				-20.5	0.03	taurine_other	taurine_pole	unknown
+SAMN02842715	Charolais				-19.3	0.04	taurine_other	taurine_pole	gir
+SAMN02843058	Charolais				-5.5	0.11	taurine_other	taurine_pole	nelore
+SAMN02842700	Charolais				-15.5	0.06	taurine_other	taurine_pole	gir
+SAMN02839609	Charolais				-16.2	0.06	taurine_other	taurine_pole	unknown
+SAMN01915352	Charolais				-18.1	0.05	taurine_other	taurine_pole	unknown
+SAMN02839610	Charolais				-24.6	0.01	taurine_other	taurine_pole	unknown
+SAMEA4730270		PRJEB27309	Whole genome sequencing of two bovines affected by	BOVATAX2	-24.4	0.02	unlabelled	taurine_pole	unknown
+SAMEA4730269		PRJEB27309	Whole genome sequencing of two bovines affected by	BOVATAX1	-24.1	0.02	unlabelled	taurine_pole	unknown
+SAMEA3869563		PRJEB12703	Rapid Discovery of De Novo Deleterious Mutations i	FR1893105503	-19.9	0.04	unlabelled	taurine_pole	unknown
+SAMN02839611	Charolais				-22.9	0.02	taurine_other	taurine_pole	unknown
+SAMN02142992	Charolais				-22.8	0.02	taurine_other	taurine_pole	unknown
+SAMN02843123	Charolais				-22.0	0.03	taurine_other	taurine_pole	nelore
+SAMN02142993	Charolais				-26.7	0.0	taurine_other	taurine_pole	unknown
+SAMN02142991	Charolais				-12.3	0.08	taurine_other	taurine_pole	unknown
+SAMN02142994	Charolais				-12.4	0.07	taurine_other	taurine_pole	unknown
+SAMN02142995	Charolais				-17.7	0.05	taurine_other	taurine_pole	unknown
+SAMEA33668668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	PMT1439	16.1	0.22	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32999668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	PMT1438	16.9	0.22	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32998168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	PMT1437	16.8	0.22	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN09087152	Angus				-25.0	0.01	taurine_other	taurine_pole	unknown
+SAMN09087153	Angus				-27.4	0.0	taurine_other	taurine_pole	unknown
+SAMN09087154	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087155	Angus				-27.8	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087156	Angus				-23.6	0.02	taurine_other	taurine_pole	unknown
+SAMN09087157	Angus				-17.8	0.05	taurine_other	taurine_pole	unknown
+SAMN09087158	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087159	Angus				-28.3	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087160	Angus				-22.1	0.03	taurine_other	taurine_pole	unknown
+SAMN09087161	Angus				-26.4	0.01	taurine_other	taurine_pole	unknown
+SAMN09087162	Angus				-28.8	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087163	Angus				-25.4	0.01	taurine_other	taurine_pole	unknown
+SAMN09087164	Angus				-24.5	0.01	taurine_other	taurine_pole	unknown
+SAMN09087165	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087166	Angus				-23.8	0.02	taurine_other	taurine_pole	unknown
+SAMN09087167	Angus				-24.7	0.01	taurine_other	taurine_pole	unknown
+SAMN09087168	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087169	Angus				-25.6	0.01	taurine_other	taurine_pole	unknown
+SAMN09087170	Angus				-24.4	0.02	taurine_other	taurine_pole	unknown
+SAMN09087171	Angus				-24.8	0.01	taurine_other	taurine_pole	unknown
+SAMN09087172	Angus				-28.5	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087173	Angus				-23.2	0.02	taurine_other	taurine_pole	unknown
+SAMN09087174	Angus				-26.7	0.0	taurine_other	taurine_pole	unknown
+SAMN09087175	Angus				-26.3	0.01	taurine_other	taurine_pole	unknown
+SAMN09087176	Angus				-30.0	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087177	Angus				-25.3	0.01	taurine_other	taurine_pole	unknown
+SAMN09087178	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087179	Angus				-24.6	0.01	taurine_other	taurine_pole	unknown
+SAMN09087180	Angus				-24.2	0.02	taurine_other	taurine_pole	unknown
+SAMN09087181	Angus				-26.6	0.0	taurine_other	taurine_pole	unknown
+SAMN09087182	Angus				-15.3	0.06	taurine_other	taurine_pole	unknown
+SAMN09087183	Angus				-27.7	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087184	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087185	Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087186	Angus				-29.3	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087187	Angus				-26.6	0.0	taurine_other	taurine_pole	unknown
+SAMN09087188	Angus				-29.7	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087189	Angus				-30.3	-0.01	taurine_other	taurine_pole	unknown
+SAMN09087190	Angus				-15.3	0.06	taurine_other	taurine_pole	unknown
+SAMN09087191	Angus				-27.2	0.0	taurine_other	taurine_pole	unknown
+SAMN09087192	Angus				-27.6	-0.0	taurine_other	taurine_pole	unknown
+SAMN09087193	Angus				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN09087194	Angus				-27.3	0.0	taurine_other	taurine_pole	unknown
+SAMN09087195	Angus				-25.2	0.01	taurine_other	taurine_pole	unknown
+SAMN09087196	Angus				-27.3	0.0	taurine_other	taurine_pole	unknown
+SAMN09087198	Angus				-24.2	0.02	taurine_other	taurine_pole	unknown
+SAMN09087199	Angus				-27.9	-0.0	taurine_other	taurine_pole	unknown
+SAMN02841105	Devon				-23.4	0.02	taurine_other	taurine_pole	gir
+SAMEA19848418					-27.0	0.0	unlabelled	taurine_pole	unknown
+SAMN05803888	Dexter				-24.9	0.01	crossbred_composite	taurine_pole	unknown
+SAMN05803883	Dexter				-22.0	0.03	crossbred_composite	taurine_pole	unknown
+SAMEA5714967		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	ER205	-14.6	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714968		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	EV023	-20.8	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714969		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	EV038	-15.4	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN05803879	Belted Galloway				-30.0	-0.01	taurine_other	taurine_pole	unknown
+SAMN05803880	Belted Galloway				-29.0	-0.01	taurine_other	taurine_pole	unknown
+SAMN02842707	Gelbvieh				-24.2	0.02	taurine_other	taurine_pole	gir
+SAMN02843150	Gelbvieh				-24.1	0.02	taurine_other	taurine_pole	nelore
+SAMN02843153	Gelbvieh				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN02843059	Gelbvieh				-23.0	0.02	taurine_other	taurine_pole	nelore
+SAMN02843062	Gelbvieh				-23.2	0.02	taurine_other	taurine_pole	nelore
+SAMN02841107	Gelbvieh				-19.4	0.04	taurine_other	taurine_pole	gir
+SAMN02839600	Gelbvieh				-24.9	0.01	taurine_other	taurine_pole	unknown
+SAMN02843070	Gelbvieh				-18.6	0.04	taurine_other	taurine_pole	nelore
+SAMN02839601	Gelbvieh				-18.9	0.04	taurine_other	taurine_pole	unknown
+SAMN02843075	Gelbvieh				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN02843088	Gelbvieh				-18.0	0.05	taurine_other	taurine_pole	nelore
+SAMN02843071	Gelbvieh				-22.9	0.02	taurine_other	taurine_pole	nelore
+SAMN02843076	Gelbvieh				-23.8	0.02	taurine_other	taurine_pole	nelore
+SAMN02843077	Gelbvieh				-27.4	0.0	taurine_other	taurine_pole	nelore
+SAMN02843089	Gelbvieh				-26.1	0.01	taurine_other	taurine_pole	nelore
+SAMN02843072	Gelbvieh				-16.6	0.05	taurine_other	taurine_pole	nelore
+SAMN02839602	Gelbvieh				-22.6	0.02	taurine_other	taurine_pole	unknown
+SAMN02839603	Gelbvieh				-20.2	0.04	taurine_other	taurine_pole	unknown
+SAMN02839604	Gelbvieh				-22.4	0.03	taurine_other	taurine_pole	unknown
+SAMN02843073	Gelbvieh				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN05803881	Hereford miniature				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN05803882	Hereford miniature				-26.6	0.0	taurine_other	taurine_pole	unknown
+SAMN02843132	Hereford				-27.8	-0.0	taurine_other	taurine_pole	nelore
+SAMN02843090	Hereford				-25.1	0.01	taurine_other	taurine_pole	nelore
+SAMN02843091	Hereford				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN02843109	Hereford				-23.8	0.02	taurine_other	taurine_pole	nelore
+SAMN02843097	Hereford				-18.5	0.04	taurine_other	taurine_pole	nelore
+SAMN02843133	Hereford				-28.0	-0.0	taurine_other	taurine_pole	nelore
+SAMN02841108	Hereford				-25.7	0.01	taurine_other	taurine_pole	gir
+SAMN02843068	Hereford				-24.8	0.01	taurine_other	taurine_pole	nelore
+SAMN02843092	Hereford				-27.2	0.0	taurine_other	taurine_pole	nelore
+SAMN02843098	Hereford				-23.8	0.02	taurine_other	taurine_pole	nelore
+SAMN02843134	Hereford				-25.2	0.01	taurine_other	taurine_pole	nelore
+SAMN02142997	Hereford				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN02843111	Hereford				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN02843112	Hereford				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN01915353	Hereford				-23.3	0.02	taurine_other	taurine_pole	unknown
+SAMN02843113	Hereford				-24.1	0.02	taurine_other	taurine_pole	nelore
+SAMN02843099	Hereford				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN02839605	Hereford				-20.8	0.03	taurine_other	taurine_pole	unknown
+SAMN02841111	Hereford				-27.1	0.0	taurine_other	taurine_pole	gir
+SAMN02841112	Hereford				-27.1	0.0	taurine_other	taurine_pole	gir
+SAMN02841113	Hereford				-28.7	-0.01	taurine_other	taurine_pole	gir
+SAMN02839606	Hereford				-23.5	0.02	taurine_other	taurine_pole	unknown
+SAMN02842709	Hereford				-25.2	0.01	taurine_other	taurine_pole	gir
+SAMN02842710	Hereford				-27.4	-0.0	taurine_other	taurine_pole	gir
+SAMN02142996	Hereford				-25.9	0.01	taurine_other	taurine_pole	unknown
+SAMN02841114	Hereford				-25.9	0.01	taurine_other	taurine_pole	gir
+SAMN02841115	Hereford				-18.1	0.05	taurine_other	taurine_pole	gir
+SAMN02843135	Hereford				-26.4	0.0	taurine_other	taurine_pole	nelore
+SAMN02843093	Hereford				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN02143002	Hereford				-26.2	0.01	taurine_other	taurine_pole	unknown
+SAMN02143004	Hereford				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN02143003	Hereford				-25.6	0.01	taurine_other	taurine_pole	unknown
+SAMN09519608	Holstein				-28.7	-0.01	holstein	taurine_pole	unknown
+SAMN09519607	Holstein				-28.6	-0.01	holstein	taurine_pole	unknown
+SAMN09519616	Holstein				-27.3	0.0	holstein	taurine_pole	unknown
+SAMN09519617	Holstein				-28.4	-0.01	holstein	taurine_pole	unknown
+SAMN09519623	Holstein				-26.4	0.0	holstein	taurine_pole	unknown
+SAMN09519621	Holstein				-29.7	-0.01	holstein	taurine_pole	unknown
+SAMN09519624	Holstein				-24.9	0.01	holstein	taurine_pole	unknown
+SAMN09519604	Holstein				-30.1	-0.01	holstein	taurine_pole	unknown
+SAMN09519618	Holstein				-26.8	0.0	holstein	taurine_pole	unknown
+SAMN09519610	Holstein				-27.6	-0.0	holstein	taurine_pole	unknown
+SAMN09519630	Holstein				-30.0	-0.01	holstein	taurine_pole	unknown
+SAMN09519631	Holstein				-29.3	-0.01	holstein	taurine_pole	unknown
+SAMN09519615	Holstein				-29.2	-0.01	holstein	taurine_pole	unknown
+SAMN09519622	Holstein				-26.8	0.0	holstein	taurine_pole	unknown
+SAMN09519614	Holstein				-25.1	0.01	holstein	taurine_pole	unknown
+SAMN09519634	Holstein				-28.4	-0.01	holstein	taurine_pole	unknown
+SAMN09519619	Holstein				-27.3	0.0	holstein	taurine_pole	unknown
+SAMN09519625	Holstein				-28.4	-0.01	holstein	taurine_pole	unknown
+SAMN09519633	Holstein				-30.3	-0.01	holstein	taurine_pole	unknown
+SAMEA4447823		PRJEB35127	Bovine gene expression atlas	BTA-DEDJTR-6819F-FoeLiver	-29.4	-0.01	unlabelled	taurine_pole	unknown
+SAMEA4447814		PRJEB101183	HiC data for bovine liver	BTA-DEDJTR-6819-Liver	-27.7	-0.0	unlabelled	taurine_pole	unknown
+SAMN08612438	Holstein				-23.5	0.02	holstein	taurine_pole	nelore
+SAMEA4447787		PRJEB35127	Bovine gene expression atlas	BTA-DEDJTR-2181-Liver	-28.0	-0.0	unlabelled	taurine_pole	unknown
+SAMEA4447792		PRJEB35127	Bovine gene expression atlas	BTA-DEDJTR-2181F-FoeLiver	-29.0	-0.01	unlabelled	taurine_pole	unknown
+SAMN08612443	Holstein				-26.6	0.0	holstein	taurine_pole	nelore
+SAMN08612448	Holstein				-29.1	-0.01	holstein	taurine_pole	nelore
+SAMN08612380	Holstein				-23.1	0.02	holstein	taurine_pole	nelore
+SAMN08612449	Holstein				-28.8	-0.01	holstein	taurine_pole	nelore
+SAMN08612450	Holstein				-24.1	0.02	holstein	taurine_pole	nelore
+SAMN08612451	Holstein				-25.9	0.01	holstein	taurine_pole	nelore
+SAMN08612452	Holstein				-26.8	0.0	holstein	taurine_pole	nelore
+SAMN08612440	Holstein				-30.6	-0.02	holstein	taurine_pole	nelore
+SAMN08612381	Holstein				-26.6	0.0	holstein	taurine_pole	nelore
+SAMN08612382	Holstein				-28.4	-0.0	holstein	taurine_pole	nelore
+SAMN08612439	Holstein				-26.5	0.0	holstein	taurine_pole	nelore
+SAMN08612383	Holstein				-27.0	0.0	holstein	taurine_pole	nelore
+SAMN08612384	Holstein				-23.6	0.02	holstein	taurine_pole	nelore
+SAMN08612385	Holstein				-25.8	0.01	holstein	taurine_pole	nelore
+SAMN08612386	Holstein				-26.2	0.01	holstein	taurine_pole	nelore
+SAMN08612387	Holstein				-23.5	0.02	holstein	taurine_pole	nelore
+SAMN08612388	Holstein				-28.5	-0.01	holstein	taurine_pole	nelore
+SAMN08612389	Holstein				-27.7	-0.0	holstein	taurine_pole	nelore
+SAMN08612390	Holstein				-28.7	-0.01	holstein	taurine_pole	nelore
+SAMN08612392	Holstein				-26.8	0.0	holstein	taurine_pole	nelore
+SAMN08612393	Holstein				-26.5	0.0	holstein	taurine_pole	nelore
+SAMN08612441	Holstein				-28.1	-0.0	holstein	taurine_pole	nelore
+SAMN08612394	Holstein				-28.0	-0.0	holstein	taurine_pole	nelore
+SAMN08612395	Holstein				-24.7	0.01	holstein	taurine_pole	nelore
+SAMN08612396	Holstein				-26.0	0.01	holstein	taurine_pole	nelore
+SAMN08612397	Holstein				-28.5	-0.01	holstein	taurine_pole	nelore
+SAMN08612398	Holstein				-26.3	0.01	holstein	taurine_pole	nelore
+SAMN08612399	Holstein				-23.6	0.02	holstein	taurine_pole	nelore
+SAMN08612400	Holstein				-27.6	-0.0	holstein	taurine_pole	nelore
+SAMN08612401	Holstein				-29.2	-0.01	holstein	taurine_pole	nelore
+SAMN08612444	Holstein				-26.4	0.0	holstein	taurine_pole	nelore
+SAMN08612402	Holstein				-28.4	-0.01	holstein	taurine_pole	nelore
+SAMN08612403	Holstein				-27.8	-0.0	holstein	taurine_pole	nelore
+SAMN08612404	Holstein				-24.8	0.01	holstein	taurine_pole	nelore
+SAMN08612405	Holstein				-27.8	-0.0	holstein	taurine_pole	nelore
+SAMN08612406	Holstein				-27.0	0.0	holstein	taurine_pole	nelore
+SAMN08612453	Holstein				-28.3	-0.0	holstein	taurine_pole	nelore
+SAMN08612407	Holstein				-30.1	-0.01	holstein	taurine_pole	nelore
+SAMN08612442	Holstein				-28.4	-0.01	holstein	taurine_pole	nelore
+SAMN08612408	Holstein				-24.9	0.01	holstein	taurine_pole	nelore
+SAMN08612409	Holstein				-29.2	-0.01	holstein	taurine_pole	nelore
+SAMN08612410	Holstein				-26.7	0.0	holstein	taurine_pole	nelore
+SAMN08612445	Holstein				-25.8	0.01	holstein	taurine_pole	nelore
+SAMN08612411	Holstein				-25.3	0.01	holstein	taurine_pole	nelore
+SAMN08612412	Holstein				-25.4	0.01	holstein	taurine_pole	nelore
+SAMN08612413	Holstein				-24.3	0.02	holstein	taurine_pole	nelore
+SAMN08612414	Holstein				-25.0	0.01	holstein	taurine_pole	nelore
+SAMN08612446	Holstein				-29.3	-0.01	holstein	taurine_pole	nelore
+SAMN08612415	Holstein				-23.9	0.02	holstein	taurine_pole	nelore
+SAMN08612416	Holstein				-25.8	0.01	holstein	taurine_pole	nelore
+SAMN08612417	Holstein				-26.2	0.01	holstein	taurine_pole	nelore
+SAMN08612454	Holstein				-26.9	0.0	holstein	taurine_pole	nelore
+SAMN08612455	Holstein				-28.2	-0.0	holstein	taurine_pole	nelore
+SAMN08612418	Holstein				-20.2	0.04	holstein	taurine_pole	nelore
+SAMN08612456	Holstein				-24.9	0.01	holstein	taurine_pole	nelore
+SAMN08612419	Holstein				-23.3	0.02	holstein	taurine_pole	nelore
+SAMN08612420	Holstein				-27.6	-0.0	holstein	taurine_pole	nelore
+SAMN08612421	Holstein				-28.3	-0.0	holstein	taurine_pole	nelore
+SAMN08612422	Holstein				-27.9	-0.0	holstein	taurine_pole	nelore
+SAMN02843168	Holstein				-27.9	-0.0	holstein	taurine_pole	nelore
+SAMN08612447	Holstein				-25.8	0.01	holstein	taurine_pole	nelore
+SAMN08612423	Holstein				-27.8	-0.0	holstein	taurine_pole	nelore
+SAMN02841117	Holstein				-29.4	-0.01	holstein	taurine_pole	gir
+SAMN02841118	Holstein				-27.9	-0.0	holstein	taurine_pole	gir
+SAMN02843156	Holstein				-26.8	0.0	holstein	taurine_pole	nelore
+SAMN08612424	Holstein				-27.9	-0.0	holstein	taurine_pole	nelore
+SAMN08612425	Holstein				-27.6	-0.0	holstein	taurine_pole	nelore
+SAMEA3390153		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0016	-25.7	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390154		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0017	-30.0	-0.01	unlabelled	taurine_pole	unknown
+SAMN08612426	Holstein				-31.8	-0.02	holstein	taurine_pole	nelore
+SAMN02842701	Holstein				-28.6	-0.01	holstein	taurine_pole	gir
+SAMN08612427	Holstein				-27.8	-0.0	holstein	taurine_pole	nelore
+SAMN02843157	Holstein				-28.6	-0.01	holstein	taurine_pole	nelore
+SAMN02843158	Holstein				-29.9	-0.01	holstein	taurine_pole	nelore
+SAMN02842711	Holstein				-25.7	0.01	holstein	taurine_pole	gir
+SAMN02841109	Holstein				-27.1	0.0	holstein	taurine_pole	gir
+SAMEA3390160		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0023	-27.0	0.0	unlabelled	taurine_pole	unknown
+SAMN02843160	Holstein				-28.9	-0.01	holstein	taurine_pole	nelore
+SAMN02843139	Holstein				-27.3	0.0	holstein	taurine_pole	nelore
+SAMN02843161	Holstein				-25.7	0.01	holstein	taurine_pole	nelore
+SAMN02843162	Holstein				-30.5	-0.02	holstein	taurine_pole	nelore
+SAMN02843169	Holstein				-27.0	0.0	holstein	taurine_pole	nelore
+SAMN02843124	Holstein				-27.7	-0.0	holstein	taurine_pole	nelore
+SAMN02843163	Holstein				-32.7	-0.03	holstein	taurine_pole	nelore
+SAMN02843125	Holstein				-29.7	-0.01	holstein	taurine_pole	nelore
+SAMN02843120	Holstein				-30.0	-0.01	holstein	taurine_pole	nelore
+SAMN02843154	Holstein				-29.4	-0.01	holstein	taurine_pole	nelore
+SAMEA3869562		PRJEB12703	Rapid Discovery of De Novo Deleterious Mutations i	G1	-29.7	-0.01	unlabelled	taurine_pole	unknown
+SAMN08612428	Holstein				-28.5	-0.01	holstein	taurine_pole	nelore
+SAMEA32991418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM412	-29.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN09519626	Holstein				-26.5	0.0	holstein	taurine_pole	unknown
+SAMN02841119	Holstein				-29.1	-0.01	holstein	taurine_pole	gir
+SAMN02843170	Holstein				-26.7	0.0	holstein	taurine_pole	nelore
+SAMN09519627	Holstein				-29.4	-0.01	holstein	taurine_pole	unknown
+SAMN09519605	Holstein				-28.1	-0.0	holstein	taurine_pole	unknown
+SAMEA3682654		PRJEB11963	A transposable element insertion in APOB causes ch	RM710	-29.1	-0.01	unlabelled	taurine_pole	unknown
+SAMEA19871668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM156	-29.0	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644737		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM899	-26.7	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3113485		PRJEB7707	Congenital increased muscular tonus in a Holstein 	RM169	-28.1	-0.0	unlabelled	taurine_pole	unknown
+SAMEA4644729		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM719	-25.6	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644732		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM881	-28.6	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644731		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM861	-30.0	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19325668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM812	-28.4	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644746		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM960	-27.2	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644736		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM889	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159879		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1913	-29.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644753		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM012	-26.5	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3682653		PRJEB11963	A transposable element insertion in APOB causes ch	RM709	-26.9	0.0	unlabelled	taurine_pole	unknown
+SAMEA4644738		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM935	-29.8	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159857		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1861	-26.7	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644748		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM962	-26.2	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159855		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1860	-28.3	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19874668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM369	-29.4	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32990668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM400	-27.2	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159859		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1883	-30.2	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32992168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM413	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159860		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1884	-25.6	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644733		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM882	-30.0	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3706816		PRJEB12092	Rapid Discovery of De Novo Deleterious Mutations i	RM426	-29.0	-0.01	unlabelled	taurine_pole	holstein
+SAMEA4644761		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM973	-28.1	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714977		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2552	-28.5	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714978		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2553	-28.1	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32983918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM371	-28.6	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3706815		PRJEB12092	Rapid Discovery of De Novo Deleterious Mutations i	RM425	-29.9	-0.01	unlabelled	taurine_pole	holstein
+SAMEA3869559		PRJEB12703	Rapid Discovery of De Novo Deleterious Mutations i	25124	-28.9	-0.01	unlabelled	taurine_pole	unknown
+SAMN11479477	Holstein				-28.4	-0.01	holstein	taurine_pole	unknown
+SAMEA3390151		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0014	-26.5	0.0	unlabelled	taurine_pole	unknown
+SAMN08612457	Holstein				-29.3	-0.01	holstein	taurine_pole	nelore
+SAMN08612429SAMEA3390140					-31.9	-0.02	unlabelled	taurine_pole	unknown
+SAMEA3390152		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0015	-28.5	-0.01	unlabelled	taurine_pole	unknown
+SAMEA3390141		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0004	-27.8	-0.0	unlabelled	taurine_pole	unknown
+SAMN08612430SAMEA3390142					-25.5	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390143		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0006	-26.5	0.0	unlabelled	taurine_pole	unknown
+SAMEA3390144		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0007	-26.2	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390145		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0008	-31.7	-0.02	unlabelled	taurine_pole	unknown
+SAMEA3390155		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0018	-26.8	0.0	unlabelled	taurine_pole	unknown
+SAMEA3390156		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0019	-26.0	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390157		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0020	-27.0	0.0	unlabelled	taurine_pole	unknown
+SAMEA3390146		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0009	-27.6	-0.0	unlabelled	taurine_pole	unknown
+SAMEA3390147		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0010	-28.4	-0.01	unlabelled	taurine_pole	unknown
+SAMEA3390159		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0022	-29.6	-0.01	unlabelled	taurine_pole	unknown
+SAMEA3390139		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0002	-31.1	-0.02	unlabelled	taurine_pole	unknown
+SAMEA3390148		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0011	-27.2	0.0	unlabelled	taurine_pole	unknown
+SAMN08612431SAMEA3390149					-28.1	-0.0	unlabelled	taurine_pole	unknown
+SAMEA3390162		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0025	-29.2	-0.01	unlabelled	taurine_pole	unknown
+SAMEA3390163		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0026	-24.7	0.01	unlabelled	taurine_pole	unknown
+SAMN08612432	Holstein				-24.4	0.02	holstein	taurine_pole	nelore
+SAMN08612458SAMN02842716					-27.2	0.0	unlabelled	taurine_pole	unknown
+SAMN02843114	Holstein				-27.8	-0.0	holstein	taurine_pole	nelore
+SAMEA33004168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM165	-26.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN02843126	Holstein				-28.4	-0.0	holstein	taurine_pole	nelore
+SAMEA5159878		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1912	-25.8	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3390150		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0013	-29.2	-0.01	unlabelled	taurine_pole	unknown
+SAMN08612459	Holstein				-26.6	0.0	holstein	taurine_pole	nelore
+SAMN08612433	Holstein				-30.1	-0.01	holstein	taurine_pole	nelore
+SAMN08612434	Holstein				-27.0	0.0	holstein	taurine_pole	nelore
+SAMN08612460	Holstein				-23.1	0.02	holstein	taurine_pole	nelore
+SAMEA33000418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM113	-30.1	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32983168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM370	-29.5	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32984668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM372	-31.1	-0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3706814		PRJEB12092	Rapid Discovery of De Novo Deleterious Mutations i	RM424	-27.6	-0.0	unlabelled	taurine_pole	holstein
+SAMEA4644759		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM971	-29.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644751		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM980	-29.1	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3706830		PRJEB12095	Lethal chondrodysplasia in a family of Holstein ca	RM673	-27.6	-0.0	unlabelled	taurine_pole	holstein
+SAMN08612461	Holstein				-26.2	0.01	holstein	taurine_pole	nelore
+SAMEA3390158		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0021	-30.7	-0.02	unlabelled	taurine_pole	unknown
+SAMEA3390164		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0027	-25.8	0.01	unlabelled	taurine_pole	unknown
+SAMN08612462	Holstein				-27.1	0.0	holstein	taurine_pole	nelore
+SAMN08612435	Holstein				-27.7	-0.0	holstein	taurine_pole	nelore
+SAMN08612436	Holstein				-26.3	0.01	holstein	taurine_pole	nelore
+SAMEA3390161		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_HOL0024	-28.8	-0.01	unlabelled	taurine_pole	unknown
+SAMN02843140	Holstein				-26.8	0.0	holstein	taurine_pole	nelore
+SAMN02843180	Holstein				-24.3	0.02	holstein	taurine_pole	nelore
+SAMN02843171	Holstein				-29.0	-0.01	holstein	taurine_pole	nelore
+SAMN02843155	Holstein				-24.5	0.01	holstein	taurine_pole	nelore
+SAMN02843181	Holstein				-28.2	-0.0	holstein	taurine_pole	nelore
+SAMN08612463	Holstein				-29.3	-0.01	holstein	taurine_pole	nelore
+SAMN02843164	Holstein				-27.3	0.0	holstein	taurine_pole	nelore
+SAMN02843172	Holstein				-27.9	-0.0	holstein	taurine_pole	nelore
+SAMN02843127	Holstein				-28.1	-0.0	holstein	taurine_pole	nelore
+SAMN02843165	Holstein				-28.4	-0.0	holstein	taurine_pole	nelore
+SAMEA5159880					-27.5	-0.0	unlabelled	taurine_pole	unknown
+SAMN08612464	Holstein				-27.4	-0.0	holstein	taurine_pole	nelore
+SAMN02843173	Holstein				-30.2	-0.01	holstein	taurine_pole	nelore
+SAMN02843174	Holstein				-29.3	-0.01	holstein	taurine_pole	nelore
+SAMN02843175	Holstein				-28.1	-0.0	holstein	taurine_pole	nelore
+SAMEA5159833					-29.3	-0.01	unlabelled	taurine_pole	unknown
+SAMN02843128	Holstein				-28.1	-0.0	holstein	taurine_pole	nelore
+SAMEA32995918					-29.1	-0.01	unlabelled	taurine_pole	unknown
+SAMN09519613	Holstein				-29.1	-0.01	holstein	taurine_pole	unknown
+SAMN09519612	Holstein				-28.1	-0.0	holstein	taurine_pole	unknown
+SAMN09519632	Holstein				-27.7	-0.0	holstein	taurine_pole	unknown
+SAMN09519629	Holstein				-27.9	-0.0	holstein	taurine_pole	unknown
+SAMN09519620	Holstein				-27.8	-0.0	holstein	taurine_pole	unknown
+SAMN09519611	Holstein				-26.9	0.0	holstein	taurine_pole	unknown
+SAMN09519609	Holstein				-29.6	-0.01	holstein	taurine_pole	unknown
+SAMN09519606	Holstein				-25.9	0.01	holstein	taurine_pole	unknown
+SAMN09519603	Holstein				-26.1	0.01	holstein	taurine_pole	unknown
+SAMN08612437	Holstein				-26.7	0.0	holstein	taurine_pole	nelore
+SAMN02843129	Holstein				-26.1	0.01	holstein	taurine_pole	nelore
+SAMN02843176	Holstein				-29.7	-0.01	holstein	taurine_pole	nelore
+SAMN02843166	Holstein				-29.2	-0.01	holstein	taurine_pole	nelore
+SAMN02843182	Holstein				-28.3	-0.0	holstein	taurine_pole	nelore
+SAMN02843110	Holstein				-30.2	-0.01	holstein	taurine_pole	nelore
+SAMN02843130	Holstein				-29.5	-0.01	holstein	taurine_pole	nelore
+SAMEA5159882					-27.1	0.0	unlabelled	taurine_pole	unknown
+SAMN02843167	Holstein				-28.2	-0.0	holstein	taurine_pole	nelore
+SAMEA5159881					-30.0	-0.01	unlabelled	taurine_pole	unknown
+SAMN02843177	Holstein				-26.1	0.01	holstein	taurine_pole	nelore
+SAMN02843178	Holstein				-29.0	-0.01	holstein	taurine_pole	nelore
+SAMEA5159883					-27.5	-0.0	unlabelled	taurine_pole	unknown
+SAMN02842719	Composite				-23.3	0.02	crossbred_composite	taurine_pole	gir
+SAMN02842720	Composite				-13.8	0.07	crossbred_composite	taurine_pole	gir
+SAMN02843057	Composite				-22.4	0.02	crossbred_composite	taurine_pole	nelore
+SAMEA2358281	Rashoki				14.6	0.21	taurine_other	taurine_pole	unknown
+SAMN08612480	Jersey				-22.1	0.03	taurine_other	taurine_pole	nelore
+SAMN08612481	Jersey				-23.4	0.02	taurine_other	taurine_pole	nelore
+SAMN08612465	Jersey				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN08612466	Jersey				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN08612467	Jersey				-25.6	0.01	taurine_other	taurine_pole	nelore
+SAMN08612482	Jersey				-21.8	0.03	taurine_other	taurine_pole	nelore
+SAMN08612468	Jersey				-25.6	0.01	taurine_other	taurine_pole	nelore
+SAMN08612483	Jersey				-25.4	0.01	taurine_other	taurine_pole	nelore
+SAMN08612469	Jersey				-26.4	0.01	taurine_other	taurine_pole	nelore
+SAMN08612484	Jersey				-23.6	0.02	taurine_other	taurine_pole	nelore
+SAMN08612485	Jersey				-18.2	0.05	taurine_other	taurine_pole	nelore
+SAMN08612486	Jersey				-23.2	0.02	taurine_other	taurine_pole	nelore
+SAMN08612487	Jersey				-23.7	0.02	taurine_other	taurine_pole	nelore
+SAMN08612488	Jersey				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN08612470	Jersey				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN08612489	Jersey				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN08612490	Jersey				-24.1	0.02	taurine_other	taurine_pole	nelore
+SAMN08612471	Jersey				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN08612491	Jersey				-27.4	-0.0	taurine_other	taurine_pole	nelore
+SAMN08612492	Jersey				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN08612472	Jersey				-24.4	0.02	taurine_other	taurine_pole	nelore
+SAMN08612493	Jersey				-23.9	0.02	taurine_other	taurine_pole	nelore
+SAMN08612494	Jersey				-22.4	0.03	taurine_other	taurine_pole	nelore
+SAMN08612495	Jersey				-26.0	0.01	taurine_other	taurine_pole	nelore
+SAMN08612496	Jersey				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN08612497	Jersey				-25.6	0.01	taurine_other	taurine_pole	nelore
+SAMN08612498	Jersey				-24.1	0.02	taurine_other	taurine_pole	nelore
+SAMN08612499	Jersey				-24.2	0.02	taurine_other	taurine_pole	nelore
+SAMN08612501	Jersey				-24.0	0.02	taurine_other	taurine_pole	nelore
+SAMN08612503	Jersey				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN08612504	Jersey				-23.9	0.02	taurine_other	taurine_pole	nelore
+SAMN08612505	Jersey				-26.3	0.01	taurine_other	taurine_pole	nelore
+SAMN08612526	Jersey				-26.7	0.0	taurine_other	taurine_pole	nelore
+SAMN08612473	Jersey				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN08612527	Jersey				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN08612528	Jersey				-26.9	0.0	taurine_other	taurine_pole	nelore
+SAMN08612529	Jersey				-20.7	0.03	taurine_other	taurine_pole	nelore
+SAMN08612530	Jersey				-23.8	0.02	taurine_other	taurine_pole	nelore
+SAMN08612474	Jersey				-25.4	0.01	taurine_other	taurine_pole	nelore
+SAMN08612531	Jersey				-24.5	0.01	taurine_other	taurine_pole	nelore
+SAMN08612475	Jersey				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN08612476	Jersey				-26.5	0.0	taurine_other	taurine_pole	nelore
+SAMN08612477	Jersey				-25.1	0.01	taurine_other	taurine_pole	nelore
+SAMN08612532	Jersey				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN08612478	Jersey				-22.5	0.02	taurine_other	taurine_pole	nelore
+SAMN08612533	Jersey				-22.0	0.03	taurine_other	taurine_pole	nelore
+SAMN08612534	Jersey				-27.9	-0.0	taurine_other	taurine_pole	nelore
+SAMN08612535	Jersey				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN08612537	Jersey				-26.7	0.0	taurine_other	taurine_pole	nelore
+SAMN08612538	Jersey				-28.5	-0.01	taurine_other	taurine_pole	nelore
+SAMN08612539	Jersey				-27.0	0.0	taurine_other	taurine_pole	nelore
+SAMN08612540	Jersey				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN08612541	Jersey				-27.6	-0.0	taurine_other	taurine_pole	nelore
+SAMN08612542	Jersey				-28.0	-0.0	taurine_other	taurine_pole	nelore
+SAMN08612543	Jersey				-23.2	0.02	taurine_other	taurine_pole	nelore
+SAMN08612479	Jersey				-26.4	0.0	taurine_other	taurine_pole	nelore
+SAMN08612544	Jersey				-28.7	-0.01	taurine_other	taurine_pole	nelore
+SAMN08612545	Jersey				-23.1	0.02	taurine_other	taurine_pole	nelore
+SAMN08612546	Jersey				-26.6	0.0	taurine_other	taurine_pole	nelore
+SAMN08612547	Jersey				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN08612548	Jersey				-23.5	0.02	taurine_other	taurine_pole	nelore
+SAMEA5159763					-23.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA32985418					-20.6	0.03	unlabelled	taurine_pole	unknown
+SAMN02843095	Limousin				-24.2	0.02	taurine_other	taurine_pole	nelore
+SAMEA3869561					-20.8	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390165					-26.8	0.0	unlabelled	taurine_pole	unknown
+SAMEA3390166					-19.3	0.04	unlabelled	taurine_pole	unknown
+SAMEA3390167					-19.8	0.04	unlabelled	taurine_pole	unknown
+SAMEA3390168					-22.8	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390169					-22.1	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390170					-15.3	0.06	unlabelled	taurine_pole	unknown
+SAMEA3390171					-25.6	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390172					-21.0	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390173					-20.1	0.04	unlabelled	taurine_pole	unknown
+SAMEA3390174					-16.3	0.06	unlabelled	taurine_pole	unknown
+SAMEA3390175					-21.2	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390176					-20.9	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390177					-21.4	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390178					-20.3	0.04	unlabelled	taurine_pole	unknown
+SAMEA3390179					-22.4	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390180					-22.2	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390181					-18.3	0.05	unlabelled	taurine_pole	unknown
+SRS1512380	N'Dama				10.9	0.19	taurine_other	taurine_pole	unknown
+SRS1512399	N'Dama				21.0	0.24	taurine_other	taurine_pole	unknown
+SRS1512404	N'Dama				17.0	0.22	taurine_other	taurine_pole	unknown
+SRS1512405	N'Dama				11.7	0.2	taurine_other	taurine_pole	unknown
+SRS1512406	N'Dama				-2.0	0.13	taurine_other	taurine_pole	unknown
+SRS1512407	N'Dama				27.1	0.27	taurine_other	admixed	unknown
+SRS1512417	N'Dama				33.1	0.3	taurine_other	admixed	unknown
+SRS1512418	N'Dama				15.5	0.22	taurine_other	taurine_pole	unknown
+SRS1512498	N'Dama				0.8	0.14	taurine_other	taurine_pole	unknown
+SRS1512514	N'Dama				10.2	0.19	taurine_other	taurine_pole	unknown
+SAMEA3390182					-22.0	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390183					-24.0	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390184					-21.5	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390185					-24.8	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390186					-19.3	0.04	unlabelled	taurine_pole	unknown
+SAMEA3390187					-24.0	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390188					-22.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390189					-22.1	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390190					-24.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390191					-24.6	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390192					-22.7	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390193					-24.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390194					-23.7	0.02	unlabelled	taurine_pole	unknown
+SAMEA3390195					-25.9	0.01	unlabelled	taurine_pole	unknown
+SAMEA3390196		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_NOR0015	-26.5	0.0	unlabelled	taurine_pole	unknown
+SAMEA3390197		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_NOR0016	-21.0	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390198		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_NOR0017	-21.6	0.03	unlabelled	taurine_pole	unknown
+SAMEA3390199		PRJEB9343	Deep whole genome sequencing of 62 bulls represent	INRA_NOR0018	-23.5	0.02	unlabelled	taurine_pole	unknown
+SAMEA33001168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM148	-25.4	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SRS1512518	Ogaden				131.0	0.79	indicine_or_african	indicine_pole	unknown
+SRS1512519	Ogaden				132.2	0.8	indicine_or_african	indicine_pole	unknown
+SRS1512520	Ogaden				148.5	0.88	indicine_or_african	indicine_pole	unknown
+SRS1512521	Ogaden				123.6	0.76	indicine_or_african	indicine_pole	unknown
+SRS1512522	Ogaden				98.6	0.63	indicine_or_african	admixed	unknown
+SRS1512523	Ogaden				125.5	0.77	indicine_or_african	indicine_pole	unknown
+SRS1512524	Ogaden				91.1	0.59	indicine_or_african	admixed	unknown
+SRS1512525	Ogaden				81.6	0.55	indicine_or_african	admixed	unknown
+SRS1512526	Ogaden				142.1	0.85	indicine_or_african	indicine_pole	unknown
+SAMEA5159836		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1028	-23.4	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19324918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM811	-21.8	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA33001918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM149	-22.1	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN01915349	Piedmontese				-22.0	0.03	taurine_other	taurine_pole	unknown
+SAMN01915345	Piedmontese				-24.1	0.02	taurine_other	taurine_pole	unknown
+SAMN02941216	Piedmontese				-27.4	-0.0	taurine_other	taurine_pole	unknown
+SAMN02941219	Piedmontese				-21.8	0.03	taurine_other	taurine_pole	unknown
+SAMN02941218	Piedmontese				-25.7	0.01	taurine_other	taurine_pole	unknown
+SAMN02941217	Piedmontese				-22.8	0.02	taurine_other	taurine_pole	unknown
+SAMN02941215	Piedmontese				-20.2	0.04	taurine_other	taurine_pole	unknown
+SAMEA5159845		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1352	-25.4	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN01915350	Red Angus				-25.3	0.01	taurine_other	taurine_pole	unknown
+SAMN02941207	Red Angus				-28.6	-0.01	taurine_other	taurine_pole	unknown
+SAMN02843147	Red Angus				-28.2	-0.0	taurine_other	taurine_pole	nelore
+SAMN02839613	Red Angus				-25.7	0.01	taurine_other	taurine_pole	unknown
+SAMN02843148	Red Angus				-19.1	0.04	taurine_other	taurine_pole	nelore
+SAMN02842702	Red Angus				-21.8	0.03	taurine_other	taurine_pole	gir
+SAMN02839614	Red Angus				-27.9	-0.0	taurine_other	taurine_pole	unknown
+SAMN02843149	Red Angus				-28.8	-0.01	taurine_other	taurine_pole	nelore
+SAMN01915346	Red Angus				-28.7	-0.01	taurine_other	taurine_pole	unknown
+SAMN02941209	Red Angus				-21.7	0.03	taurine_other	taurine_pole	unknown
+SAMN02941201	Simmental				-23.4	0.02	taurine_other	taurine_pole	unknown
+SAMN02843065	Maine Anjou				-28.2	-0.0	taurine_other	taurine_pole	nelore
+SAMN02843100	Maine Anjou				-24.2	0.02	taurine_other	taurine_pole	nelore
+SAMN02843136	Maine Anjou				-26.4	0.0	taurine_other	taurine_pole	nelore
+SAMN02843137	Maine Anjou				-22.9	0.02	taurine_other	taurine_pole	nelore
+SAMN02843069	Maine Anjou				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN02843138	Maine Anjou				-25.4	0.01	taurine_other	taurine_pole	nelore
+SAMN02843064	Maine Anjou				-18.5	0.04	taurine_other	taurine_pole	nelore
+SAMEA4644767		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1027	-26.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5160021		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1626	-27.5	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644726		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HOL363	-24.8	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32986918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM411	-29.2	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32995168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM463	-30.8	-0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32996668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM465	-29.1	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32987668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM460	19.6	0.24	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA32988418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM392	22.6	0.25	swiss_SCBR_unlabelled	admixed	unknown
+SAMEA32989168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM461	9.7	0.19	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA2422242		PRJEB5965	homozygous deletion in the Nidogen-1 gene is assoc	PCS1091	4.0	0.16	unlabelled	taurine_pole	unknown
+SAMN02941220	Salers				-30.7	-0.02	taurine_other	taurine_pole	unknown
+SAMD00013606		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013606	2.1	0.15	unlabelled	taurine_pole	unknown
+SAMD00013607		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013607	7.4	0.17	unlabelled	taurine_pole	unknown
+SAMD00013608		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013608	-3.2	0.12	unlabelled	taurine_pole	unknown
+SAMD00013609		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013609	0.4	0.14	unlabelled	taurine_pole	unknown
+SAMD00013610		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013610	-3.4	0.12	unlabelled	taurine_pole	unknown
+SAMD00013611		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013611	-3.8	0.12	unlabelled	taurine_pole	unknown
+SAMD00013612		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013612	5.1	0.16	unlabelled	taurine_pole	unknown
+SAMD00013613		PRJDB2660	Whole genome sequencing reveals many genetic varia	SAMD00013613	-9.7	0.09	unlabelled	taurine_pole	unknown
+SAMD00013963		PRJDA48395	Whole genome resequencing for Bos taurus, Kuchinos	SAMD00013963	-13.5	0.07	unlabelled	taurine_pole	unknown
+SAMN02225724	Hanwoo				-8.8	0.09	taurine_other	taurine_pole	hereford
+SAMN02225725	Hanwoo				0.1	0.14	taurine_other	taurine_pole	hereford
+SAMN02225726	Hanwoo				5.2	0.16	taurine_other	taurine_pole	hereford
+SAMN02225727	Hanwoo				-2.8	0.12	taurine_other	taurine_pole	hereford
+SAMN02225728	Hanwoo				-10.2	0.09	taurine_other	taurine_pole	hereford
+SAMN02225729	Hanwoo				-7.5	0.1	taurine_other	taurine_pole	hereford
+SAMN02225730	Hanwoo				-16.3	0.06	taurine_other	taurine_pole	hereford
+SAMN02225731	Hanwoo				-13.0	0.07	taurine_other	taurine_pole	hereford
+SAMN02225732	Hanwoo				-6.1	0.11	taurine_other	taurine_pole	hereford
+SAMN02225733	Hanwoo				-8.9	0.09	taurine_other	taurine_pole	hereford
+SAMN02225736	Holstein				-27.0	0.0	holstein	taurine_pole	hereford
+SAMN02225737	Holstein				-30.2	-0.01	holstein	taurine_pole	hereford
+SAMN02225738	Holstein				-27.2	0.0	holstein	taurine_pole	hereford
+SAMN02225739	Holstein				-26.2	0.01	holstein	taurine_pole	hereford
+SAMN02225740	Holstein				-26.6	0.0	holstein	taurine_pole	hereford
+SAMN02225741	Holstein				-28.3	-0.0	holstein	taurine_pole	hereford
+SAMN02225742	Holstein				-27.9	-0.0	holstein	taurine_pole	hereford
+SAMN02225743	Holstein				-23.3	0.02	holstein	taurine_pole	hereford
+SAMN02225744	Hanwoo				-0.4	0.14	taurine_other	taurine_pole	hereford
+SAMN02225745	Hanwoo				-12.0	0.08	taurine_other	taurine_pole	hereford
+SAMN02225746	Hanwoo				-17.2	0.05	taurine_other	taurine_pole	hereford
+SAMN02225747	Hanwoo				4.0	0.16	taurine_other	taurine_pole	hereford
+SAMN02225748	Hanwoo				-9.1	0.09	taurine_other	taurine_pole	hereford
+SAMN02225750	Hanwoo				9.5	0.18	taurine_other	taurine_pole	hereford
+SAMN02225751	Hanwoo				-10.2	0.09	taurine_other	taurine_pole	hereford
+SAMN02225752	Hanwoo				-5.4	0.11	taurine_other	taurine_pole	hereford
+SAMN02225753	Hanwoo				5.3	0.16	taurine_other	taurine_pole	hereford
+SAMN02225754	Hanwoo				-9.8	0.09	taurine_other	taurine_pole	hereford
+SAMN02225755	Hanwoo				-3.2	0.12	taurine_other	taurine_pole	hereford
+SAMN03447086	Bos taurus turano-mongolicus				1.3	0.14	taurine_other	taurine_pole	unknown
+SAMN04028906			Whole genome sequencing data from a male Bos primi		-14.9	0.06	unlabelled	taurine_pole	unknown
+SAMN04576207			MIGS Eukaryotic sample RCI_001		-26.4	0.0	unlabelled	taurine_pole	unknown
+SAMN04576211			MIGS Eukaryotic sample RCI_002		-26.6	0.0	unlabelled	taurine_pole	unknown
+SAMN04576212			MIGS Eukaryotic sample parental celline 2120		-26.4	0.01	unlabelled	taurine_pole	unknown
+SAMN04576214			MIGS Eukaryotic sample from parental celline 2122		-26.6	0.0	unlabelled	taurine_pole	unknown
+SAMN09379746	Charolais				-24.8	0.01	taurine_other	taurine_pole	nelore
+SAMN09379752	Limousin				-25.4	0.01	taurine_other	taurine_pole	nelore
+SAMN10598549	Holstein				-26.5	0.0	holstein	taurine_pole	jersey
+SAMN10598550	Holstein x Hereford				-26.8	0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598551	Holstein x Hereford				-29.2	-0.01	crossbred_composite	taurine_pole	jersey
+SAMN10598552	Holstein x Hereford				-26.7	0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598553	Holstein x Hereford				-27.9	-0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598554	Holstein x Hereford				-27.1	0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598555	Holstein x Hereford				-26.9	0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598556	Hereford				-25.5	0.01	taurine_other	taurine_pole	jersey
+SAMN10598557	Hereford				-24.1	0.02	taurine_other	taurine_pole	jersey
+SAMN10598558	Hereford				-26.4	0.01	taurine_other	taurine_pole	jersey
+SAMN10598559	Hereford				-27.2	0.0	taurine_other	taurine_pole	jersey
+SAMN10598560	Hereford				-24.0	0.02	taurine_other	taurine_pole	jersey
+SAMN10598561	Hereford				-27.2	0.0	taurine_other	taurine_pole	jersey
+SAMN10598562	Hereford				-23.0	0.02	taurine_other	taurine_pole	jersey
+SAMN10598563	Hereford				-26.3	0.01	taurine_other	taurine_pole	jersey
+SAMN10598564	Hereford				-27.1	0.0	taurine_other	taurine_pole	jersey
+SAMN10598565	Hereford				-28.6	-0.01	taurine_other	taurine_pole	jersey
+SAMN10598566	Hereford				-27.3	0.0	taurine_other	taurine_pole	jersey
+SAMN10598567	Hereford				-24.7	0.01	taurine_other	taurine_pole	jersey
+SAMN10598568	Holstein				-27.1	0.0	holstein	taurine_pole	jersey
+SAMN10598569	Hereford				-25.8	0.01	taurine_other	taurine_pole	jersey
+SAMN10598570	Hereford				-25.0	0.01	taurine_other	taurine_pole	jersey
+SAMN10598571	Holstein x Hereford				-28.0	-0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598572	Holstein x Hereford				-25.3	0.01	crossbred_composite	taurine_pole	jersey
+SAMN10598573	Hereford				-26.6	0.0	taurine_other	taurine_pole	jersey
+SAMN10598574	Hereford				-23.0	0.02	taurine_other	taurine_pole	jersey
+SAMN10598575	Holstein x Hereford				-27.8	-0.0	crossbred_composite	taurine_pole	jersey
+SAMN10598576	Hereford				-24.7	0.01	taurine_other	taurine_pole	jersey
+SAMEA5714970		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM0023	-29.4	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159831		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HC226	-27.5	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159830		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HC225	-27.4	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159829		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HC206	-27.1	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN02941179	Simmental				-25.4	0.01	taurine_other	taurine_pole	unknown
+SAMN02941223	Simmental				-25.9	0.01	taurine_other	taurine_pole	unknown
+SAMN02941180	Simmental				-24.8	0.01	taurine_other	taurine_pole	unknown
+SAMN10182839	Simmental				-25.8	0.01	taurine_other	taurine_pole	unknown
+SAMN02941181	Simmental				-25.3	0.01	taurine_other	taurine_pole	unknown
+SAMN02941182	Simmental				-23.3	0.02	taurine_other	taurine_pole	unknown
+SAMN02941183	Simmental				-27.3	0.0	taurine_other	taurine_pole	unknown
+SAMN02941184	Simmental				-19.3	0.04	taurine_other	taurine_pole	unknown
+SAMN02941185	Simmental				-25.8	0.01	taurine_other	taurine_pole	unknown
+SAMN02941186	Simmental				-28.3	-0.0	taurine_other	taurine_pole	unknown
+SAMN02941187	Simmental				-16.0	0.06	taurine_other	taurine_pole	unknown
+SAMN02941231	Simmental				-22.8	0.02	taurine_other	taurine_pole	unknown
+SAMEA3706826		PRJEB12093	Rapid Discovery of De Novo Deleterious Mutations i	RM697	-26.8	0.0	unlabelled	taurine_pole	holstein
+SAMEA19869418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM154	-25.8	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159856		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1878	-28.1	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159762		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	49040	-27.4	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159858		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1881	-25.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5160153		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1643	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19868668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM153	-28.7	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644747		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM961	-26.6	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19870168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM155	-23.1	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644744		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM952	-24.1	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA4644745		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM954	-26.4	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159876		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1910	-26.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159877		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1911	-26.2	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA33004918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM376	-27.5	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA33669418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM377	-25.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN02941230	Simmental				-23.1	0.02	taurine_other	taurine_pole	unknown
+SAMN02941229	Simmental				-24.9	0.01	taurine_other	taurine_pole	unknown
+SAMN02941188	Simmental				-26.8	0.0	taurine_other	taurine_pole	unknown
+SAMN02941224	Simmental				-23.7	0.02	taurine_other	taurine_pole	unknown
+SAMN02941222	Simmental				-27.6	-0.0	taurine_other	taurine_pole	unknown
+SAMN02941190	Simmental				-26.5	0.0	taurine_other	taurine_pole	unknown
+SAMN02941191	Simmental				-23.7	0.02	taurine_other	taurine_pole	unknown
+SAMN02941192	Simmental				-26.3	0.01	taurine_other	taurine_pole	unknown
+SAMN02941193	Simmental				-23.8	0.02	taurine_other	taurine_pole	unknown
+SAMN02941194	Simmental				-21.6	0.03	taurine_other	taurine_pole	unknown
+SAMN02941195	Simmental				-26.0	0.01	taurine_other	taurine_pole	unknown
+SAMN02941196	Simmental				-26.7	0.0	taurine_other	taurine_pole	unknown
+SAMN02941197	Simmental				-27.7	-0.0	taurine_other	taurine_pole	unknown
+SAMN02941198	Simmental				-26.0	0.01	taurine_other	taurine_pole	unknown
+SAMN02941199	Simmental				-24.6	0.01	taurine_other	taurine_pole	unknown
+SAMN02941225	Simmental				-24.8	0.01	taurine_other	taurine_pole	unknown
+SAMN02941200	Simmental				-22.3	0.03	taurine_other	taurine_pole	unknown
+SAMN02941202	Simmental				-24.0	0.02	taurine_other	taurine_pole	unknown
+SAMEA5159889		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG1706	-26.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5716181		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0786	-14.7	0.06	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159888		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG1705	-22.7	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714980		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0661	-23.2	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159887		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0718	-25.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5714981		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0662	-23.7	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA3682652		PRJEB11962	Homozygous deletion in MOCOS gene is associated wi	TG0496	-25.0	0.01	unlabelled	taurine_pole	unknown
+SAMEA5159846		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1362	-22.0	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA2065753	Nsongora				119.4	0.74	taurine_other	admixed	unknown
+SAMEA2065739	Ankole				104.9	0.66	indicine_or_african	admixed	unknown
+SAMEA2065606	East African Shorthorn Zebu				112.1	0.7	indicine_or_african	admixed	unknown
+SAMEA2065754	Ntoro				62.5	0.45	taurine_other	admixed	unknown
+SAMEA2065605	Nkiga				80.8	0.54	taurine_other	admixed	unknown
+SAMEA2065752	Small East African Zebu				122.5	0.75	indicine_or_african	indicine_pole	unknown
+SAMEA2065747	Ankole				115.4	0.72	indicine_or_african	admixed	unknown
+SAMEA2065743	Ankole				69.0	0.48	indicine_or_african	admixed	unknown
+SAMEA2065741	Shorthorn Zebu				108.0	0.68	indicine_or_african	admixed	unknown
+SAMEA2065936	Nganda				41.5	0.35	taurine_other	admixed	unknown
+SAMEA2065748	Shorthorn Zebu				154.2	0.91	indicine_or_african	indicine_pole	unknown
+SAMEA2065749	Ankole				102.7	0.65	indicine_or_african	admixed	unknown
+SAMEA2065937	Ankole Zebu cross				101.7	0.65	crossbred_composite	admixed	unknown
+SAMEA2065745	East African Shorthorn Zebu				86.4	0.57	indicine_or_african	admixed	unknown
+SAMEA2065736	Ankole				68.8	0.48	indicine_or_african	admixed	unknown
+SAMEA2065746	Small East African Zebu				106.0	0.67	indicine_or_african	admixed	unknown
+SAMEA2065750	Ankole				93.3	0.6	indicine_or_african	admixed	unknown
+SAMEA2065742	Shorthorn Zebu				146.2	0.87	indicine_or_african	indicine_pole	unknown
+SAMEA2065751	Shorthorn Zebu				129.6	0.79	indicine_or_african	indicine_pole	unknown
+SAMEA2065737	Shorthorn Zebu				146.3	0.87	indicine_or_african	indicine_pole	unknown
+SAMEA2065740	East African Shorthorn Zebu				128.7	0.78	indicine_or_african	indicine_pole	unknown
+SAMEA2065738	East African Shorthorn Zebu				124.6	0.76	indicine_or_african	indicine_pole	unknown
+SAMEA2065735	Ankole				132.4	0.8	indicine_or_african	indicine_pole	unknown
+SAMEA2065744	Ankole				41.2	0.34	indicine_or_african	admixed	unknown
+SAMEA2065938	Ankole Zebu cross				92.0	0.6	crossbred_composite	admixed	unknown
+SAMN05938744	Holstein				-28.7	-0.01	holstein	taurine_pole	unknown
+SAMN06161576	Sichuan indigenous cattle				123.8	0.76	taurine_other	indicine_pole	unknown
+SAMN06282405	Polish Holstein-Friesian				-28.8	-0.01	holstein	taurine_pole	unknown
+SAMN06282409	Polish Holstein-Friesian				-29.0	-0.01	holstein	taurine_pole	unknown
+SAMN06282410	Polish Holstein-Friesian				-28.9	-0.01	holstein	taurine_pole	unknown
+SAMN06282411	Polish Holstein-Friesian				-30.9	-0.02	holstein	taurine_pole	unknown
+SAMN06282412	Polish Holstein-Friesian				-30.8	-0.02	holstein	taurine_pole	unknown
+SAMN06282413	Polish Holstein-Friesian				-26.4	0.01	holstein	taurine_pole	unknown
+SAMN06282414	Polish Holstein-Friesian				-28.3	-0.0	holstein	taurine_pole	unknown
+SAMN06282434	Polish Holstein-Friesian				-26.0	0.01	holstein	taurine_pole	unknown
+SAMN06698973	Yanbian Cattle				-5.0	0.11	taurine_other	taurine_pole	unknown
+SAMN06699009	Nanyang Cattle				71.0	0.49	taurine_other	admixed	angus
+SAMN06699023	Bohai Black Cattle				-16.2	0.06	taurine_other	taurine_pole	angus
+SAMN06699070	Leiqiong Cattle				191.8	1.1	taurine_other	indicine_pole	angus
+SAMN07622450	Dianzhong Cattle				187.2	1.08	taurine_other	indicine_pole	unknown
+SAMN07622451	Dianzhong Cattle				168.5	0.98	taurine_other	indicine_pole	unknown
+SAMN07622452	Dianzhong Cattle				183.1	1.05	taurine_other	indicine_pole	unknown
+SAMN07622454	Dianzhong Cattle				197.9	1.13	taurine_other	indicine_pole	unknown
+SAMN07622455	Dianzhong Cattle				182.3	1.05	taurine_other	indicine_pole	unknown
+SAMN07692225	Brown Suisse				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN10693932	Red Angus				-25.6	0.01	taurine_other	taurine_pole	unknown
+SAMN10693934	Charolais-Red Angus				-27.5	-0.0	taurine_other	taurine_pole	unknown
+SAMN10721579	Sayaguesa				-23.8	0.02	taurine_other	taurine_pole	unknown
+SAMN10721582	Podolica				-1.9	0.13	taurine_other	taurine_pole	unknown
+SAMN10721583	Maremmana				34.8	0.31	taurine_other	admixed	unknown
+SAMN10721585	Boskarin				3.4	0.15	taurine_other	taurine_pole	unknown
+SAMN08767044	German Angus				-25.9	0.01	taurine_other	taurine_pole	unknown
+SAMN10108008	Holstein				-29.2	-0.01	holstein	taurine_pole	unknown
+SAMN10108012	Holstein				-24.7	0.01	holstein	taurine_pole	unknown
+SAMEA4780233		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_1	-24.1	0.02	holstein	taurine_pole	holstein
+SAMEA4780234		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_2	-27.2	0.0	holstein	taurine_pole	holstein
+SAMEA4780235		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_3	-25.1	0.01	holstein	taurine_pole	holstein
+SAMEA4780236		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_4	-28.6	-0.01	holstein	taurine_pole	holstein
+SAMEA4780237		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_5	-32.6	-0.03	holstein	taurine_pole	holstein
+SAMEA4780238		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_6	-25.2	0.01	holstein	taurine_pole	holstein
+SAMEA4780239		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_7	-25.8	0.01	holstein	taurine_pole	holstein
+SAMEA4780240		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_8	-27.6	-0.0	holstein	taurine_pole	holstein
+SAMEA4780241		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_9	-27.5	-0.0	holstein	taurine_pole	holstein
+SAMEA4780242		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_10	-26.4	0.0	holstein	taurine_pole	holstein
+SAMEA4780243		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_11	-29.5	-0.01	holstein	taurine_pole	holstein
+SAMEA4780244		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_12	-27.8	-0.0	holstein	taurine_pole	holstein
+SAMEA4780245		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_13	-28.8	-0.01	holstein	taurine_pole	holstein
+SAMEA4780246		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_14	-21.4	0.03	holstein	taurine_pole	holstein
+SAMEA4780247		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_15	-27.4	-0.0	holstein	taurine_pole	holstein
+SAMEA4780248		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_16	-28.9	-0.01	holstein	taurine_pole	holstein
+SAMEA4780249		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_17	-26.7	0.0	holstein	taurine_pole	holstein
+SAMEA4780250		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_18	-27.6	-0.0	holstein	taurine_pole	holstein
+SAMEA4780251		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_19	-25.8	0.01	holstein	taurine_pole	holstein
+SAMEA4780252		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_20	-23.3	0.02	holstein	taurine_pole	holstein
+SAMEA4780253		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_21	-25.5	0.01	holstein	taurine_pole	holstein
+SAMEA4780254		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_22	-31.1	-0.02	holstein	taurine_pole	holstein
+SAMEA4780255		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_23	-24.3	0.02	holstein	taurine_pole	holstein
+SAMEA4780256		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_24	-29.1	-0.01	holstein	taurine_pole	holstein
+SAMEA4780257		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_25	-28.6	-0.01	holstein	taurine_pole	holstein
+SAMEA4780258		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_26	-24.8	0.01	holstein	taurine_pole	holstein
+SAMEA4780259		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_27	-22.2	0.03	holstein	taurine_pole	holstein
+SAMEA4780260		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_28	-24.3	0.02	holstein	taurine_pole	holstein
+SAMEA4780262		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_30	-17.1	0.05	holstein	taurine_pole	holstein
+SAMEA4780263		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_31	-25.9	0.01	holstein	taurine_pole	holstein
+SAMEA4780264		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_32	-21.2	0.03	holstein	taurine_pole	holstein
+SAMEA4780265		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_33	-27.0	0.0	holstein	taurine_pole	holstein
+SAMEA4780266		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_34	-29.3	-0.01	holstein	taurine_pole	holstein
+SAMEA4780267		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_35	-30.7	-0.02	holstein	taurine_pole	holstein
+SAMEA4780268		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_36	-27.6	-0.0	holstein	taurine_pole	holstein
+SAMEA4780269		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_37	-27.7	-0.0	holstein	taurine_pole	holstein
+SAMEA4780270		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_38	-30.0	-0.01	holstein	taurine_pole	holstein
+SAMEA4780271		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_39	-29.9	-0.01	holstein	taurine_pole	holstein
+SAMEA4780272		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_40	-28.3	-0.0	holstein	taurine_pole	holstein
+SAMEA4780273		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_41	-26.2	0.01	holstein	taurine_pole	holstein
+SAMEA4780274		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_42	-28.2	-0.0	holstein	taurine_pole	holstein
+SAMEA4780275		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_43	-30.6	-0.02	holstein	taurine_pole	holstein
+SAMEA4780276		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_44	-32.7	-0.03	holstein	taurine_pole	holstein
+SAMEA4780277		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_45	-28.6	-0.01	holstein	taurine_pole	holstein
+SAMEA4780278		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_46	-25.3	0.01	holstein	taurine_pole	holstein
+SAMEA4780279		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_47	-28.3	-0.0	holstein	taurine_pole	holstein
+SAMEA4780280		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_48	-27.9	-0.0	holstein	taurine_pole	holstein
+SAMEA4780281		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_49	-29.6	-0.01	holstein	taurine_pole	holstein
+SAMEA4780282		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_50	-27.2	0.0	holstein	taurine_pole	holstein
+SAMEA4780283		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_51	-30.2	-0.01	holstein	taurine_pole	holstein
+SAMEA4780284		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_52	-26.8	0.0	holstein	taurine_pole	holstein
+SAMEA4780285		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_53	-29.2	-0.01	holstein	taurine_pole	holstein
+SAMEA4780286		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_54	-27.1	0.0	holstein	taurine_pole	holstein
+SAMEA4780288		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_56	-28.4	-0.01	holstein	taurine_pole	holstein
+SAMEA4780289		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_57	-28.2	-0.0	holstein	taurine_pole	holstein
+SAMEA4780290		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_58	-27.1	0.0	holstein	taurine_pole	holstein
+SAMEA4780291		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_59	-28.1	-0.0	holstein	taurine_pole	holstein
+SAMEA4780292		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_60	-27.4	0.0	holstein	taurine_pole	holstein
+SAMEA4780293		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_61	-25.0	0.01	holstein	taurine_pole	holstein
+SAMEA4780295		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_63	-29.1	-0.01	holstein	taurine_pole	holstein
+SAMEA4780296		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_64	-27.0	0.0	holstein	taurine_pole	holstein
+SAMEA4780297		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_65	-28.7	-0.01	holstein	taurine_pole	holstein
+SAMEA4780298		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_66	-30.7	-0.02	holstein	taurine_pole	holstein
+SAMEA4780299		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_67	-27.5	-0.0	holstein	taurine_pole	holstein
+SAMEA4780300		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_68	-28.2	-0.0	holstein	taurine_pole	holstein
+SAMEA4780301		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_69	-27.2	0.0	holstein	taurine_pole	holstein
+SAMEA4780302		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_70	-28.9	-0.01	holstein	taurine_pole	holstein
+SAMEA4780303		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_71	-27.0	0.0	holstein	taurine_pole	holstein
+SAMEA4780305		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_73	-29.7	-0.01	holstein	taurine_pole	holstein
+SAMEA4780306		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_74	-29.5	-0.01	holstein	taurine_pole	holstein
+SAMEA4780307		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_75	-30.1	-0.01	holstein	taurine_pole	holstein
+SAMEA4780308		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_76	-27.9	-0.0	holstein	taurine_pole	holstein
+SAMEA4780309		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_77	-27.1	0.0	holstein	taurine_pole	holstein
+SAMEA4780310		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_78	-27.4	0.0	holstein	taurine_pole	holstein
+SAMEA4780311		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_79	-25.8	0.01	holstein	taurine_pole	holstein
+SAMEA4780312		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_80	-27.6	-0.0	holstein	taurine_pole	holstein
+SAMEA4780313		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_81	-27.6	-0.0	holstein	taurine_pole	holstein
+SAMEA4780314		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_82	-28.3	-0.0	holstein	taurine_pole	holstein
+SAMEA4780315		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_83	-27.2	0.0	holstein	taurine_pole	holstein
+SAMEA4780317		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_85	-28.3	-0.0	holstein	taurine_pole	holstein
+SAMEA4780318		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_86	-30.0	-0.01	holstein	taurine_pole	holstein
+SAMEA4780319		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_87	-29.3	-0.01	holstein	taurine_pole	holstein
+SAMEA4780320		PRJEB27379	90 whole genomes of international Holstein-Freisia	HF_88	-30.0	-0.01	holstein	taurine_pole	holstein
+SAMEA4827645		PRJEB28191	Short read sequencing of cattle	ETH1	-26.7	0.0	ETH_unlabelled	taurine_pole	unknown
+SAMN05939266	Holstein				-25.9	0.01	holstein	taurine_pole	unknown
+SAMN05939364	Holstein				-30.3	-0.01	holstein	taurine_pole	unknown
+SAMN05942192	Holstein				-31.1	-0.02	holstein	taurine_pole	unknown
+SAMN05942193	Holstein				-29.6	-0.01	holstein	taurine_pole	unknown
+SAMN05942194	Holstein				-23.0	0.02	holstein	taurine_pole	unknown
+SAMN05945846	Fleckvieh				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN05945848	Fleckvieh				-22.6	0.02	taurine_other	taurine_pole	unknown
+SAMN05945849	Fleckvieh				-24.2	0.02	taurine_other	taurine_pole	unknown
+SAMN05199629	Gelbvieh				-23.7	0.02	taurine_other	taurine_pole	unknown
+SAMN05199676	Simmental				-25.9	0.01	taurine_other	taurine_pole	unknown
+SAMN05199762	Limousin x Hereford				-24.2	0.02	crossbred_composite	taurine_pole	unknown
+SAMN05199766	Limousin x Hereford				-24.0	0.02	crossbred_composite	taurine_pole	unknown
+SAMN06698974	Chaidamu Yellow Cattle				2.2	0.15	taurine_other	taurine_pole	unknown
+SAMN06698975	Chaidamu Yellow Cattle				2.4	0.15	taurine_other	taurine_pole	unknown
+SAMN06698976	Chaidamu Yellow Cattle				21.8	0.25	taurine_other	taurine_pole	unknown
+SAMN06698978	Chaidamu Yellow Cattle				4.1	0.16	taurine_other	taurine_pole	unknown
+SAMN06698979	Mongolian Cattle				6.3	0.17	taurine_other	taurine_pole	unknown
+SAMN06698980	Mongolian Cattle				27.4	0.27	taurine_other	admixed	unknown
+SAMN06698985	Mongolian Cattle				-4.8	0.11	taurine_other	taurine_pole	unknown
+SAMN06698987	Kazakh Cattle				-21.6	0.03	taurine_other	taurine_pole	unknown
+SAMN06698988	Kazakh Cattle				-7.4	0.1	taurine_other	taurine_pole	unknown
+SAMN06698989	Kazakh Cattle				-6.6	0.1	taurine_other	taurine_pole	unknown
+SAMN06698991	Kazakh Cattle				3.1	0.15	taurine_other	taurine_pole	unknown
+SAMN06698992	Kazakh Cattle				4.8	0.16	taurine_other	taurine_pole	unknown
+SAMN06698993	Kazakh Cattle				-7.0	0.1	taurine_other	taurine_pole	unknown
+SAMN06698994	Kazakh Cattle				-19.9	0.04	taurine_other	taurine_pole	unknown
+SAMN06699004	Luxi Cattle				94.7	0.61	crossbred_composite	admixed	unknown
+SAMN06699005	Luxi Cattle				97.0	0.62	crossbred_composite	admixed	angus
+SAMN06699006	Luxi Cattle				41.3	0.34	crossbred_composite	admixed	angus
+SAMN06699007	Luxi Cattle				54.4	0.41	crossbred_composite	admixed	angus
+SAMN06699008	Luxi Cattle				88.4	0.58	crossbred_composite	admixed	angus
+SAMN06699010	Nanyang Cattle				92.5	0.6	taurine_other	admixed	angus
+SAMN06699012	Nanyang Cattle				113.5	0.71	taurine_other	admixed	angus
+SAMN06699013	Nanyang Cattle				-4.9	0.11	taurine_other	taurine_pole	angus
+SAMN06699015	Jiaxian Red Cattle				77.6	0.53	crossbred_composite	admixed	angus
+SAMN06699016	Jiaxian Red Cattle				36.8	0.32	crossbred_composite	admixed	angus
+SAMN06699019	Bohai Black Cattle				61.1	0.44	taurine_other	admixed	angus
+SAMN06699020	Bohai Black Cattle				23.1	0.25	taurine_other	admixed	angus
+SAMN06699021	Bohai Black Cattle				25.8	0.27	taurine_other	admixed	angus
+SAMN06699022	Bohai Black Cattle				20.1	0.24	taurine_other	taurine_pole	angus
+SAMN06699024	Lingnan Cattle				99.4	0.64	taurine_other	admixed	angus
+SAMN06699025	Lingnan Cattle				108.2	0.68	taurine_other	admixed	angus
+SAMN06699026	Lingnan Cattle				152.7	0.9	taurine_other	indicine_pole	angus
+SAMN06699027	Lingnan Cattle				136.0	0.82	taurine_other	indicine_pole	angus
+SAMN06699028	Lingnan Cattle				143.0	0.85	taurine_other	indicine_pole	angus
+SAMN06699029	Lingnan Cattle				90.2	0.59	taurine_other	admixed	angus
+SAMN06699030	Lingnan Cattle				111.9	0.7	taurine_other	admixed	angus
+SAMN06699031	Lingnan Cattle				133.6	0.81	taurine_other	indicine_pole	angus
+SAMN06699032	Zaobei Cattle				144.2	0.86	taurine_other	indicine_pole	angus
+SAMN06699033	Zaobei Cattle				140.1	0.84	taurine_other	indicine_pole	angus
+SAMN06699034	Zaobei Cattle				137.6	0.83	taurine_other	indicine_pole	angus
+SAMN06699035	Zaobei Cattle				114.4	0.71	taurine_other	admixed	angus
+SAMN06699036	Zaobei Cattle				102.5	0.65	taurine_other	admixed	angus
+SAMN06699037	Xuanhan Cattle				130.6	0.79	crossbred_composite	indicine_pole	angus
+SAMN06699038	Xuanhan Cattle				133.8	0.81	crossbred_composite	indicine_pole	angus
+SAMN06699040	Xuanhan Cattle				104.2	0.66	crossbred_composite	admixed	angus
+SAMN06699041	Xuanhan Cattle				102.7	0.65	crossbred_composite	admixed	angus
+SAMN06699042	Weining Cattle				114.2	0.71	taurine_other	admixed	angus
+SAMN06699043	Weining Cattle				81.7	0.55	taurine_other	admixed	angus
+SAMN06699045	Weining Cattle				115.4	0.72	taurine_other	admixed	angus
+SAMN06699046	Weining Cattle				66.3	0.47	taurine_other	admixed	angus
+SAMN06699047	Wannan Cattle				164.4	0.96	taurine_other	indicine_pole	angus
+SAMN06699049	Wannan Cattle				174.5	1.01	taurine_other	indicine_pole	angus
+SAMN06699052	Wandong Cattle				133.1	0.8	taurine_other	indicine_pole	angus
+SAMN06699053	Wandong Cattle				152.6	0.9	taurine_other	indicine_pole	angus
+SAMN06699054	Dabieshan Cattle				17.5	0.22	taurine_other	taurine_pole	angus
+SAMN06699056	Guangfeng Cattle				173.8	1.01	taurine_other	indicine_pole	angus
+SAMN06699057	Guangfeng Cattle				208.8	1.18	taurine_other	indicine_pole	angus
+SAMN06699058	Guangfeng Cattle				149.6	0.89	taurine_other	indicine_pole	angus
+SAMN06699059	Guangfeng Cattle				193.8	1.11	taurine_other	indicine_pole	angus
+SAMN06699060	Jian Cattle				202.4	1.15	taurine_other	indicine_pole	angus
+SAMN06699061	Jian Cattle				174.9	1.01	taurine_other	indicine_pole	angus
+SAMN06699062	Jian Cattle				208.8	1.18	taurine_other	indicine_pole	angus
+SAMN06699063	Jian Cattle				199.5	1.14	taurine_other	indicine_pole	angus
+SAMN06699064	Jinjiang Cattle				165.6	0.97	taurine_other	indicine_pole	angus
+SAMN06699066	Jinjiang Cattle				179.8	1.04	taurine_other	indicine_pole	angus
+SAMN06699067	Jinjiang Cattle				164.8	0.96	taurine_other	indicine_pole	angus
+SAMN07622453	Dianzhong Cattle				173.9	1.01	taurine_other	indicine_pole	unknown
+SAMN07622456	Wenshan Cattle				162.4	0.95	taurine_other	indicine_pole	unknown
+SAMN07622462	Wenshan Cattle				168.7	0.98	taurine_other	indicine_pole	unknown
+SAMN07622463	Wenshan Cattle				169.6	0.99	taurine_other	indicine_pole	unknown
+SAMN07622464	Wannan Cattle				166.3	0.97	taurine_other	indicine_pole	unknown
+SAMN07622465	Wannan Cattle				170.7	0.99	taurine_other	indicine_pole	unknown
+SAMN09213440	San Martinero				-4.3	0.12	taurine_other	taurine_pole	unknown
+SAMN09213441	San Martinero				0.4	0.14	taurine_other	taurine_pole	unknown
+SAMN09213442	Costeno con Cuernos				-17.3	0.05	taurine_other	taurine_pole	unknown
+SAMN09379697	Hereford				-27.0	0.0	taurine_other	taurine_pole	nelore
+SAMN09379700	Angus				-24.5	0.01	taurine_other	taurine_pole	nelore
+SAMN09379704	Charolais				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379714	Hereford				-28.2	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379715	Belgian Blue				-24.1	0.02	taurine_other	taurine_pole	nelore
+SAMN09379721	Hereford				-25.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379736	Charolais				-20.2	0.04	taurine_other	taurine_pole	nelore
+SAMN09379737	Limousin				-23.7	0.02	taurine_other	taurine_pole	nelore
+SAMN09379745	Belgian Blue				-23.1	0.02	taurine_other	taurine_pole	nelore
+SAMN09379749	Charolais				-18.8	0.04	taurine_other	taurine_pole	nelore
+SAMN09379756	Limousin				-19.5	0.04	taurine_other	taurine_pole	nelore
+SAMN09379759	Angus				-29.5	-0.01	taurine_other	taurine_pole	nelore
+SAMN09379762	Charolais				-23.1	0.02	taurine_other	taurine_pole	nelore
+SAMN09379765	Charolais				-24.8	0.01	taurine_other	taurine_pole	nelore
+SAMN09379772	Simmental				-17.1	0.05	taurine_other	taurine_pole	nelore
+SAMN09379795	Hereford				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379808	Hereford				-26.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379809	Simmental				-26.5	0.0	taurine_other	taurine_pole	nelore
+SAMN09379812	Charolais				-21.6	0.03	taurine_other	taurine_pole	nelore
+SAMN09379814	Charolais				-23.1	0.02	taurine_other	taurine_pole	nelore
+SAMN09379817	Limousin				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379830	Charolais				-24.0	0.02	taurine_other	taurine_pole	nelore
+SAMN09379832	Simmental				-21.6	0.03	taurine_other	taurine_pole	nelore
+SAMN05217649	Hereford				-28.4	-0.0	taurine_other	taurine_pole	unknown
+SAMN10486398	Nelore				151.7	0.9	indicine_or_african	indicine_pole	unknown
+SAMN10486399	Nelore				117.9	0.73	indicine_or_african	admixed	unknown
+SAMN10486400	Nelore				149.9	0.89	indicine_or_african	indicine_pole	unknown
+SAMN10486401	Nelore				184.6	1.06	indicine_or_african	indicine_pole	unknown
+SAMN10693931	Red Angus				-28.0	-0.0	taurine_other	taurine_pole	unknown
+SAMN10693933	Red Angus				-26.4	0.0	taurine_other	taurine_pole	unknown
+SAMN10721580	Maronesa				-15.5	0.06	taurine_other	taurine_pole	unknown
+SAMN10721581	Limia				-28.2	-0.0	taurine_other	taurine_pole	unknown
+SAMN10721584	Pajuna				-24.4	0.02	taurine_other	taurine_pole	unknown
+SAMN11843850	Holstein				-25.1	0.01	holstein	taurine_pole	unknown
+SAMN10108011	Holstein				-28.0	-0.0	holstein	taurine_pole	unknown
+SAMN10131223	Tharparkar				162.7	0.95	indicine_or_african	indicine_pole	unknown
+SAMN10131257	Kangayam				202.1	1.15	taurine_other	indicine_pole	unknown
+SAMN10131258	Vechur				185.9	1.07	taurine_other	indicine_pole	unknown
+SAMN12153485	highland				-28.2	-0.0	taurine_other	taurine_pole	unknown
+SAMEA5059741		PRJEB28191	Short read sequencing of cattle	ETH_31	-26.4	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059747		PRJEB28191	Short read sequencing of cattle	ETH_37	-22.4	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059748		PRJEB28191	Short read sequencing of cattle	ETH_38	-23.4	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059749		PRJEB28191	Short read sequencing of cattle	ETH_39	-26.5	0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA5059758		PRJEB28191	Short read sequencing of cattle	ETH_48	-20.7	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMN02671482	Holstein				-28.8	-0.01	holstein	taurine_pole	unknown
+SAMN02671596	Holstein				-27.4	0.0	holstein	taurine_pole	unknown
+SAMN05199550	Hereford				-24.9	0.01	taurine_other	taurine_pole	unknown
+SAMN05199614	Limousin				-21.9	0.03	taurine_other	taurine_pole	unknown
+SAMN05199680	Braunveih				-23.8	0.02	taurine_other	taurine_pole	unknown
+SAMN05199681	Braunveih				-18.9	0.04	taurine_other	taurine_pole	unknown
+SAMN05199688	Maine Anjou				-26.1	0.01	taurine_other	taurine_pole	unknown
+SAMN05199689	Maine Anjou				-25.7	0.01	taurine_other	taurine_pole	unknown
+SAMN05199693	Santa Gertrudis				30.9	0.29	taurine_other	admixed	unknown
+SAMN05199698	Santa Gertrudis				-23.1	0.02	taurine_other	taurine_pole	unknown
+SAMN05199699	Santa Gertrudis				-20.5	0.03	taurine_other	taurine_pole	unknown
+SAMN05199706	Limousin				-19.9	0.04	taurine_other	taurine_pole	unknown
+SAMN05199707	Simmental				-22.2	0.03	taurine_other	taurine_pole	unknown
+SAMN05199708	Chi-Angus				-17.5	0.05	taurine_other	taurine_pole	unknown
+SAMN05199710	Salers				-22.1	0.03	taurine_other	taurine_pole	unknown
+SAMN05199780	Charolais x Angus				-22.9	0.02	crossbred_composite	taurine_pole	unknown
+SAMN09213443	Costeno con Cuernos				-4.0	0.12	taurine_other	taurine_pole	unknown
+SAMEA2358278	Rashoki				76.8	0.52	taurine_other	admixed	unknown
+SAMEA2358279	Rashoki				71.4	0.49	taurine_other	admixed	unknown
+SAMEA2358280	Rashoki				56.3	0.42	taurine_other	admixed	unknown
+SAMEA2358282	Rashoki				28.9	0.28	taurine_other	admixed	unknown
+SAMEA2358283	Rashoki				66.9	0.47	taurine_other	admixed	unknown
+SAMEA2358284	Rashoki				67.6	0.48	taurine_other	admixed	unknown
+SAMEA2358285	Rashoki				54.1	0.41	taurine_other	admixed	unknown
+SAMEA2358286		PRJEB5462	Bos taurus from Iran: NextGen project low coverage	IROV-AD7-1001	-24.6	0.01	unlabelled	taurine_pole	unknown
+SAMEA946958		PRJEB2364	SNP discovery in African taurine and Zebu cattle b	Sahiwal pool 1	153.7	0.91	unlabelled	indicine_pole	unknown
+SAMN01163917			Angus Genome Sequence		-21.4	0.03	unlabelled	taurine_pole	unknown
+SAMN01163918			Nellore Genome Sequence		122.7	0.75	unlabelled	indicine_pole	unknown
+SAMN03387020	Angus				-15.9	0.06	taurine_other	taurine_pole	unknown
+SAMN03465694	Herford				-25.1	0.01	taurine_other	taurine_pole	unknown
+SAMN03839032	Hanwoo				19.3	0.23	taurine_other	taurine_pole	unknown
+SAMN04201345	Holstein				-28.5	-0.01	holstein	taurine_pole	unknown
+SAMN04545530	Boran				152.4	0.9	indicine_or_african	indicine_pole	brahman
+SAMN04545531	Boran				163.7	0.96	indicine_or_african	indicine_pole	brahman
+SAMN04545532	Boran				131.1	0.79	indicine_or_african	indicine_pole	brahman
+SAMN04545533	Boran				157.1	0.92	indicine_or_african	indicine_pole	brahman
+SAMN04545534	Boran				161.9	0.95	indicine_or_african	indicine_pole	brahman
+SAMN04545535	Boran				109.0	0.68	indicine_or_african	admixed	brahman
+SAMN04545537	Boran				162.8	0.95	indicine_or_african	indicine_pole	brahman
+SAMN04545538	Boran				139.4	0.84	indicine_or_african	indicine_pole	brahman
+SAMN04545539	Boran				156.7	0.92	indicine_or_african	indicine_pole	brahman
+SAMN04978239			50		-25.3	0.01	unlabelled	taurine_pole	brahman
+SAMN04978240			56		-14.6	0.06	unlabelled	taurine_pole	brahman
+SAMN04978241			60		-29.9	-0.01	unlabelled	taurine_pole	brahman
+SAMN04978250			296		-24.8	0.01	unlabelled	taurine_pole	brahman
+SAMN04978251			2040		-25.9	0.01	unlabelled	taurine_pole	brahman
+SAMN04978252			3310		-27.9	-0.0	unlabelled	taurine_pole	brahman
+SAMN04978253			3344		-26.5	0.0	unlabelled	taurine_pole	brahman
+SAMN04978254			3352		-28.8	-0.01	unlabelled	taurine_pole	brahman
+SAMN04978255			3369		-25.2	0.01	unlabelled	taurine_pole	brahman
+SAMN04978256			3377		-28.1	-0.0	unlabelled	taurine_pole	brahman
+SAMN04978257			3454		-26.3	0.01	unlabelled	taurine_pole	brahman
+SAMN04978258			4252		-28.0	-0.0	unlabelled	taurine_pole	brahman
+SAMN04978259			4718		-28.0	-0.0	unlabelled	taurine_pole	brahman
+SAMN05216009	Angus				-26.3	0.01	taurine_other	taurine_pole	unknown
+SAMN05216010	Angus				-27.0	0.0	taurine_other	taurine_pole	unknown
+SAMN05216011	Angus				-25.6	0.01	taurine_other	taurine_pole	unknown
+SAMN05216012	Angus				-23.5	0.02	taurine_other	taurine_pole	unknown
+SAMN05216013	Angus				-17.5	0.05	taurine_other	taurine_pole	unknown
+SAMN05216014	Angus				-25.2	0.01	taurine_other	taurine_pole	unknown
+SAMN05216015	Hereford				-24.0	0.02	taurine_other	taurine_pole	unknown
+SAMN05216016	Hereford				-25.9	0.01	taurine_other	taurine_pole	unknown
+SAMN05216017	Hereford				-26.9	0.0	taurine_other	taurine_pole	unknown
+SAMN05216018	Hereford				-28.7	-0.01	taurine_other	taurine_pole	unknown
+SAMN05216019	Hereford				-27.5	-0.0	taurine_other	taurine_pole	unknown
+SAMN05216020	Hereford				-23.0	0.02	taurine_other	taurine_pole	unknown
+SAMN05216021	Limousin				-23.0	0.02	taurine_other	taurine_pole	unknown
+SAMN05216022	Limousin				-22.9	0.02	taurine_other	taurine_pole	unknown
+SAMN05216023	Limousin				-23.4	0.02	taurine_other	taurine_pole	unknown
+SAMN05216024	Limousin				-23.5	0.02	taurine_other	taurine_pole	unknown
+SAMN05216025	Limousin				-21.2	0.03	taurine_other	taurine_pole	unknown
+SAMN05216026	Limousin				-22.8	0.02	taurine_other	taurine_pole	unknown
+SAMN05216027	Simmental				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN05216028	Simmental				-27.8	-0.0	taurine_other	taurine_pole	unknown
+SAMN05216029	Simmental				-24.6	0.01	taurine_other	taurine_pole	unknown
+SAMN05216030	Simmental				-26.3	0.01	taurine_other	taurine_pole	unknown
+SAMN05216031	Simmental				-18.3	0.05	taurine_other	taurine_pole	unknown
+SAMN05216032	Simmental				-25.3	0.01	taurine_other	taurine_pole	unknown
+SAMN05216033	Charolais				-17.9	0.05	taurine_other	taurine_pole	unknown
+SAMN05216034	Charolais				-23.5	0.02	taurine_other	taurine_pole	unknown
+SAMN05216035	Charolais				-18.1	0.05	taurine_other	taurine_pole	unknown
+SAMN05216036	Charolais				-21.6	0.03	taurine_other	taurine_pole	unknown
+SAMN05216037	Charolais				-20.4	0.04	taurine_other	taurine_pole	unknown
+SAMN05216038	Charolais				-23.4	0.02	taurine_other	taurine_pole	unknown
+SAMN05216040	Red Angus				-24.8	0.01	taurine_other	taurine_pole	unknown
+SAMN05216041	Red Angus				-28.1	-0.0	taurine_other	taurine_pole	unknown
+SAMN05216042	Red Angus				-25.5	0.01	taurine_other	taurine_pole	unknown
+SAMN05216043	Red Angus				-27.2	0.0	taurine_other	taurine_pole	unknown
+SAMN05216044	Red Angus				-28.2	-0.0	taurine_other	taurine_pole	holstein
+SAMN05216045	Gelbvieh				-25.8	0.01	taurine_other	taurine_pole	holstein
+SAMN05216046	Gelbvieh				-23.7	0.02	taurine_other	taurine_pole	holstein
+SAMN05216047	Gelbvieh				-23.0	0.02	taurine_other	taurine_pole	holstein
+SAMN05216048	Gelbvieh				-28.2	-0.0	taurine_other	taurine_pole	holstein
+SAMN05216049	Gelbvieh				-24.6	0.01	taurine_other	taurine_pole	holstein
+SAMN05216050	Gelbvieh				-22.4	0.03	taurine_other	taurine_pole	holstein
+SAMN05216051	Beefmaster				80.0	0.54	taurine_other	admixed	holstein
+SAMN05216052	Beefmaster				23.4	0.25	taurine_other	admixed	holstein
+SAMN05216053	Beefmaster				47.6	0.38	taurine_other	admixed	holstein
+SAMN05216054	Beefmaster				86.0	0.57	taurine_other	admixed	holstein
+SAMN05216055	Beefmaster				38.2	0.33	taurine_other	admixed	holstein
+SAMN05216056	Brangus				14.5	0.21	taurine_other	taurine_pole	holstein
+SAMN05216057	Brangus				23.3	0.25	taurine_other	admixed	holstein
+SAMN05216058	Brangus				18.7	0.23	taurine_other	taurine_pole	holstein
+SAMN05216059	Brangus				31.5	0.3	taurine_other	admixed	holstein
+SAMN05216060	Brangus				-3.7	0.12	taurine_other	taurine_pole	holstein
+SAMN05216061	Salers				-22.9	0.02	taurine_other	taurine_pole	holstein
+SAMN05216062	Salers				-22.5	0.02	taurine_other	taurine_pole	holstein
+SAMN05216063	Salers				-20.7	0.03	taurine_other	taurine_pole	holstein
+SAMN05216064	Salers				-19.9	0.04	taurine_other	taurine_pole	holstein
+SAMN05216065	Salers				-22.5	0.02	taurine_other	taurine_pole	holstein
+SAMN05216066	Brahman				194.8	1.11	indicine_or_african	indicine_pole	holstein
+SAMN05216067	Brahman				164.5	0.96	indicine_or_african	indicine_pole	holstein
+SAMN05216068	Brahman				162.9	0.95	indicine_or_african	indicine_pole	holstein
+SAMN05216069	Brahman				169.3	0.99	indicine_or_african	indicine_pole	holstein
+SAMN05216070	Brahman				187.2	1.08	indicine_or_african	indicine_pole	holstein
+SAMN05216071	Shorthorn				-27.6	-0.0	taurine_other	taurine_pole	holstein
+SAMN05216072	Shorthorn				-15.9	0.06	taurine_other	taurine_pole	holstein
+SAMN05216073	Shorthorn				-24.3	0.02	taurine_other	taurine_pole	holstein
+SAMN05216074	Shorthorn				-20.7	0.03	taurine_other	taurine_pole	holstein
+SAMN05216075	Shorthorn				-22.8	0.02	taurine_other	taurine_pole	holstein
+SAMN05216076	Maine-Anjou				-26.1	0.01	taurine_other	taurine_pole	holstein
+SAMN05216077	Maine-Anjou				-23.2	0.02	taurine_other	taurine_pole	holstein
+SAMN05216078	Maine-Anjou				-25.8	0.01	taurine_other	taurine_pole	holstein
+SAMN05216079	Maine-Anjou				-20.5	0.03	taurine_other	taurine_pole	holstein
+SAMN05216080	Maine-Anjou				-25.5	0.01	taurine_other	taurine_pole	holstein
+SAMN05216081	Texas Longhorn				-1.2	0.13	crossbred_composite	taurine_pole	holstein
+SAMN05216082	Texas Longhorn				-5.3	0.11	crossbred_composite	taurine_pole	holstein
+SAMN05216083	Texas Longhorn				7.5	0.17	crossbred_composite	taurine_pole	holstein
+SAMN05216084	Texas Longhorn				-14.7	0.06	crossbred_composite	taurine_pole	holstein
+SAMN05216085	Santa Gertrudis				36.9	0.32	taurine_other	admixed	holstein
+SAMN05216086	Santa Gertrudis				26.0	0.27	taurine_other	admixed	holstein
+SAMN05216087	Santa Gertrudis				27.1	0.27	taurine_other	admixed	holstein
+SAMN05216088	Santa Gertrudis				37.1	0.32	taurine_other	admixed	holstein
+SAMN05216089	Chianina				-12.7	0.07	taurine_other	taurine_pole	holstein
+SAMN05216090	Chianina				-6.3	0.11	taurine_other	taurine_pole	holstein
+SAMN05216091	Chianina				-6.6	0.1	taurine_other	taurine_pole	holstein
+SAMN05216092	Chianina				-18.7	0.04	taurine_other	taurine_pole	holstein
+SAMN05216093	Braunvieh				-11.4	0.08	taurine_other	taurine_pole	holstein
+SAMN05216094	Braunvieh				-17.1	0.05	taurine_other	taurine_pole	holstein
+SAMN05216095	Braunvieh				-28.2	-0.0	taurine_other	taurine_pole	holstein
+SAMN05216096	Braunvieh				-25.1	0.01	taurine_other	taurine_pole	holstein
+SAMN05216097	Corriente				-23.5	0.02	taurine_other	taurine_pole	holstein
+SAMN05216098	Corriente				-14.5	0.06	taurine_other	taurine_pole	holstein
+SAMN05216099	Corriente				-9.0	0.09	taurine_other	taurine_pole	holstein
+SAMN05216100	Corriente				-14.6	0.06	taurine_other	taurine_pole	holstein
+SAMN05216101	Tarentaise				-25.8	0.01	taurine_other	taurine_pole	holstein
+SAMN05216102	Tarentaise				-24.1	0.02	taurine_other	taurine_pole	holstein
+SAMN05216103	Tarentaise				-26.5	0.0	taurine_other	taurine_pole	holstein
+SAMN05216104	Tarentaise				-18.7	0.04	taurine_other	taurine_pole	holstein
+SAMN05862018	Boran				150.9	0.89	indicine_or_african	indicine_pole	unknown
+SAMN05929796	Holstein				-27.9	-0.0	holstein	taurine_pole	unknown
+SAMN06282407	Polish Holstein-Friesian				-27.8	-0.0	holstein	taurine_pole	unknown
+SAMN06282408	Polish Holstein-Friesian				-28.0	-0.0	holstein	taurine_pole	unknown
+SAMN06282415	Polish Holstein-Friesian				-27.8	-0.0	holstein	taurine_pole	unknown
+SAMN06282416	Polish Holstein-Friesian				-28.3	-0.0	holstein	taurine_pole	unknown
+SAMN06282417	Polish Holstein-Friesian				-28.2	-0.0	holstein	taurine_pole	unknown
+SAMN06282418	Polish Holstein-Friesian				-28.8	-0.01	holstein	taurine_pole	unknown
+SAMN06282419	Polish Holstein-Friesian				-27.3	0.0	holstein	taurine_pole	unknown
+SAMN06282420	Polish Holstein-Friesian				-24.9	0.01	holstein	taurine_pole	unknown
+SAMN06282421	Polish Holstein-Friesian				-27.1	0.0	holstein	taurine_pole	unknown
+SAMN06282422	Polish Holstein-Friesian				-30.3	-0.01	holstein	taurine_pole	unknown
+SAMN06282423	Polish Holstein-Friesian				-28.3	-0.0	holstein	taurine_pole	unknown
+SAMN06282424	Polish Holstein-Friesian				-28.5	-0.01	holstein	taurine_pole	unknown
+SAMN06282425	Polish Holstein-Friesian				-28.2	-0.0	holstein	taurine_pole	unknown
+SAMN06282426	Polish Holstein-Friesian				-29.1	-0.01	holstein	taurine_pole	unknown
+SAMN06282427	Polish Holstein-Friesian				-25.6	0.01	holstein	taurine_pole	unknown
+SAMN06282428	Polish Holstein-Friesian				-29.7	-0.01	holstein	taurine_pole	unknown
+SAMN06282429	Polish Holstein-Friesian				-28.1	-0.0	holstein	taurine_pole	unknown
+SAMN06282430	Polish Holstein-Friesian				-30.0	-0.01	holstein	taurine_pole	unknown
+SAMN06282431	Polish Holstein-Friesian				-27.6	-0.0	holstein	taurine_pole	unknown
+SAMN06282432	Polish Holstein-Friesian				-27.1	0.0	holstein	taurine_pole	unknown
+SAMN06282433	Polish Holstein-Friesian				-28.3	-0.0	holstein	taurine_pole	unknown
+SAMN06282435	Polish Holstein-Friesian				-28.0	-0.0	holstein	taurine_pole	unknown
+SAMN06282436	Polish Holstein-Friesian				-29.1	-0.01	holstein	taurine_pole	unknown
+SAMN06698977	Chaidamu Yellow Cattle				22.2	0.25	taurine_other	taurine_pole	unknown
+SAMN06698981	Mongolian Cattle				18.4	0.23	taurine_other	taurine_pole	unknown
+SAMN06698982	Mongolian Cattle				24.5	0.26	taurine_other	admixed	unknown
+SAMN06698983	Mongolian Cattle				3.9	0.16	taurine_other	taurine_pole	unknown
+SAMN06698984	Mongolian Cattle				14.2	0.21	taurine_other	taurine_pole	unknown
+SAMN06698986	Kazakh Cattle				-14.8	0.06	taurine_other	taurine_pole	unknown
+SAMN06698990	Kazakh Cattle				-15.2	0.06	taurine_other	taurine_pole	unknown
+SAMN06699011	Nanyang Cattle				28.1	0.28	taurine_other	admixed	angus
+SAMN06699014	Jiaxian Red Cattle				84.3	0.56	crossbred_composite	admixed	angus
+SAMN06699017	Jiaxian Red Cattle				60.1	0.44	crossbred_composite	admixed	angus
+SAMN06699018	Jiaxian Red Cattle				33.1	0.3	crossbred_composite	admixed	angus
+SAMN06699039	Xuanhan Cattle				128.0	0.78	crossbred_composite	indicine_pole	angus
+SAMN06699044	Weining Cattle				96.0	0.62	taurine_other	admixed	angus
+SAMN06699048	Wannan Cattle				172.5	1.0	taurine_other	indicine_pole	angus
+SAMN06699050	Wannan Cattle				194.6	1.11	taurine_other	indicine_pole	angus
+SAMN06699051	Wannan Cattle				176.1	1.02	taurine_other	indicine_pole	angus
+SAMN06699055	Dabieshan Cattle				127.4	0.78	taurine_other	indicine_pole	angus
+SAMN06699065	Jinjiang Cattle				122.0	0.75	taurine_other	admixed	angus
+SAMN06699068	Leiqiong Cattle				189.7	1.09	taurine_other	indicine_pole	angus
+SAMN06699069	Leiqiong Cattle				206.8	1.17	taurine_other	indicine_pole	angus
+SAMN07622457	Wenshan Cattle				156.5	0.92	taurine_other	indicine_pole	unknown
+SAMN07622458	Wenshan Cattle				203.8	1.16	taurine_other	indicine_pole	unknown
+SAMN07622459	Wenshan Cattle				136.7	0.82	taurine_other	indicine_pole	unknown
+SAMN07622460	Wenshan Cattle				150.0	0.89	taurine_other	indicine_pole	unknown
+SAMN07622461	Wenshan Cattle				193.6	1.11	taurine_other	indicine_pole	unknown
+SAMN08166127	limonero				20.8	0.24	taurine_other	taurine_pole	unknown
+SAMN08166128	limonero				-23.3	0.02	taurine_other	taurine_pole	unknown
+SAMN08166129	limonero				10.0	0.19	taurine_other	taurine_pole	unknown
+SAMN08166130	limonero				9.4	0.18	taurine_other	taurine_pole	unknown
+SAMN08166131	limonero				-19.8	0.04	taurine_other	taurine_pole	unknown
+SAMN08166132	limonero				-15.2	0.06	taurine_other	taurine_pole	unknown
+SAMN08166133	limonero				-22.8	0.02	taurine_other	taurine_pole	unknown
+SAMN08166134	limonero				-20.8	0.03	taurine_other	taurine_pole	unknown
+SAMN08166135	limonero				-1.9	0.13	taurine_other	taurine_pole	unknown
+SAMN08225763	Gir				206.4	1.17	indicine_or_african	indicine_pole	unknown
+SAMN08242174	Indian Zebu				130.2	0.79	indicine_or_african	indicine_pole	hereford
+SAMN08242175	Indian Zebu				162.4	0.95	indicine_or_african	indicine_pole	hereford
+SAMN08242227	Mangshi Zebu				136.0	0.82	indicine_or_african	indicine_pole	hereford
+SAMN08242230	Mangshi Zebu				171.2	1.0	indicine_or_african	indicine_pole	hereford
+SAMN08473803	Brahman				153.3	0.91	indicine_or_african	indicine_pole	unknown
+SAMN08473804	Angus				-23.3	0.02	taurine_other	taurine_pole	unknown
+SAMN08724707					2.4	0.15	unlabelled	taurine_pole	unknown
+SAMN08724708					-9.8	0.09	unlabelled	taurine_pole	unknown
+SAMN08724709					-9.2	0.09	unlabelled	taurine_pole	unknown
+SAMN08810150	Friesian-Jersey cross				-24.7	0.01	crossbred_composite	taurine_pole	unknown
+SAMN08810152	Friesian-Jersey cross				-25.0	0.01	crossbred_composite	taurine_pole	unknown
+SAMN08810154	Friesian-Jersey cross				-23.4	0.02	crossbred_composite	taurine_pole	unknown
+SAMN08810156	Friesian-Jersey cross				-25.9	0.01	crossbred_composite	taurine_pole	unknown
+SAMN08810158	Friesian-Jersey cross				-27.3	0.0	crossbred_composite	taurine_pole	unknown
+SAMN08810160	Friesian-Jersey cross				-24.2	0.02	crossbred_composite	taurine_pole	unknown
+SAMN08810162	Friesian-Jersey cross				-28.0	-0.0	crossbred_composite	taurine_pole	unknown
+SAMN08810164	Friesian-Jersey cross				-27.4	0.0	crossbred_composite	taurine_pole	unknown
+SAMN08810166	Friesian-Jersey cross				-26.6	0.0	crossbred_composite	taurine_pole	unknown
+SAMN09379695	Limousin				-24.7	0.01	taurine_other	taurine_pole	nelore
+SAMN09379696	Simmental				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379698	Simmental				-22.5	0.02	taurine_other	taurine_pole	nelore
+SAMN09379699	Angus				-27.6	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379701	Hereford				-26.3	0.01	taurine_other	taurine_pole	nelore
+SAMN09379702	Angus				-25.8	0.01	taurine_other	taurine_pole	nelore
+SAMN09379703	Angus				-28.2	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379705	Charolais				-27.4	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379706	Simmental				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379707	Charolais				-21.7	0.03	taurine_other	taurine_pole	nelore
+SAMN09379708	Simmental				-21.4	0.03	taurine_other	taurine_pole	nelore
+SAMN09379709	Limousin				-20.1	0.04	taurine_other	taurine_pole	nelore
+SAMN09379710	Limousin				-16.0	0.06	taurine_other	taurine_pole	nelore
+SAMN09379711	Angus				-23.6	0.02	taurine_other	taurine_pole	nelore
+SAMN09379712	Charolais				-26.4	0.0	taurine_other	taurine_pole	nelore
+SAMN09379713	Charolais				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379716	Charolais				-27.3	0.0	taurine_other	taurine_pole	nelore
+SAMN09379717	Simmental				-22.3	0.03	taurine_other	taurine_pole	nelore
+SAMN09379718	Simmental				-23.7	0.02	taurine_other	taurine_pole	nelore
+SAMN09379719	Belgian Blue				-21.7	0.03	taurine_other	taurine_pole	nelore
+SAMN09379720	Charolais				-21.0	0.03	taurine_other	taurine_pole	nelore
+SAMN09379722	Limousin				-12.0	0.08	taurine_other	taurine_pole	nelore
+SAMN09379723	Limousin				-15.9	0.06	taurine_other	taurine_pole	nelore
+SAMN09379724	Limousin				-24.2	0.02	taurine_other	taurine_pole	nelore
+SAMN09379725	Charolais				-23.5	0.02	taurine_other	taurine_pole	nelore
+SAMN09379726	Limousin				-25.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379727	Hereford				-27.8	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379728	Charolais				-21.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379729	Charolais				-23.0	0.02	taurine_other	taurine_pole	nelore
+SAMN09379730	Simmental				-23.7	0.02	taurine_other	taurine_pole	nelore
+SAMN09379731	Simmental				-20.4	0.04	taurine_other	taurine_pole	nelore
+SAMN09379732	Limousin				-22.4	0.03	taurine_other	taurine_pole	nelore
+SAMN09379733	Charolais				-25.4	0.01	taurine_other	taurine_pole	nelore
+SAMN09379734	Simmental				-25.5	0.01	taurine_other	taurine_pole	nelore
+SAMN09379735	Charolais				-24.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379738	Charolais				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379739	Angus				-24.7	0.01	taurine_other	taurine_pole	nelore
+SAMN09379740	Charolais				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379741	Limousin				-26.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379742	Charolais				-20.3	0.04	taurine_other	taurine_pole	nelore
+SAMN09379743	Hereford				-22.8	0.02	taurine_other	taurine_pole	nelore
+SAMN09379744	Charolais				-18.0	0.05	taurine_other	taurine_pole	nelore
+SAMN09379747	Charolais				-26.1	0.01	taurine_other	taurine_pole	nelore
+SAMN09379748	Limousin				-22.4	0.02	taurine_other	taurine_pole	nelore
+SAMN09379750	Belgian Blue				-23.7	0.02	taurine_other	taurine_pole	nelore
+SAMN09379751	Hereford				-25.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379753	Hereford				-26.7	0.0	taurine_other	taurine_pole	nelore
+SAMN09379754	Hereford				-22.8	0.02	taurine_other	taurine_pole	nelore
+SAMN09379755	Hereford				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379757	Limousin				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN09379758	Angus				-28.3	-0.0	taurine_other	taurine_pole	nelore
+SAMN09379760	Charolais				-25.8	0.01	taurine_other	taurine_pole	nelore
+SAMN09379761	Charolais				-21.6	0.03	taurine_other	taurine_pole	nelore
+SAMN09379763	Hereford				-24.2	0.02	taurine_other	taurine_pole	nelore
+SAMN09379764	Charolais				-21.3	0.03	taurine_other	taurine_pole	nelore
+SAMN09379766	Limousin				-19.0	0.04	taurine_other	taurine_pole	nelore
+SAMN09379767	Simmental				-23.1	0.02	taurine_other	taurine_pole	nelore
+SAMN09379768	Simmental				-18.3	0.05	taurine_other	taurine_pole	nelore
+SAMN09379769	Belgian Blue				-24.5	0.01	taurine_other	taurine_pole	nelore
+SAMN09379770	Limousin				-17.2	0.05	taurine_other	taurine_pole	nelore
+SAMN09379771	Charolais				-29.1	-0.01	taurine_other	taurine_pole	nelore
+SAMN09379773	Limousin				-22.6	0.02	taurine_other	taurine_pole	nelore
+SAMN09379774	Limousin				-22.8	0.02	taurine_other	taurine_pole	nelore
+SAMN09379775	Angus				-27.0	0.0	taurine_other	taurine_pole	nelore
+SAMN09379776	Limousin				-25.6	0.01	taurine_other	taurine_pole	nelore
+SAMN09379777	Simmental				-24.6	0.01	taurine_other	taurine_pole	nelore
+SAMN09379778	Simmental				-17.4	0.05	taurine_other	taurine_pole	nelore
+SAMN09379779	Charolais				-19.1	0.04	taurine_other	taurine_pole	nelore
+SAMN09379780	Angus				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379781	Charolais				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN09379782	Simmental				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379783	Charolais				-26.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379784	Limousin				-26.4	0.01	taurine_other	taurine_pole	nelore
+SAMN09379785	Simmental				-15.9	0.06	taurine_other	taurine_pole	nelore
+SAMN09379786	Simmental				-26.2	0.01	taurine_other	taurine_pole	nelore
+SAMN09379787	Angus				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN09379788	Angus				-28.8	-0.01	taurine_other	taurine_pole	nelore
+SAMN09379789	Angus				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379790	Hereford				-22.7	0.02	taurine_other	taurine_pole	nelore
+SAMN09379791	Limousin				-23.9	0.02	taurine_other	taurine_pole	nelore
+SAMN09379792	Limousin				-21.6	0.03	taurine_other	taurine_pole	nelore
+SAMN09379793	Limousin				-19.4	0.04	taurine_other	taurine_pole	nelore
+SAMN09379794	Charolais				-17.5	0.05	taurine_other	taurine_pole	nelore
+SAMN09379796	Belgian Blue				-23.4	0.02	taurine_other	taurine_pole	nelore
+SAMN09379797	Limousin				-18.8	0.04	taurine_other	taurine_pole	nelore
+SAMN09379798	Charolais				-21.5	0.03	taurine_other	taurine_pole	nelore
+SAMN09379799	Charolais				-26.2	0.01	taurine_other	taurine_pole	nelore
+SAMN09379800	Angus				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379801	Charolais				-19.1	0.04	taurine_other	taurine_pole	nelore
+SAMN09379802	Charolais				-28.8	-0.01	taurine_other	taurine_pole	nelore
+SAMN09379803	Charolais				-20.7	0.03	taurine_other	taurine_pole	nelore
+SAMN09379804	Angus				-25.1	0.01	taurine_other	taurine_pole	nelore
+SAMN09379805	Charolais				-24.8	0.01	taurine_other	taurine_pole	nelore
+SAMN09379806	Limousin				-14.8	0.06	taurine_other	taurine_pole	nelore
+SAMN09379807	Simmental				-23.9	0.02	taurine_other	taurine_pole	nelore
+SAMN09379810	Hereford				-16.4	0.06	taurine_other	taurine_pole	nelore
+SAMN09379811	Charolais				-21.1	0.03	taurine_other	taurine_pole	nelore
+SAMN09379813	Belgian Blue				-25.0	0.01	taurine_other	taurine_pole	nelore
+SAMN09379815	Limousin				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379816	Belgian Blue				-18.1	0.05	taurine_other	taurine_pole	nelore
+SAMN09379818	Limousin				-15.7	0.06	taurine_other	taurine_pole	nelore
+SAMN09379819	Limousin				-24.4	0.01	taurine_other	taurine_pole	nelore
+SAMN09379820	Limousin				-13.8	0.07	taurine_other	taurine_pole	nelore
+SAMN09379821	Charolais				-22.0	0.03	taurine_other	taurine_pole	nelore
+SAMN09379822	Simmental				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN09379823	Simmental				-25.7	0.01	taurine_other	taurine_pole	nelore
+SAMN09379824	Simmental				-24.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379825	Simmental				-26.8	0.0	taurine_other	taurine_pole	nelore
+SAMN09379826	Charolais				-22.2	0.03	taurine_other	taurine_pole	nelore
+SAMN09379827	Simmental				-24.4	0.02	taurine_other	taurine_pole	nelore
+SAMN09379828	Simmental				-23.3	0.02	taurine_other	taurine_pole	nelore
+SAMN09379829	Belgian Blue				-25.9	0.01	taurine_other	taurine_pole	nelore
+SAMN09379831	Simmental				-24.4	0.02	taurine_other	taurine_pole	nelore
+SAMN09510408	Holstein				-26.6	0.0	holstein	taurine_pole	unknown
+SAMN09510409	Holstein				-29.3	-0.01	holstein	taurine_pole	unknown
+SAMN09510410	Holstein				-28.5	-0.01	holstein	taurine_pole	unknown
+SAMN09510411	Holstein				-28.4	-0.01	holstein	taurine_pole	unknown
+SAMN09510423	Norwegian Red				-27.6	-0.0	taurine_other	taurine_pole	unknown
+SAMEA4827646		PRJEB28191	Short read sequencing of cattle	ETH2	-17.4	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827647		PRJEB28191	Short read sequencing of cattle	ETH3	-21.0	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827648		PRJEB28191	Short read sequencing of cattle	ETH4	-27.5	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827649		PRJEB28191	Short read sequencing of cattle	ETH5	-20.0	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827650		PRJEB28191	Short read sequencing of cattle	ETH6	-15.3	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827651		PRJEB28191	Short read sequencing of cattle	ETH7	-11.0	0.08	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827652		PRJEB28191	Short read sequencing of cattle	ETH8	-19.6	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827653		PRJEB28191	Short read sequencing of cattle	ETH9	-24.0	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827654		PRJEB28191	Short read sequencing of cattle	ETH10	-5.1	0.11	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827655		PRJEB28191	Short read sequencing of cattle	ETH11	-15.4	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827656		PRJEB28191	Short read sequencing of cattle	ETH12	-17.9	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827657		PRJEB28191	Short read sequencing of cattle	ETH13	-26.3	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827658		PRJEB28191	Short read sequencing of cattle	ETH14	-23.5	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827659		PRJEB28191	Short read sequencing of cattle	ETH15	-21.2	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827660		PRJEB28191	Short read sequencing of cattle	ETH16	-21.2	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827661		PRJEB28191	Short read sequencing of cattle	ETH17	-23.1	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827662		PRJEB28191	Short read sequencing of cattle	ETH18	-19.6	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827663		PRJEB28191	Short read sequencing of cattle	ETH19	-18.0	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827664		PRJEB28191	Short read sequencing of cattle	ETH20	-26.1	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827665		PRJEB28191	Short read sequencing of cattle	ETH21	-9.9	0.09	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827666		PRJEB28191	Short read sequencing of cattle	ETH22	-25.0	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827667		PRJEB28191	Short read sequencing of cattle	ETH23	-19.9	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827668		PRJEB28191	Short read sequencing of cattle	ETH24	-11.3	0.08	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827669		PRJEB28191	Short read sequencing of cattle	ETH25	-23.3	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827670		PRJEB28191	Short read sequencing of cattle	ETH26	-20.6	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827671		PRJEB28191	Short read sequencing of cattle	ETH27	-20.2	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827672		PRJEB28191	Short read sequencing of cattle	ETH28	-23.1	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827673		PRJEB28191	Short read sequencing of cattle	ETH29	-24.7	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA4827674		PRJEB28191	Short read sequencing of cattle	ETH30	-28.6	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA19309168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM378	-21.5	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19309918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM401	-28.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19310668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM633	-27.8	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19311418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM664	-29.7	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19312168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM666	-29.2	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19312918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM720	-26.2	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19313668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM721	-24.9	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19314418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM723	-24.5	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19315168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM724	-25.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19316668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM725	-27.8	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19317418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM726	-29.5	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19318168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM727	-25.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19318918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM730	-25.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19320418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM766	-29.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19321168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM767	-28.7	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19321918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM773	-25.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19322668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM774	-30.7	-0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19323418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM763	-18.4	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19846918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	CD33	-28.2	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19847668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA45641	-25.8	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19849168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	ER257	-21.4	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19849918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HC26	-27.6	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19850668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	NDA57	-27.9	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19851418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL510	-26.6	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19852168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL528	-24.4	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19852918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL72	-24.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19853668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL89	-22.9	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19864168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM050	-29.3	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19864918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM067	-16.6	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19865668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM112	-28.3	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19866418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM130	-23.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19867168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM131	-28.4	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19867918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM135	-20.1	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19872418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM147	-22.8	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19873918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM23	-29.3	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19875418		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM380	-25.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19876168		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	SP016	24.5	0.26	swiss_SCBR_unlabelled	admixed	unknown
+SAMEA19876918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	SS013	-32.6	-0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA19877668		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM390	-26.9	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA2357050		PRJEB5435	Deletion in the EVC2 gene causes chondrodysplastic	TG9541	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA2821386		PRJEB7527	Epidermolysa bullosa in Danish Hereford calves is 	RM52	-24.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA2821387		PRJEB7528	DNA based diagnosis of rare diseases in veterinary	RM47	-22.8	0.02	unlabelled	taurine_pole	unknown
+SAMEA3209361		PRJEB8226	Hairless stripes in cattle implicate TSR2 in early	RM15	-20.7	0.03	unlabelled	taurine_pole	unknown
+SAMEA3706827		PRJEB12094	Arthrogryposis multiplex congenita in a family of 	RM700	-23.5	0.02	unlabelled	taurine_pole	holstein
+SAMEA3706828		PRJEB12094	Arthrogryposis multiplex congenita in a family of 	RM703	-24.6	0.01	unlabelled	taurine_pole	holstein
+SAMEA3706829		PRJEB12094	Arthrogryposis multiplex congenita in a family of 	RM705	-23.4	0.02	unlabelled	taurine_pole	holstein
+SAMEA4051548		PRJEB14604	A structural variant in the 5’-flanking region of 	BG011	-26.9	0.0	unlabelled	taurine_pole	unknown
+SAMEA4051549		PRJEB14604	A structural variant in the 5’-flanking region of 	BG025	-29.3	-0.01	unlabelled	taurine_pole	unknown
+SAMEA4051550		PRJEB14604	A structural variant in the 5’-flanking region of 	GU021	-24.1	0.02	unlabelled	taurine_pole	unknown
+SAMEA4560535		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA34510	-25.4	0.01	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560538		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA42145	-13.4	0.07	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560539		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA42268	-29.2	-0.01	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560541		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA43484	-28.3	-0.0	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560542		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA43661	-28.3	-0.0	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560543		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DW03	-22.6	0.02	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMN02225723	Hanwoo				-6.2	0.11	taurine_other	taurine_pole	hereford
+SAMN02225734	Holstein				-26.7	0.0	holstein	taurine_pole	hereford
+SAMN02225735	Holstein				-26.3	0.01	holstein	taurine_pole	hereford
+SAMN08242176	Indian Zebu				144.1	0.86	indicine_or_african	indicine_pole	hereford
+SAMN08242177	Indian Zebu				174.2	1.01	indicine_or_african	indicine_pole	hereford
+SAMN08242223	Mangshi Zebu				164.3	0.96	indicine_or_african	indicine_pole	hereford
+SAMN08242224	Mangshi Zebu				105.6	0.67	indicine_or_african	admixed	hereford
+SAMN08242225	Mangshi Zebu				139.2	0.83	indicine_or_african	indicine_pole	hereford
+SAMN08242231	Mangshi Zebu				167.3	0.98	indicine_or_african	indicine_pole	hereford
+SAMN08242232	Mangshi Zebu				154.1	0.91	indicine_or_african	indicine_pole	hereford
+SAMEA4827182		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_1	-25.0	0.01	unlabelled	taurine_pole	unknown
+SAMEA4827183		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_2	-17.6	0.05	unlabelled	taurine_pole	unknown
+SAMEA4827184		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_3	-22.1	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827185		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_4	-21.0	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827186		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_5	-25.7	0.01	unlabelled	taurine_pole	unknown
+SAMEA4827187		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_6	-22.4	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827188		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_7	-25.1	0.01	unlabelled	taurine_pole	unknown
+SAMEA4827189		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_8	-23.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827190		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_9	-21.2	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827191		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_10	-23.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827192		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_11	6.4	0.17	unlabelled	taurine_pole	unknown
+SAMEA4827193		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_12	-4.8	0.11	unlabelled	taurine_pole	unknown
+SAMEA4827194		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_13	-14.1	0.07	unlabelled	taurine_pole	unknown
+SAMEA4827195		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_14	-2.7	0.12	unlabelled	taurine_pole	unknown
+SAMEA4827196		PRJEB28185	WGS of 3 cattle breeds from the northernmost cattl	sample_15	-7.8	0.1	unlabelled	taurine_pole	unknown
+SAMEA5415485		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM0445	-27.8	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415486		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM0447	-25.7	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415488		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1574	-23.9	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415490		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1924	-25.2	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415491		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2213	-25.6	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415492		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2214	-28.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415493		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2215	-25.5	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415494		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2216	-29.3	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415495		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2217	-26.5	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415496		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2218	-29.0	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415497		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2219	-26.8	0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415498		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2220	-25.7	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415499		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2227	-26.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415500		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2230	-29.9	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415501		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2241	-28.0	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5415502		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2252	-29.7	-0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564710		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HTS009	-26.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564711		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	HTS083	-21.6	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564713		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL076	-18.4	0.05	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564714		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL179	-25.3	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564715		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM0121	-18.5	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564717		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2148	-24.2	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564718		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2152	-20.7	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564719		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2156	-25.0	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564720		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2158	-25.1	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564721		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2164	-23.8	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564722		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2165	-23.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564724		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2171	-23.9	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564725		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2173	-20.3	0.04	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564726		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2401	-23.3	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564727		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2402	-27.6	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564729		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0655	-25.2	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564730		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0656	-22.9	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564731		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0657	-10.1	0.09	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564732		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0659	-13.3	0.07	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564733		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0663	-21.0	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564734		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0726	-22.1	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564735		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0728	-21.3	0.03	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5564736		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	TG0785	-25.5	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5566449		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	POL161	-23.1	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5577008		PRJEB31621	Ancient cattle genomics of the Near East.	SIKUNKU000000000005	-3.6	0.12	unlabelled	taurine_pole	unknown
+SAMEA5577009		PRJEB31621	Ancient cattle genomics of the Near East.	LAGUNKM000000000040	18.9	0.23	unlabelled	taurine_pole	unknown
+SAMEA5577010		PRJEB31621	Ancient cattle genomics of the Near East.	Thar1	186.1	1.07	unlabelled	indicine_pole	unknown
+SAMEA5577011		PRJEB31621	Ancient cattle genomics of the Near East.	Sha_3b	221.5	1.25	unlabelled	indicine_pole	unknown
+SAMEA5577012		PRJEB31621	Ancient cattle genomics of the Near East.	WAGIRLM000000000001	-20.4	0.03	unlabelled	taurine_pole	unknown
+SAMEA5577149		PRJEB31621	Ancient cattle genomics of the Near East.	HARINDF000000000003	211.2	1.2	unlabelled	indicine_pole	unknown
+SAMEA5577150		PRJEB31621	Ancient cattle genomics of the Near East.	HLAGBRM000000008059	-27.5	-0.0	unlabelled	taurine_pole	unknown
+SAMEA5577151		PRJEB31621	Ancient cattle genomics of the Near East.	SOMTGOF000000003437	-0.8	0.13	unlabelled	taurine_pole	unknown
+SAMEA5577153		PRJEB31621	Ancient cattle genomics of the Near East.	ALNPRTM000000000012	-19.8	0.04	unlabelled	taurine_pole	unknown
+SAMEA5605818		PRJEB31621	Ancient cattle genomics of the Near East.	SAR1	49.8	0.39	unlabelled	admixed	unknown
+SAMEA5714982		PRJEB32696	Sperm DNA damage causes genomic instability in ear	BovineSperm	-22.9	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827933		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	ae033552-9af1-11e8-8883-3c4a9275d6c8	-18.7	0.04	unlabelled	taurine_pole	unknown
+SAMEA4827934		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	ae84c3c4-9af1-11e8-8883-3c4a9275d6c8	-18.8	0.04	unlabelled	taurine_pole	unknown
+SAMEA4827939		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	aeb93da2-9af1-11e8-8883-3c4a9275d6c8	-18.7	0.04	unlabelled	taurine_pole	unknown
+SAMEA4827943		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	aee93ad4-9af1-11e8-8883-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827944		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	aef47958-9af1-11e8-8883-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827949		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	af382ec8-9af1-11e8-8883-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827951		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	af539744-9af1-11e8-8883-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827952		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	af5e1480-9af1-11e8-8883-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4827958		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	ae292578-9af1-11e8-8883-3c4a9275d6c8	-18.7	0.04	unlabelled	taurine_pole	unknown
+SAMEA4827960		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	ae4ebedc-9af1-11e8-8883-3c4a9275d6c8	-18.7	0.04	unlabelled	taurine_pole	unknown
+SAMEA4827969		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	afbc1e5e-9af1-11e8-8883-3c4a9275d6c8	-23.0	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827970		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	afe1505c-9af1-11e8-8883-3c4a9275d6c8	-23.0	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827973		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	b0051154-9af1-11e8-8883-3c4a9275d6c8	-23.1	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827975		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	b01c86d6-9af1-11e8-8883-3c4a9275d6c8	-23.2	0.02	unlabelled	taurine_pole	unknown
+SAMEA4827982		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	b04baf74-9af1-11e8-8883-3c4a9275d6c8	-23.0	0.02	unlabelled	taurine_pole	unknown
+SAMEA4888497		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	7e9fe062-b108-11e8-8d78-3c4a9275d6c8	-18.7	0.04	unlabelled	taurine_pole	unknown
+SAMEA4888498		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	7eb24518-b108-11e8-8d78-3c4a9275d6c8	-21.3	0.03	unlabelled	taurine_pole	unknown
+SAMEA4888499		PRJEB28101	Cross_species_somatic_mutation_rate_project___cow	7ec33530-b108-11e8-8d78-3c4a9275d6c8	-23.1	0.02	unlabelled	taurine_pole	unknown
+SAMEA4560529		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA25018	-23.6	0.02	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560530		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA26324	-22.3	0.03	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560531		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA26731	-23.2	0.02	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560533		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA33181	-22.0	0.03	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560534		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA34421	-24.7	0.01	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560537		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA36768	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA4560540		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	DNA42797	-29.3	-0.01	swiss_SCBR_unlabelled	taurine_pole	holstein
+SAMEA6163175		PRJEB28191	Short read sequencing of cattle	BOV_162	-28.4	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163176		PRJEB28191	Short read sequencing of cattle	BOV_163	-18.6	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163177		PRJEB28191	Short read sequencing of cattle	BOV_164	-27.9	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163178		PRJEB28191	Short read sequencing of cattle	BOV_165	-26.3	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163179		PRJEB28191	Short read sequencing of cattle	BOV_166	-28.1	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163180		PRJEB28191	Short read sequencing of cattle	BOV_167	-25.6	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163181		PRJEB28191	Short read sequencing of cattle	BOV_168	-27.7	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163182		PRJEB28191	Short read sequencing of cattle	BOV_169	-28.6	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163183		PRJEB28191	Short read sequencing of cattle	BOV_170	-28.7	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163184		PRJEB28191	Short read sequencing of cattle	BOV_171	-24.4	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163186		PRJEB28191	Short read sequencing of cattle	BOV_174	-18.6	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163188		PRJEB28191	Short read sequencing of cattle	BOV_176	-26.4	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163190		PRJEB28191	Short read sequencing of cattle	BOV_178	-23.8	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163191		PRJEB28191	Short read sequencing of cattle	BOV_179	-22.9	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163194		PRJEB28191	Short read sequencing of cattle	BOV_182	-26.0	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163196		PRJEB28191	Short read sequencing of cattle	BOV-88	-27.9	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163197		PRJEB28191	Short read sequencing of cattle	BOV-89	-26.0	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6163198		PRJEB28191	Short read sequencing of cattle	BOV-90_1	-24.0	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMN08242229	Mangshi Zebu				166.6	0.97	indicine_or_african	indicine_pole	hereford
+SAMN08242323	Tibetan Cattle				10.5	0.19	taurine_other	taurine_pole	hereford
+SAMN08242327	Tibetan Cattle				6.7	0.17	taurine_other	taurine_pole	hereford
+SAMN08242330	Tibetan Cattle				27.5	0.28	taurine_other	admixed	hereford
+SAMEA5946758		PRJEB34325	Osteogenesis imperfecta in an embryo transfer Hols	OI_87206	-29.7	-0.01	unlabelled	taurine_pole	unknown
+SAMEA5946759		PRJEB34325	Osteogenesis imperfecta in an embryo transfer Hols	M_15295	-27.2	0.0	unlabelled	taurine_pole	unknown
+SAMEA6272082		PRJEB28191	Short read sequencing of cattle	BOV_112	-22.0	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272083		PRJEB28191	Short read sequencing of cattle	BOV_111	-10.2	0.09	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272084		PRJEB28191	Short read sequencing of cattle	BOV_110	-26.8	0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272085		PRJEB28191	Short read sequencing of cattle	BOV-51	-23.3	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272086		PRJEB28191	Short read sequencing of cattle	BOV-58	-16.2	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272087		PRJEB28191	Short read sequencing of cattle	BOV-57	-15.1	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272088		PRJEB28191	Short read sequencing of cattle	BOV-55	-20.1	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272089		PRJEB28191	Short read sequencing of cattle	BOV-54	-21.8	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272090		PRJEB28191	Short read sequencing of cattle	BOV-53	-28.4	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272091		PRJEB28191	Short read sequencing of cattle	BOV-52	-18.5	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272092		PRJEB28191	Short read sequencing of cattle	BOV-59	-24.9	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272093		PRJEB28191	Short read sequencing of cattle	BOV-56	-11.8	0.08	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272094		PRJEB28191	Short read sequencing of cattle	BOV-60	-28.8	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272095		PRJEB28191	Short read sequencing of cattle	BOV_124	-22.7	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272096		PRJEB28191	Short read sequencing of cattle	BOV_125	-25.3	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272097		PRJEB28191	Short read sequencing of cattle	BOV_126	-23.8	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272098		PRJEB28191	Short read sequencing of cattle	BOV_127	-26.1	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272099		PRJEB28191	Short read sequencing of cattle	BOV_128	-25.5	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272100		PRJEB28191	Short read sequencing of cattle	BOV-70	-20.3	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272101		PRJEB28191	Short read sequencing of cattle	BOV_130	-27.0	0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272102		PRJEB28191	Short read sequencing of cattle	BOV-69	-27.8	-0.0	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272103		PRJEB28191	Short read sequencing of cattle	BOV-66	-12.1	0.08	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272104		PRJEB28191	Short read sequencing of cattle	BOV_131	-16.8	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272105		PRJEB28191	Short read sequencing of cattle	BOV_132	-23.1	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272106		PRJEB28191	Short read sequencing of cattle	BOV_133	-26.1	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272107		PRJEB28191	Short read sequencing of cattle	BOV-68	-12.1	0.08	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272108		PRJEB28191	Short read sequencing of cattle	BOV_134	-24.4	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272109		PRJEB28191	Short read sequencing of cattle	BOV-67	-19.0	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272110		PRJEB28191	Short read sequencing of cattle	BOV-65	-16.1	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272111		PRJEB28191	Short read sequencing of cattle	BOV_135	-25.1	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272112		PRJEB28191	Short read sequencing of cattle	BOV-63	-29.3	-0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272113		PRJEB28191	Short read sequencing of cattle	BOV-64	-18.2	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272114		PRJEB28191	Short read sequencing of cattle	BOV-62	-22.9	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272115		PRJEB28191	Short read sequencing of cattle	BOV-61	-14.5	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272116		PRJEB28191	Short read sequencing of cattle	BOV_136	-25.8	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272117		PRJEB28191	Short read sequencing of cattle	ETH_HP_49	-8.3	0.1	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272118		PRJEB28191	Short read sequencing of cattle	BOV_93	-14.8	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272119		PRJEB28191	Short read sequencing of cattle	BOV_91	-21.3	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272120		PRJEB28191	Short read sequencing of cattle	BOV_94	-25.2	0.01	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272121		PRJEB28191	Short read sequencing of cattle	BOV_95	-15.3	0.06	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272122		PRJEB28191	Short read sequencing of cattle	BOV_98	-18.7	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272123		PRJEB28191	Short read sequencing of cattle	BOV_92	-23.2	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272124		PRJEB28191	Short read sequencing of cattle	BOV_97	-17.4	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272125		PRJEB28191	Short read sequencing of cattle	BOV_100	-19.5	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272126		PRJEB28191	Short read sequencing of cattle	BOV_96	-19.5	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272127		PRJEB28191	Short read sequencing of cattle	BOV_99	-20.7	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272128		PRJEB28191	Short read sequencing of cattle	BOV-87	-22.5	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272129		PRJEB28191	Short read sequencing of cattle	SAMP_1	-17.7	0.05	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272132		PRJEB28191	Short read sequencing of cattle	SAMP_2	-23.6	0.02	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272133		PRJEB28191	Short read sequencing of cattle	BOV-85	-21.9	0.03	ETH_unlabelled	taurine_pole	unknown
+SAMEA6272134		PRJEB28191	Short read sequencing of cattle	BOV-86	-18.4	0.04	ETH_unlabelled	taurine_pole	unknown
+SAMN03652922			Sample from Bos taurus		64.5	0.46	unlabelled	admixed	unknown
+SAMN03652923			Sample from Bos taurus		-26.8	0.0	unlabelled	taurine_pole	unknown
+SAMN03652924			Sample from Bos taurus		46.2	0.37	unlabelled	admixed	unknown
+SAMN03652925			Sample from Bos taurus		38.1	0.33	unlabelled	admixed	unknown
+SAMN03652926			Sample from Bos taurus		24.2	0.26	unlabelled	admixed	unknown
+SAMN03652927					38.5	0.33	unlabelled	admixed	unknown
+SAMN03652928			Sample from Bos taurus		28.8	0.28	unlabelled	admixed	unknown
+SAMN03652929			Sample from Bos taurus		62.2	0.45	unlabelled	admixed	unknown
+SAMN03652930			Sample from Bos taurus		47.8	0.38	unlabelled	admixed	unknown
+SAMN03652931			Sample from Bos taurus		59.8	0.44	unlabelled	admixed	unknown
+SAMN03652932			Sample from Bos taurus		42.9	0.35	unlabelled	admixed	unknown
+SAMN03652933			Sample from Bos taurus		60.1	0.44	unlabelled	admixed	unknown
+SAMN03652934			Sample from Bos taurus		23.5	0.26	unlabelled	admixed	unknown
+SAMN03652935			Sample from Bos taurus		74.0	0.51	unlabelled	admixed	unknown
+SAMN03652936			Sample from Bos taurus		47.6	0.38	unlabelled	admixed	unknown
+SAMN03652937			Sample from Bos taurus		40.6	0.34	unlabelled	admixed	unknown
+SAMN03652938			Sample from Bos taurus		35.2	0.31	unlabelled	admixed	unknown
+SAMN03652939			Sample from Bos taurus		54.6	0.41	unlabelled	admixed	unknown
+SAMN03652940			Sample from Bos taurus		45.5	0.37	unlabelled	admixed	unknown
+SAMN03652941			Sample from Bos taurus		30.2	0.29	unlabelled	admixed	unknown
+SAMN03652942			Sample from Bos taurus		44.7	0.36	unlabelled	admixed	unknown
+SAMN03652943			Sample from Bos taurus		74.4	0.51	unlabelled	admixed	unknown
+SAMN03652944			Sample from Bos taurus		25.4	0.26	unlabelled	admixed	unknown
+SAMN03652945			Sample from Bos taurus		49.0	0.38	unlabelled	admixed	unknown
+SAMN03652946			Sample from Bos taurus		13.2	0.2	unlabelled	taurine_pole	unknown
+SAMN03652947			Sample from Bos taurus		48.4	0.38	unlabelled	admixed	unknown
+SAMN03652948			Sample from Bos taurus		73.6	0.51	unlabelled	admixed	unknown
+SAMN03652949			Sample from Bos taurus		59.1	0.43	unlabelled	admixed	unknown
+SAMN03652950			Sample from Bos taurus		64.4	0.46	unlabelled	admixed	unknown
+SAMN03652951			Sample from Bos taurus		40.8	0.34	unlabelled	admixed	unknown
+SAMN03652952			Sample from Bos taurus		52.3	0.4	unlabelled	admixed	unknown
+SAMN03652953			Sample from Bos taurus		73.9	0.51	unlabelled	admixed	unknown
+SAMN03652954			Sample from Bos taurus		42.5	0.35	unlabelled	admixed	unknown
+SAMN03652955			Sample from Bos taurus		72.5	0.5	unlabelled	admixed	unknown
+SAMN03652956			Sample from Bos taurus		44.0	0.36	unlabelled	admixed	unknown
+SAMN03652957			Sample from Bos taurus		27.0	0.27	unlabelled	admixed	unknown
+SAMN03652958			Sample from Bos taurus		48.2	0.38	unlabelled	admixed	unknown
+SAMN03652959			Sample from Bos taurus		63.9	0.46	unlabelled	admixed	unknown
+SAMN03652960			Sample from Bos taurus		-27.2	0.0	unlabelled	taurine_pole	unknown
+SAMN03652961			Sample from Bos taurus		-25.7	0.01	unlabelled	taurine_pole	unknown
+SAMN03652962			Sample from Bos taurus		-27.6	-0.0	unlabelled	taurine_pole	unknown
+SAMN03652963			Sample from Bos taurus		-28.1	-0.0	unlabelled	taurine_pole	unknown
+SAMN03652964			Sample from Bos taurus		-26.0	0.01	unlabelled	taurine_pole	unknown
+SAMN03652965			Sample from Bos taurus		-28.2	-0.0	unlabelled	taurine_pole	unknown
+SAMN03652966			Sample from Bos taurus		-26.8	0.0	unlabelled	taurine_pole	unknown
+SAMN03652967			Sample from Bos taurus		-26.0	0.01	unlabelled	taurine_pole	unknown
+SAMN03652968			Sample from Bos taurus		-24.8	0.01	unlabelled	taurine_pole	unknown
+SAMN03652969			Sample from Bos taurus		-24.8	0.01	unlabelled	taurine_pole	unknown
+SAMN03652970			Sample from Bos taurus		-26.0	0.01	unlabelled	taurine_pole	unknown
+SAMN03652971			Sample from Bos taurus		-28.2	-0.0	unlabelled	taurine_pole	unknown
+SAMN03652972			Sample from Bos taurus		-27.3	0.0	unlabelled	taurine_pole	unknown
+SAMN03652973			Sample from Bos taurus		-27.1	0.0	unlabelled	taurine_pole	unknown
+SAMN03652974			Sample from Bos taurus		-28.5	-0.01	unlabelled	taurine_pole	unknown
+SAMN03652975			Sample from Bos taurus		-26.7	0.0	unlabelled	taurine_pole	unknown
+SAMN03652976			Sample from Bos taurus		-25.3	0.01	unlabelled	taurine_pole	unknown
+SAMN03652977			Sample from Bos taurus		-7.8	0.1	unlabelled	taurine_pole	unknown
+SAMN03652978			Sample from Bos taurus		-18.3	0.05	unlabelled	taurine_pole	unknown
+SAMN03652979			Sample from Bos taurus		-21.1	0.03	unlabelled	taurine_pole	unknown
+SAMN03652980			Sample from Bos taurus		-20.5	0.03	unlabelled	taurine_pole	unknown
+SAMN03652981			Sample from Bos taurus		-20.0	0.04	unlabelled	taurine_pole	unknown
+SAMN03652982			Sample from Bos taurus		-21.2	0.03	unlabelled	taurine_pole	unknown
+SAMN03652983			Sample from Bos taurus		-19.3	0.04	unlabelled	taurine_pole	unknown
+SAMN03652984			Sample from Bos taurus		-23.0	0.02	unlabelled	taurine_pole	unknown
+SAMN03652985			Sample from Bos taurus		-13.0	0.07	unlabelled	taurine_pole	unknown
+SAMN03652986			Sample from Bos taurus		-10.9	0.08	unlabelled	taurine_pole	unknown
+SAMN03652987			Sample from Bos taurus		-21.6	0.03	unlabelled	taurine_pole	unknown
+SAMN03652988			Sample from Bos taurus		108.8	0.68	unlabelled	admixed	unknown
+SAMN03652989			Sample from Bos taurus		151.5	0.9	unlabelled	indicine_pole	unknown
+SAMN03652990			Sample from Bos taurus		110.2	0.69	unlabelled	admixed	unknown
+SAMN03652991			Sample from Bos taurus		211.0	1.19	unlabelled	indicine_pole	unknown
+SAMN03652992			Sample from Bos taurus		204.0	1.16	unlabelled	indicine_pole	unknown
+SAMN03652993			Sample from Bos taurus		122.4	0.75	unlabelled	indicine_pole	unknown
+SAMN03652994			Sample from Bos taurus		132.5	0.8	unlabelled	indicine_pole	unknown
+SAMN03652995			Sample from Bos taurus		-10.1	0.09	unlabelled	taurine_pole	unknown
+SAMN03652996			Sample from Bos taurus		-12.7	0.07	unlabelled	taurine_pole	unknown
+SAMEA104055783		PRJEB12703	Rapid Discovery of De Novo Deleterious Mutations i	25663_NoIndex_L0021	-22.5	0.02	unlabelled	taurine_pole	unknown
+SAMEA5714973		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM2531	-25.9	0.01	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN01915351	Crossbred (50% Simmental, 50% Red Angus)				-22.6	0.02	crossbred_composite	taurine_pole	unknown
+SAMN01915340	Crossbred (50% Red Angus, 50% Limousin)				-25.2	0.01	crossbred_composite	taurine_pole	unknown
+SAMN01915348	Crossbred (50% South Devon, 25% Red Angus, 25% Gelbvieh)				-27.1	0.0	crossbred_composite	taurine_pole	unknown
+SAMN02941208	Crossbred (75% Gelbvieh, 25% Limousin)				-23.1	0.02	crossbred_composite	taurine_pole	unknown
+SAMN01915347	Crossbred (62.5% Red Angus, 37.5% Gelbvieh)				-24.6	0.01	crossbred_composite	taurine_pole	unknown
+SAMN02941226	Crossbred (50% Simmental, 50% Red Angus)				-24.8	0.01	crossbred_composite	taurine_pole	unknown
+SAMN02941227	Crossbred (50% Simmental, 25% Red Angus, 25% Angus)				-24.2	0.02	crossbred_composite	taurine_pole	unknown
+SAMN02941228	Crossbred (50% Simmental, 37.5% Red Angus, 12.5% Angus)				-26.5	0.0	crossbred_composite	taurine_pole	unknown
+SAMN02941211	Crossbred (50% Simmental, 25% Red Angus, 25% Charolais)				-26.7	0.0	crossbred_composite	taurine_pole	unknown
+SAMN02941212	Crossbred (37.5% Gelbvieh, 25% Red Angus, 12.5% Simmental, 12.5% Limousin)				-22.6	0.02	crossbred_composite	taurine_pole	unknown
+SAMN02941213	Crossbred (25% Red Angus, 25% Simmental, 25% Gelbvieh, 25% Hereford)				-24.2	0.02	crossbred_composite	taurine_pole	unknown
+SAMN02941214	Crossbred (62.5% Angus, 12.5% Simmental, 12.5% Gelbvieh, 12.5% Hereford)				-26.2	0.01	crossbred_composite	taurine_pole	unknown
+SAMEA3706824		PRJEB12093	Rapid Discovery of De Novo Deleterious Mutations i	RM695	-26.7	0.0	unlabelled	taurine_pole	holstein
+SAMEA32992918		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM403	-24.0	0.02	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMEA5159851		PRJEB18113	Swiss Comparative Bovine Resequencing (SCBR)	RM1635	-27.7	-0.0	swiss_SCBR_unlabelled	taurine_pole	unknown
+SAMN02941221	Crossbred (50% Simmental, 50% Angus)				-25.4	0.01	crossbred_composite	taurine_pole	unknown
+SAMN01915343	Crossbred (50% Simmental, 50% Angus)				-22.4	0.02	crossbred_composite	taurine_pole	unknown

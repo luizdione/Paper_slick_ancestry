@@ -1,0 +1,21 @@
+Allele	Distance band	Sites	Modal panel	Median posterior	Adjudicates?
+SLICK1	<1 kb	12	Iberian 4/5	0.24	no, near chance
+SLICK1	1-5 kb	216	N'Dama 4/5	0.74	yes
+SLICK1	5-10 kb	370	Iberian 2/5	1.00	yes
+SLICK1	10-20 kb	721	N'Dama 4/5	0.99	yes
+SLICK1	>20 kb	41	Iberian 5/5	0.19	no, near chance
+SLICK3	<1 kb	13	Iberian 1/1	0.24	no, near chance
+SLICK3	1-5 kb	213	Criollo 1/1	1.00	yes
+SLICK3	5-10 kb	372	Criollo 1/1	1.00	yes
+SLICK3	10-20 kb	720	Criollo 1/1	1.00	yes
+SLICK3	>20 kb	42	Iberian 1/1	0.19	no, near chance
+SLICK6	<1 kb	14	Iberian 3/3	0.24	no, near chance
+SLICK6	1-5 kb	211	Criollo 3/3	1.00	yes
+SLICK6	5-10 kb	373	Criollo 3/3	0.66	yes
+SLICK6	10-20 kb	718	Criollo 3/3	1.00	yes
+SLICK6	>20 kb	44	Iberian 3/3	0.19	no, near chance
+SLICK2	<1 kb	18	Ankole 17/22	0.34	no, near chance
+SLICK2	1-5 kb	209	N'Dama 18/22	0.89	yes
+SLICK2	5-10 kb	373	Ankole 9/22, N'Dama 9/22 (tie)	1.00	yes
+SLICK2	10-20 kb	715	N'Dama 11/22	0.97	yes
+SLICK2	>20 kb	45	Iberian 21/22	0.19	no, near chance

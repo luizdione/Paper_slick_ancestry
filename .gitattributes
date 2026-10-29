@@ -1,0 +1,5 @@
+# Tabelas de rotulos e resultados intermediarios: bytes exatos, sem conversao de fim de linha.
+# O arquivo de rotulos e lido como esta (ver README, "Label tables").
+tables/groups_*.tsv   -text
+tables/rotulos_*.tsv  -text
+tables/derived/**     -text

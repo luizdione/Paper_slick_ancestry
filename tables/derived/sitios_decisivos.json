@@ -1,0 +1,314 @@
+{
+ "limiar_log10": 0.5,
+ "alelos": {
+  "SLICK1": {
+   "so sinonimas": [
+    {
+     "copias": 4,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": -0.719,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 1,
+       "log10RV_eur_menos_afr": -0.803,
+       "freq": {
+        "IBERIAN": 0.125,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    },
+    {
+     "copias": 1,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.713,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.628,
+       "freq": {
+        "IBERIAN": 0.125,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ],
+   "so nao sinonimas": [
+    {
+     "copias": 4,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": -0.772,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 1,
+       "log10RV_eur_menos_afr": -0.711,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    },
+    {
+     "copias": 1,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.553,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "SLICK2": {
+   "so sinonimas": [
+    {
+     "copias": 18,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.471,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    },
+    {
+     "copias": 3,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.713,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.628,
+       "freq": {
+        "IBERIAN": 0.125,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    },
+    {
+     "copias": 1,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.471,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ],
+   "so nao sinonimas": [
+    {
+     "copias": 18,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.553,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    },
+    {
+     "copias": 3,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "BORAN",
+     "log10RV_total": 1.293,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.682,
+       "freq": {
+        "IBERIAN": 0.125,
+        "BORAN": 0.818
+       }
+      }
+     ]
+    },
+    {
+     "copias": 1,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.553,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "SLICK3": {
+   "so sinonimas": [
+    {
+     "copias": 1,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.713,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.628,
+       "freq": {
+        "IBERIAN": 0.125,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ],
+   "so nao sinonimas": [
+    {
+     "copias": 1,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "BORAN",
+     "log10RV_total": 1.293,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.682,
+       "freq": {
+        "IBERIAN": 0.125,
+        "BORAN": 0.818
+       }
+      }
+     ]
+    }
+   ]
+  },
+  "SLICK6": {
+   "so sinonimas": [
+    {
+     "copias": 3,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.713,
+     "n_sitios_chamados": 24,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39078000,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.628,
+       "freq": {
+        "IBERIAN": 0.125,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ],
+   "so nao sinonimas": [
+    {
+     "copias": 2,
+     "melhor_europeu": "IBERIAN",
+     "melhor_africano": "BORAN",
+     "log10RV_total": 1.293,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.682,
+       "freq": {
+        "IBERIAN": 0.125,
+        "BORAN": 0.818
+       }
+      }
+     ]
+    },
+    {
+     "copias": 1,
+     "melhor_europeu": "EUR_TAURINE",
+     "melhor_africano": "NDAMA",
+     "log10RV_total": 0.553,
+     "n_sitios_chamados": 32,
+     "n_sitios_decisivos": 1,
+     "decisivos": [
+      {
+       "pos": 39077999,
+       "alelo": 0,
+       "log10RV_eur_menos_afr": 0.614,
+       "freq": {
+        "EUR_TAURINE": 0.154,
+        "NDAMA": 0.794
+       }
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

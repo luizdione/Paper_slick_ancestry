@@ -1,0 +1,217 @@
+{
+ "bordas_pb": [
+  0,
+  1000,
+  5000,
+  10000,
+  20000,
+  1000000000
+ ],
+ "alelos": [
+  {
+   "alelo": "SLICK1",
+   "pos": 39099213,
+   "n_haplotipos": 5,
+   "ancora_codificante": "NDAMA:4 EUR_TAURINE:1",
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 12,
+     "atribuicao": {
+      "NDAMA": 4,
+      "ANKOLE": 1
+     },
+     "posterior_mediana": 0.2508198638551685
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 216,
+     "atribuicao": {
+      "NDAMA": 4,
+      "CRIOLLO": 1
+     },
+     "posterior_mediana": 0.8102146332474368
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 370,
+     "atribuicao": {
+      "EUR_TAURINE": 3,
+      "NDAMA": 1,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.9167661974957036
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 721,
+     "atribuicao": {
+      "NDAMA": 4,
+      "BORAN": 1
+     },
+     "posterior_mediana": 0.9895142758577761
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 41,
+     "atribuicao": {
+      "CRIOLLO": 5
+     },
+     "posterior_mediana": 0.2244741203426481
+    }
+   ]
+  },
+  {
+   "alelo": "SLICK2",
+   "pos": 39099321,
+   "n_haplotipos": 24,
+   "ancora_codificante": "EUR_TAURINE:22 CRIOLLO:2",
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 18,
+     "atribuicao": {
+      "ANKOLE": 19,
+      "CRIOLLO": 5
+     },
+     "posterior_mediana": 0.3441441438879541
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 209,
+     "atribuicao": {
+      "NDAMA": 20,
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.8874898290785654
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 373,
+     "atribuicao": {
+      "ANKOLE": 9,
+      "NDAMA": 9,
+      "CRIOLLO": 6
+     },
+     "posterior_mediana": 0.9969908291751002
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 715,
+     "atribuicao": {
+      "CRIOLLO": 12,
+      "NDAMA": 11,
+      "ANKOLE": 1
+     },
+     "posterior_mediana": 0.9816734622049306
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 45,
+     "atribuicao": {
+      "CRIOLLO": 22,
+      "EUR_TAURINE": 1,
+      "ANKOLE": 1
+     },
+     "posterior_mediana": 0.22794136164972467
+    }
+   ]
+  },
+  {
+   "alelo": "SLICK3",
+   "pos": 39099226,
+   "n_haplotipos": 2,
+   "ancora_codificante": "EUR_TAURINE:1 CRIOLLO:1",
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 13,
+     "atribuicao": {
+      "NDAMA": 2
+     },
+     "posterior_mediana": 0.2535438054027121
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 213,
+     "atribuicao": {
+      "CRIOLLO": 2
+     },
+     "posterior_mediana": 0.9999471074543979
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 372,
+     "atribuicao": {
+      "CRIOLLO": 2
+     },
+     "posterior_mediana": 0.999998966733676
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 720,
+     "atribuicao": {
+      "CRIOLLO": 2
+     },
+     "posterior_mediana": 0.9999999903447214
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 42,
+     "atribuicao": {
+      "CRIOLLO": 2
+     },
+     "posterior_mediana": 0.22536390458211733
+    }
+   ]
+  },
+  {
+   "alelo": "SLICK6",
+   "pos": 39099267,
+   "n_haplotipos": 4,
+   "ancora_codificante": "EUR_TAURINE:4",
+   "introns_por_distancia": [
+    {
+     "faixa": "<1 kb",
+     "n_sitios": 14,
+     "atribuicao": {
+      "NDAMA": 4
+     },
+     "posterior_mediana": 0.2548366815283769
+    },
+    {
+     "faixa": "1-5 kb",
+     "n_sitios": 211,
+     "atribuicao": {
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.9999999673550373
+    },
+    {
+     "faixa": "5-10 kb",
+     "n_sitios": 373,
+     "atribuicao": {
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.9789505279902042
+    },
+    {
+     "faixa": "10-20 kb",
+     "n_sitios": 718,
+     "atribuicao": {
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.9999880195749935
+    },
+    {
+     "faixa": ">20 kb",
+     "n_sitios": 44,
+     "atribuicao": {
+      "CRIOLLO": 4
+     },
+     "posterior_mediana": 0.23121661067363233
+    }
+   ]
+  }
+ ]
+}

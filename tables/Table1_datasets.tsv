@@ -1,0 +1,8 @@
+Source	Data type	Contribution	Analysis it supports
+1000 Bull Genomes, Run 8 (PRJEB42783)	Whole-genome sequence, ARS-UCD1.2	1,842 animals	PRLR phasing and haplotype assignment; local ancestry and tract length over a 10 Mb window on BTA20
+ENA ERP150979	Whole-genome sequence	49 runs, 31 animals after technical duplicates were collapsed	Criollo carriers of SLICK2, SLICK3 and SLICK6; Criollo reference panel
+ENA PRJEB36894, PRJEB39353, PRJEB39924; SRA PRJNA604048	Whole-genome sequence	7 animals	N'Dama reference panel
+ENA PRJEB38981	Whole-genome sequence	7 Asturiana animals genotyped from their alignments; 4 phased, 2 with at least 40% of sites called used as references	Iberian reference panel for local ancestry
+CLARITY, doi:10.5281/zenodo.17909700 (Melzer et al. 2023)	Physical-genetic map, BTA20	Genetic positions for the 10 Mb window	Phasing and local ancestry over 10 Mb
+GEO GSE192471	Liver RNA-seq	7 animals	Senepol genotypes at the focal sites only; contributes no carrier haplotype
+Decker et al. 2014, Dryad 10.5061/dryad.th092	BovineSNP50 array	753 animals, 29,869 markers after quality control	Genome-wide ancestry: supervised ADMIXTURE and sNMF

@@ -10,6 +10,7 @@
 
 # 2) Re-allow only what should be published
 !/.gitignore
+!/.gitattributes
 !/README.md
 !/LICENSE
 !/requirements.txt
@@ -52,3 +53,11 @@
 **/desktop.ini
 **/.vscode/
 **/.idea/
+
+# backups de edicao em lote
+**/*.bak-*
+__pycache__/
+*.pyc
+
+# arquivos locais ocultos
+**/.*.txt
