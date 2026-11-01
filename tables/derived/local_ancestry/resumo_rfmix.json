@@ -2263,6 +2263,2047 @@
    }
   }
  },
+ "m3_g15": {
+  "janela_prlr": [
+   39096534,
+   39159593,
+   34.37,
+   34.45
+  ],
+  "n_janelas": 71,
+  "fb_posicao": 39099321,
+  "controles": {
+   "EUR_TAURINE": {
+    "n_hap": 20,
+    "certo_no_prlr": 20,
+    "fracao_media_do_proprio_painel": 1.0,
+    "detalhe": [
+     {
+      "hap": "SAMN02142993.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02142993.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941183.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941183.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941185.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941185.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941186.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941186.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941191.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941191.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941193.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941193.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941199.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941199.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05199706.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05199706.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216027.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216027.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216030.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216030.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     }
+    ]
+   },
+   "INDICINE": {
+    "n_hap": 20,
+    "certo_no_prlr": 19,
+    "fracao_media_do_proprio_painel": 0.911,
+    "detalhe": [
+     {
+      "hap": "SAMN05216066.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216066.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN06699049.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.928,
+       "TAURINO_EUROPEU": 0.072
+      }
+     },
+     {
+      "hap": "SAMN06699049.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.928,
+       "TAURINO_EUROPEU": 0.072
+      }
+     },
+     {
+      "hap": "SAMN06699059.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.899,
+       "TAURINO_EUROPEU": 0.101
+      }
+     },
+     {
+      "hap": "SAMN06699059.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.586,
+       "TAURINO_EUROPEU": 0.414
+      }
+     },
+     {
+      "hap": "SAMN06699061.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN06699061.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN06699069.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.872,
+       "TAURINO_EUROPEU": 0.128
+      }
+     },
+     {
+      "hap": "SAMN06699069.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435281.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 0.747,
+       "INDICINE": 0.198,
+       "TAURINO_AFRICANO": 0.055
+      }
+     },
+     {
+      "hap": "SAMN08435281.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.817,
+       "TAURINO_EUROPEU": 0.183
+      }
+     },
+     {
+      "hap": "SAMN08435287.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435287.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435298.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435298.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435311.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435311.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN10486401.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN10486401.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     }
+    ]
+   }
+  },
+  "africanos_misturados": {
+   "ANKOLE": {
+    "TAURINO_EUROPEU": 0.516,
+    "INDICINE": 0.285,
+    "TAURINO_AFRICANO": 0.199
+   },
+   "BORAN": {
+    "INDICINE": 0.668,
+    "TAURINO_EUROPEU": 0.191,
+    "TAURINO_AFRICANO": 0.141
+   },
+   "OGADEN": {
+    "INDICINE": 0.759,
+    "TAURINO_AFRICANO": 0.12,
+    "TAURINO_EUROPEU": 0.12
+   }
+  },
+  "fundo_criollo_nao_portador": {
+   "n_hap": 67,
+   "TAURINO_EUROPEU": 60,
+   "INDICINE": 7
+  },
+  "portadores": [
+   {
+    "amostra": "ERR12035115",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035115",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035117",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035119",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035119",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035121",
+    "hap": 1,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035132",
+    "hap": 1,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035135",
+    "hap": 1,
+    "alelos": [
+     "SLICK3"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035139",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035148",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035149",
+    "hap": 0,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035149",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035153",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035153",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035155",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035155",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035157",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035159",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035159",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166127",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 8.3,
+     "cm": 7.05,
+     "inicio": 34100281,
+     "fim": 42397873,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166128",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166128",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166129",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166129",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.31,
+     "cm": 3.88,
+     "inicio": 37793642,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166130",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 1.41,
+     "cm": 1.27,
+     "inicio": 37752280,
+     "fim": 39159593,
+     "na_borda": false
+    }
+   },
+   {
+    "amostra": "SAMN08166132",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166133",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166133",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213442",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.58,
+     "cm": 6.32,
+     "inicio": 34100281,
+     "fim": 40680243,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213442",
+    "hap": 1,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213443",
+    "hap": 1,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   }
+  ]
+ },
+ "m3_g150": {
+  "janela_prlr": [
+   39096534,
+   39159593,
+   34.37,
+   34.45
+  ],
+  "n_janelas": 259,
+  "fb_posicao": 39099321,
+  "controles": {
+   "EUR_TAURINE": {
+    "n_hap": 20,
+    "certo_no_prlr": 20,
+    "fracao_media_do_proprio_painel": 1.0,
+    "detalhe": [
+     {
+      "hap": "SAMN02142993.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02142993.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941183.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941183.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941185.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941185.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941186.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941186.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941191.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941191.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941193.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941193.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941199.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN02941199.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05199706.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05199706.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216027.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216027.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216030.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216030.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 1.0
+      }
+     }
+    ]
+   },
+   "INDICINE": {
+    "n_hap": 20,
+    "certo_no_prlr": 17,
+    "fracao_media_do_proprio_painel": 0.893,
+    "detalhe": [
+     {
+      "hap": "SAMN05216066.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN05216066.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN06699049.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "INDICINE": 0.784,
+       "TAURINO_EUROPEU": 0.216
+      }
+     },
+     {
+      "hap": "SAMN06699049.1",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "INDICINE": 0.784,
+       "TAURINO_EUROPEU": 0.216
+      }
+     },
+     {
+      "hap": "SAMN06699059.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.899,
+       "TAURINO_EUROPEU": 0.101
+      }
+     },
+     {
+      "hap": "SAMN06699059.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.586,
+       "TAURINO_EUROPEU": 0.414
+      }
+     },
+     {
+      "hap": "SAMN06699061.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN06699061.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.921,
+       "TAURINO_EUROPEU": 0.079
+      }
+     },
+     {
+      "hap": "SAMN06699069.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.872,
+       "TAURINO_EUROPEU": 0.128
+      }
+     },
+     {
+      "hap": "SAMN06699069.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435281.0",
+      "prlr": "TAURINO_EUROPEU",
+      "genoma": {
+       "TAURINO_EUROPEU": 0.747,
+       "INDICINE": 0.208,
+       "TAURINO_AFRICANO": 0.045
+      }
+     },
+     {
+      "hap": "SAMN08435281.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 0.815,
+       "TAURINO_EUROPEU": 0.185
+      }
+     },
+     {
+      "hap": "SAMN08435287.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435287.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435298.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435298.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435311.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN08435311.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN10486401.0",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     },
+     {
+      "hap": "SAMN10486401.1",
+      "prlr": "INDICINE",
+      "genoma": {
+       "INDICINE": 1.0
+      }
+     }
+    ]
+   }
+  },
+  "africanos_misturados": {
+   "ANKOLE": {
+    "TAURINO_EUROPEU": 0.477,
+    "INDICINE": 0.269,
+    "TAURINO_AFRICANO": 0.254
+   },
+   "BORAN": {
+    "INDICINE": 0.629,
+    "TAURINO_EUROPEU": 0.21,
+    "TAURINO_AFRICANO": 0.161
+   },
+   "OGADEN": {
+    "INDICINE": 0.69,
+    "TAURINO_EUROPEU": 0.164,
+    "TAURINO_AFRICANO": 0.146
+   }
+  },
+  "fundo_criollo_nao_portador": {
+   "n_hap": 67,
+   "TAURINO_EUROPEU": 60,
+   "INDICINE": 7
+  },
+  "portadores": [
+   {
+    "amostra": "ERR12035115",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551464,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035115",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551272,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035117",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035119",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551464,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035119",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551272,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035121",
+    "hap": 1,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035132",
+    "hap": 1,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035135",
+    "hap": 1,
+    "alelos": [
+     "SLICK3"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035139",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035148",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035149",
+    "hap": 0,
+    "alelos": [
+     "SLICK6"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035149",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035153",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551464,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035153",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551272,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035155",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035155",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035157",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035159",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.55,
+     "cm": 6.3,
+     "inicio": 34100281,
+     "fim": 40650095,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "ERR12035159",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166127",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 8.73,
+     "cm": 7.18,
+     "inicio": 34100281,
+     "fim": 42834663,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166128",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.41,
+     "cm": 6.24,
+     "inicio": 34100281,
+     "fim": 40509347,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166128",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166129",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.94,
+     "cm": 4.49,
+     "inicio": 37163846,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166129",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 3.73,
+     "cm": 2.95,
+     "inicio": 37691209,
+     "fim": 41417629,
+     "na_borda": false
+    }
+   },
+   {
+    "amostra": "SAMN08166130",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 1.47,
+     "cm": 1.29,
+     "inicio": 37686438,
+     "fim": 39159593,
+     "na_borda": false
+    }
+   },
+   {
+    "amostra": "SAMN08166132",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166133",
+    "hap": 0,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551464,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN08166133",
+    "hap": 1,
+    "alelos": [
+     "SLICK2"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": false,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 6.45,
+     "cm": 6.25,
+     "inicio": 34100281,
+     "fim": 40551464,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213442",
+    "hap": 0,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 5.2,
+     "cm": 5.14,
+     "inicio": 34100281,
+     "fim": 39299998,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213442",
+    "hap": 1,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 10.0,
+     "cm": 7.63,
+     "inicio": 34100281,
+     "fim": 44099958,
+     "na_borda": true
+    }
+   },
+   {
+    "amostra": "SAMN09213443",
+    "hap": 1,
+    "alelos": [
+     "SLICK1"
+    ],
+    "prlr": "TAURINO_EUROPEU",
+    "posterior": {
+     "INDICINE": 0.0,
+     "TAURINO_AFRICANO": 0.0,
+     "TAURINO_EUROPEU": 1.0
+    },
+    "exon2_alt": true,
+    "trato": {
+     "ancestralidade": "TAURINO_EUROPEU",
+     "mb": 7.84,
+     "cm": 6.78,
+     "inicio": 34100281,
+     "fim": 41938479,
+     "na_borda": true
+    }
+   }
+  ]
+ },
  "sensibilidade_G": {
   "g15": {
    "SLICK2": {

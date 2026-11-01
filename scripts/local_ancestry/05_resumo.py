@@ -7,7 +7,9 @@
   2. FUNDO: ancestralidade dos haplotipos Criollo NAO portadores na janela do PRLR.
   3. PORTADORES: chamada e posterior na janela do PRLR, comprimento do trato de mesma
      ancestralidade em torno do locus, e o alelo da variante do exon 2 (39.077.999) ao lado.
-  4. SENSIBILIDADE: a chamada dos portadores com -G 15 e -G 150.
+  4. SENSIBILIDADE: a chamada dos portadores com -G 15 e -G 150 (4 vias, g15/g150) e, se
+     04d_rfmix_3vias_sensibilidade.sh tiver rodado, a configuracao de 3 vias inteira com -G 15 e
+     -G 150 (m3_g15/m3_g150: controles, fundo e portadores, como na m3).
 
 Saida: `$SLICK_DATA_DIR/lai10mb/rfmix/resumo_rfmix.json` + impressao.
 """
@@ -107,7 +109,10 @@ def main():
         gt[int(c[0])] = {s: g.split("|") for s, g in zip(amostras, c[1:])}
     rel = {}
 
-    for nome in ("m4", "m3", "c4"):
+    execucoes = ("m4", "m3", "c4") + tuple(n for n in ("m3_g15", "m3_g150")
+                                          if (R / f"{n}.msp.tsv").exists())
+    for nome in execucoes:
+        tres_vias = nome.startswith("m3")
         haps, jan = le_msp(nome)
         post, pos_fb = le_fb_no_prlr(nome)
         i0 = janela_prlr(jan)
@@ -129,9 +134,9 @@ def main():
         if ctrl:
             r["controles"] = {}
             for pan, lst in ctrl.items():
-                certo_prlr = sum(x["prlr"] == pan or (nome == "m3" and pan == "EUR_TAURINE"
+                certo_prlr = sum(x["prlr"] == pan or (tres_vias and pan == "EUR_TAURINE"
                                  and x["prlr"] == "TAURINO_EUROPEU") for x in lst)
-                med = sum(x["genoma"].get(pan if nome != "m3" else
+                med = sum(x["genoma"].get(pan if not tres_vias else
                           {"EUR_TAURINE": "TAURINO_EUROPEU", "IBERIAN": "TAURINO_EUROPEU",
                            "NDAMA": "TAURINO_AFRICANO"}.get(pan, pan), 0) for x in lst) / len(lst)
                 r["controles"][pan] = {"n_hap": len(lst), "certo_no_prlr": certo_prlr,

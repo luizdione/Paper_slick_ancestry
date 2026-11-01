@@ -132,7 +132,9 @@ bash   /s/03_merge_fase.sh        # [c] merge with Run 8 and the focal sites; BE
 python scripts/local_ancestry/04a_rotulos.py   # reference panels, queries, held-out controls
 bash   /s/04b_rfmix.sh            # [c] 3-way and 4-way runs, controls, -G sensitivity
 bash   /s/04c_rfmix_5vias.sh      # [c] 5-way run with an Asian taurine panel
+bash   /s/04d_rfmix_3vias_sensibilidade.sh   # [c] 3-way runs at -G 15 and -G 150
 python scripts/local_ancestry/05_resumo.py     # controls first, then background and carriers
+                                               # (also reads the 3-way -G runs when present)
 bash   /s/06a_hap_1mb.sh          # [c] phased haplotypes, 1 Mb around PRLR
 python scripts/local_ancestry/06_vizinho.py    # nearest-neighbour differences
 python scripts/local_ancestry/07_validacao.py  # internal simulation accuracy per panel
